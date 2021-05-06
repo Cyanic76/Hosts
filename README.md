@@ -16,7 +16,7 @@ To add new hosts, [create a new issue](https://github.com/Cyanic76/Hosts/issues/
 
 ### Statistics
 
-A total of **1** hosts are blocked yet.
+Not calculated lol
 
 ---
 Project maintained by [Cyanic76](https://github.com/Cyanic76).

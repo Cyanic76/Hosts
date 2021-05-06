@@ -5,4 +5,242 @@
 ! License: CC BY-NC-SA 4.0
 ! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt
 
+# Last updated: May 6, 2021 (06-05-2021)
+
+# Local
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Amazon
+0.0.0.0 aan.amazon.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 assoc-amazon.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 amazon-adsystem.com
+
+# Analytics
+0.0.0.0 analytics.facebook.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 analytics.pointdrive.linkedin.com
+0.0.0.0 analytics.tiktok.comet
+0.0.0.0 analytics.twitter.com
+0.0.0.0 cloudflareinsights.com
+0.0.0.0 events.redditmedia.com
+0.0.0.0 fastly-insights.net
+0.0.0.0 google-analytics.com
+0.0.0.0 googleoptimize.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 googletagservices.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 opus.analytics.yahoo.com
+0.0.0.0 qualtrics.com
+0.0.0.0 quantserve.com
+0.0.0.0 sp.analytics.yahoo.com
+0.0.0.0 statcounter.com
+0.0.0.0 stats.redditmedia.com
+0.0.0.0 stats.wp.com
+
+# Baidu
+0.0.0.0 baidu.com
+
+# Cookies
+0.0.0.0 consensu.org
+0.0.0.0 cookielaw.org
+0.0.0.0 nocookie.net
+0.0.0.0 uniconsent.com
+
+# Click
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 cdn.fastclick.net
+0.0.0.0 doubleclick.net
+0.0.0.0 media.fastclick.net
+
+# Errors
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 bugsnag.com
+
+# Facebook
+0.0.0.0 ads.facebook.com
+0.0.0.0 pixel.facebook.com
+
+# Google Ads
 0.0.0.0 ads.google.com
+0.0.0.0 adservice.google.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 pagead2.googlesyndication.com
+
+# Luckyorange
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 cs.luckyorange.com
+0.0.0.0 settings.luckyorange.com
+0.0.0.0 upload.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+
+# Other ads
+0.0.0.0 abtasty.com
+0.0.0.0 adobedtm.com
+0.0.0.0 adinplay.com
+0.0.0.0 ads.linkedin.com
+0.0.0.0 ads.reddit.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 adservetx.media.net
+0.0.0.0 ads-twitter.com
+0.0.0.0 carbonads.com
+0.0.0.0 cleverads.vn
+0.0.0.0 doubleclick.net
+0.0.0.0 feedroll.com
+0.0.0.0 freshmarketer.com
+0.0.0.0 media.net
+0.0.0.0 moatads.com
+0.0.0.0 orangeads.fr
+0.0.0.0 pub.network
+0.0.0.0 rereddit.com
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 static.media.net
+0.0.0.0 taboola.com
+0.0.0.0 youtube.cleverads.vn
+
+# Other hosts
+# These hosts usually don't break the site when blocked, so that means they're useless.
+0.0.0.0 a.mouseflow.com
+0.0.0.0 facebook.net
+0.0.0.0 hotjar.com
+0.0.0.0 mediavoice.com
+0.0.0.0 mouseflow.com
+0.0.0.0 optimizely.com
+0.0.0.0 parsely.com
+0.0.0.0 polyfill.io
+0.0.0.0 proxymedia.woopic.com
+0.0.0.0 sentry.io
+0.0.0.0 sentry-cdn.com
+0.0.0.0 sharethis.com
+0.0.0.0 speedcurve.com
+0.0.0.0 static.hotjar.com
+
+# Paywalls
+0.0.0.0 offerwall.yandex.net
+
+# Pinterest
+0.0.0.0 ads.pinterest.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 widgets.pinterest.com
+
+# Still can't belive why you would get ads in a system app preloaded on your phone but whatever
+0.0.0.0 ad.samsungadhub.com
+0.0.0.0 ad.samsungads.com
+0.0.0.0 ad.xiaomi.com
+0.0.0.0 ads.oppomobile.com
+0.0.0.0 analytics.oneplus.cn
+0.0.0.0 analytics.samsungknox.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 ata-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 bigdata.ssp.samsung.com
+0.0.0.0 click.oneplus.cn
+0.0.0.0 click.oneplus.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 metrics.apple.com
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 metrics3.data.hicloud.com
+0.0.0.0 metrics4.data.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com 
+0.0.0.0 metrics.icloud.com
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 open.oneplus.net
+0.0.0.0 samsungads.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 supportmetrics.apple.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 tracking.india.miui.com
+0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.rus.miui.com
+0.0.0.0 trackingshipment.apple.com
+0.0.0.0 www.cdn.ad.xiaomi.com
+
+# Yahoo
+0.0.0.0 ads.yahoo.com
+0.0.0.0 ads.yap.yahoo.com
+0.0.0.0 adserver.yahoo.com
+0.0.0.0 adspecs.yahoo.com
+0.0.0.0 advertising.yahoo.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 analytics.yahoo.com
+0.0.0.0 bats.video.yahoo.com
+0.0.0.0 beap.gemini.yahoo.com
+0.0.0.0 br.adspecs.yahoo.com
+0.0.0.0 cms.analytics.yahoo.com
+0.0.0.0 comet.yahoo.com
+0.0.0.0 de.advertising.yahoo.com
+0.0.0.0 es.advertising.yahoo.com
+0.0.0.0 fr.advertising.yahoo.com
+0.0.0.0 ganon.yahoo.com
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 geo.query.yahoo.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 global.adserver.yahoo.com
+0.0.0.0 in.advertising.yahoo.com
+0.0.0.0 it.advertising.yahoo.com
+0.0.0.0 latam.adspecs.yahoo.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 m.yap.yahoo.com
+0.0.0.0 marketingsolutions.yahoo.com
+0.0.0.0 onepush.query.yahoo.com
+0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 pclick.yahoo.com
+0.0.0.0 sea.advertising.yahoo.com
+0.0.0.0 uk.advertising.yahoo.com
+0.0.0.0 us.adserver.yahoo.com
+0.0.0.0 ush.adspecs.yahoo.com
+0.0.0.0 visit.webhosting.yahoo.com
+
+# Yandex
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 adsdk.yandex.ru
+0.0.0.0 an.yandex.ru
+0.0.0.0 analytics.mobile.yandex.net
+0.0.0.0 appmetrica.yandex.net
+0.0.0.0 awaps.yandex.ru
+0.0.0.0 awsync.yandex.ru
+0.0.0.0 banners.mobile.yandex.net
+0.0.0.0 banners-slb.mobile.yandex.net
+0.0.0.0 click.sender.yandex.ru
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 grade.market.yandex.ru
+0.0.0.0 informer.yandex.ru
+0.0.0.0 kiks.yandex.ru
+0.0.0.0 mc.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 mobile.yandexadexchange.net
+0.0.0.0 redirect.appmetrica.yandex.com
+0.0.0.0 redirect.appmetrica.yandex.ru
+0.0.0.0 share.yandex.ru
+0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 yandexadexchange.net
