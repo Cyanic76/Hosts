@@ -29,8 +29,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 mads.amazon-adsystem.com
-0.0.0.0 amazon-adsystem.com
 
 # Analytics
 0.0.0.0 analytics.facebook.com
