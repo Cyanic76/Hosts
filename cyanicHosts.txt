@@ -1,0 +1,8 @@
+! Title: Cyanic's Hosts list
+! Expires: 1 days
+! Description: A list of advertising, analytics and tracking hosts.
+! Homepage: https://github.com/Cyanic76/Hosts
+! License: CC BY-NC-SA 4.0
+! Source: ...
+
+0.0.0.0 ads.google.com
