@@ -3,6 +3,6 @@
 ! Description: A list of advertising, analytics and tracking hosts.
 ! Homepage: https://github.com/Cyanic76/Hosts
 ! License: CC BY-NC-SA 4.0
-! Source: ...
+! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt
 
 0.0.0.0 ads.google.com

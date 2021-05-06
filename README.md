@@ -6,7 +6,7 @@ This is pretty much my personal blocked hosts list.
 
 ### Get the hosts list running
 
-Instructions are coming soon
+Add [this url](https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt) to your adblock so it can automatically download and keep it updated.
 
 ### Adding new hosts
 
@@ -16,7 +16,7 @@ To add new hosts, [create a new issue](https://github.com/Cyanic76/Hosts/issues/
 
 ### Statistics
 
-A total of **0** hosts are blocked yet.
+A total of **1** hosts are blocked yet.
 
 ---
 Project maintained by [Cyanic76](https://github.com/Cyanic76).
