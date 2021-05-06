@@ -91,6 +91,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 upload.luckyorange.com
 0.0.0.0 w1.luckyorange.com
 
+# Mozilla
+0.0.0.0 incoming.telemetry.mozilla.com
+0.0.0.0 telemetry.mozilla.com
+
 # Other ads
 0.0.0.0 abtasty.com
 0.0.0.0 adobedtm.com
