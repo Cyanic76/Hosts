@@ -78,11 +78,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.facebook.com
 0.0.0.0 pixel.facebook.com
 
-# Google Ads
+# Google
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
 0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.co0
+0.0.0.0 sa-in-f188.1e100.net
+0.0.0.0 tg-in-f188.1e100.net
+0.0.0.0 wl-in-f188.1e100.net
 
 # Luckyorange
 0.0.0.0 cdn.luckyorange.com
