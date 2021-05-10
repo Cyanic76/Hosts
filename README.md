@@ -6,7 +6,7 @@ This is pretty much my personal blocked hosts list.
 
 ### Get the hosts list running
 
-Add [this url](https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt) to your adblock so it can automatically download and keep it updated.
+Add [this url](https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt) to your adblock so it can automatically download and keep it updated. Normally, you should update it daily or [subscribe to new releases notifications by mail](https://docs.github.com/en/github/managing-subscriptions-and-notifications-on-github/setting-up-notifications).
 
 ### Adding new hosts
 
