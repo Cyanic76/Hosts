@@ -41,11 +41,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 fastly-insights.net
-0.0.0.0 google-analytics.com
-0.0.0.0 googleoptimize.com
-0.0.0.0 googlesyndication.com
-0.0.0.0 googletagmanager.com
-0.0.0.0 googletagservices.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 qualtrics.com
@@ -81,11 +76,19 @@ ff02::3 ip6-allhosts
 # Google
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
+0.0.0.0 google-analytics.com
+0.0.0.0 googleoptimize.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 googletagservices.com
 0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 pagead2.googlesyndication.co0
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pf-in-f188.1e100.net
 0.0.0.0 sa-in-f188.1e100.net
 0.0.0.0 tg-in-f188.1e100.net
+0.0.0.0 wa-in-f188.1e100.net
 0.0.0.0 wl-in-f188.1e100.net
+0.0.0.0 wq-in-f188.1e100.net
 
 # Luckyorange
 0.0.0.0 cdn.luckyorange.com
