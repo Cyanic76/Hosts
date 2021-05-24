@@ -20,7 +20,7 @@ Please tell me more in a [new issue](https://github.com/Cyanic76/Hosts/issues/ne
 
 ### Statistics
 
-**Over 200** hosts are blocked.
+As of 1.6, **over 370** hosts are blocked.
 
 ---
 Project maintained by [Cyanic76](https://github.com/Cyanic76).
