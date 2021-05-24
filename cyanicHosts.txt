@@ -205,7 +205,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com.nsatc.net
-0.0.0.0 www.bing.com/proactive
 
 # Mozilla
 0.0.0.0 incoming.telemetry.mozilla.com
