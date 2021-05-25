@@ -2,10 +2,9 @@
 ! Expires: 1 days
 ! Description: A list of advertising, analytics and tracking hosts.
 ! Homepage: https://github.com/Cyanic76/Hosts
-! License: CC BY-NC-SA 4.0
 ! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt
 
-# Last updated: May 6, 2021 (06-05-2021)
+# Last updated: May 25, 2021 (25-05-2021)
 
 # Local
 127.0.0.1 localhost
