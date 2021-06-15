@@ -300,6 +300,38 @@ ff02::3 ip6-allhosts
 0.0.0.0 speedcurve.com
 0.0.0.0 static.hotjar.com
 
+# Other trackers
+0.0.0.0 9emn.com
+0.0.0.0 admdftjs.info
+0.0.0.0 adserv.info
+0.0.0.0 bighop.com
+0.0.0.0 blyjh.com
+0.0.0.0 deal24.lv
+0.0.0.0 filter.com
+0.0.0.0 frz.io
+0.0.0.0 funbe.rjifxuqoo
+0.0.0.0 horizonme.net
+0.0.0.0 hub2.com.pl
+0.0.0.0 isso.ps
+0.0.0.0 ladepeche.fr
+0.0.0.0 lmhorse.se
+0.0.0.0 m1e.net
+0.0.0.0 madinad.com
+0.0.0.0 mypic.icu
+0.0.0.0 newscloud.or.kr
+0.0.0.0 nrs-group.com
+0.0.0.0 over.net
+0.0.0.0 pantip.com
+0.0.0.0 pornozot.com
+0.0.0.0 robwu.nl
+0.0.0.0 sc386.com
+0.0.0.0 sun.mv
+0.0.0.0 travelncs.com
+0.0.0.0 tzwaw.pw
+0.0.0.0 vogozaw.ru
+0.0.0.0 webdesignerdepot.com
+0.0.0.0 z4y.pl
+
 # Paywalls
 0.0.0.0 offerwall.yandex.net
 
