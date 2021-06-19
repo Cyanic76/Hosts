@@ -267,6 +267,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.youtube.com
 0.0.0.0 adservetx.media.net
 0.0.0.0 ads-twitter.com
+0.0.0.0 adthrive.com
 0.0.0.0 carbonads.com
 0.0.0.0 cleverads.vn
 0.0.0.0 doubleclick.net
