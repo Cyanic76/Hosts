@@ -4,8 +4,6 @@
 ! Homepage: https://github.com/Cyanic76/Hosts
 ! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt
 
-# Last updated: May 25, 2021 (25-05-2021)
-
 # Local
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
