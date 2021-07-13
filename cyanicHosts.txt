@@ -320,6 +320,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 filter.com
 0.0.0.0 frz.io
 0.0.0.0 funbe.rjifxuqoo
+0.0.0.0 gcm.ctnsnet.com
 0.0.0.0 horizonme.net
 0.0.0.0 hub2.com.pl
 0.0.0.0 isso.ps
@@ -337,6 +338,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 robwu.nl
 0.0.0.0 sc386.com
 0.0.0.0 sun.mv
+0.0.0.0 tracker.yougov.com
 0.0.0.0 travelncs.com
 0.0.0.0 tzwaw.pw
 0.0.0.0 vogozaw.ru
