@@ -260,6 +260,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 adengage.com
 0.0.0.0 adetracking.com
 0.0.0.0 adf.ly
+0.0.0.0 adnext.fr
+0.0.0.0 adnxs-simple.com
 0.0.0.0 ads-click.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads.deviantart.com
