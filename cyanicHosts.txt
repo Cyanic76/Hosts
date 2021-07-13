@@ -399,6 +399,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 location-inference-westus.cloudapp.net
 0.0.0.0 win.data.microsoft.com/collect/v1
 
+# Xiti
+0.0.0.0 logs1187.xiti.com
+0.0.0.0 xiti.com
+
 # Yahoo
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
