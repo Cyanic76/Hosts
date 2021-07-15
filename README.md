@@ -6,21 +6,15 @@ This is pretty much my personal blocked hosts list.
 
 ### Get the hosts list running
 
-Add [this url](https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt) to your adblock so it can automatically download and keep it updated. Normally, you should update it daily or [subscribe to new releases notifications by mail](https://docs.github.com/en/github/managing-subscriptions-and-notifications-on-github/setting-up-notifications).
+Add [this url](https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt) to your adblock (like Pi-Hole). Download it, and all of the hosts should be blocked.
 
-### Adding new hosts
+You should make your adblock check for updates daily, or as soon as I publish a new commit.
 
-To add new hosts, [create a new issue](https://github.com/Cyanic76/Hosts/issues/new) or fork the repo and add the hosts, then create a pull request.
+## Contributing
 
-### Did blocking a certain host just broke a website, service, app?
+Before filing a new issue or PR, [search in the existing ones](https://github.com/search?l=&q=is%3Aissue++repo%3ACyanic76%2FHosts&type=issues).
 
-Please tell me more in a [new issue](https://github.com/Cyanic76/Hosts/issues/new).
-
-## Other
-
-### Statistics
-
-As of 1.6, **over 370** hosts are blocked.
+If you can't find any issue related to yours, [create a new one](https://github.com/Cyanic76/Hosts/issues/new). If you wish to add new hosts on your own instead, fork the repo and create a PR.
 
 ---
-Project maintained by [Cyanic76](https://github.com/Cyanic76).
+Maintained by [Cyanic76](https://github.com/Cyanic76).
