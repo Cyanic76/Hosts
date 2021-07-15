@@ -16,5 +16,9 @@ Before filing a new issue or PR, [search in the existing ones](https://github.co
 
 If you can't find any issue related to yours, [create a new one](https://github.com/Cyanic76/Hosts/issues/new). If you wish to add new hosts on your own instead, fork the repo and create a PR.
 
+## Legal
+
+This file is free for **PERSONAL USE** only. Otherwise it's not permitted to copy, host any content on any other website with or without permission. I am not liable for any damage. Therefore, feel free to use [Issues](https://github.com/Cyanic76/Hosts/issues/new) to report problems. You are responsible for using this list.
+
 ---
 Maintained by [Cyanic76](https://github.com/Cyanic76).
