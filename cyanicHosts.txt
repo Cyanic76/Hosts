@@ -363,6 +363,7 @@ ff02::3 ip6-allhosts
 # These hosts usually don't break the site when blocked, so that means they're useless.
 0.0.0.0 a.mouseflow.com
 0.0.0.0 adlooxtracking.com
+0.0.0.0 contextual.sirdata.io
 0.0.0.0 data00.adlooxtracking.com
 0.0.0.0 dev-trackerapi.smartlify.com
 0.0.0.0 facebook.net
