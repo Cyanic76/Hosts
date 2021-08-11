@@ -1,5 +1,5 @@
 ! Title: Cyanic's Hosts list
-! Expires: 1 days
+! Expires: 5 days
 ! Description: A list of advertising, analytics and tracking hosts.
 ! Homepage: https://github.com/Cyanic76/Hosts
 ! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt
@@ -55,6 +55,7 @@ ff02::3 ip6-allhosts
 
 # Cookies
 0.0.0.0 consensu.org
+0.0.0.0 cookie.lmgssp.com
 0.0.0.0 cookielaw.org
 0.0.0.0 nocookie.net
 0.0.0.0 uniconsent.com
@@ -386,6 +387,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bighop.com
 0.0.0.0 blyjh.com
 0.0.0.0 deal24.lv
+0.0.0.0 dmxleo.com
 0.0.0.0 filter.com
 0.0.0.0 frz.io
 0.0.0.0 funbe.rjifxuqoo
@@ -404,8 +406,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 over.net
 0.0.0.0 pantip.com
 0.0.0.0 pornozot.com
+0.0.0.0 public-prod-dspcookiematching.dmxleo.com
 0.0.0.0 robwu.nl
 0.0.0.0 sc386.com
+0.0.0.0 sonic.impactify.media
 0.0.0.0 sun.mv
 0.0.0.0 tracker.yougov.com
 0.0.0.0 tracking.emerse.com
