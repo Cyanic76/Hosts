@@ -353,6 +353,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 prebid.ams1.adnxs-simple.com
 0.0.0.0 pub.network
 0.0.0.0 rereddit.com
+0.0.0.0 s2s.adjust.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.media.net
 0.0.0.0 taboola.com
@@ -384,6 +385,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 9emn.com
 0.0.0.0 admdftjs.info
 0.0.0.0 adserv.info
+0.0.0.0 api.gameanalytics.com
 0.0.0.0 b1-eudc1.zemanta.com
 0.0.0.0 bighop.com
 0.0.0.0 blyjh.com
@@ -409,6 +411,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pornozot.com
 0.0.0.0 public-prod-dspcookiematching.dmxleo.com
 0.0.0.0 robwu.nl
+0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 sc386.com
 0.0.0.0 sonic.impactify.media
 0.0.0.0 sun.mv
