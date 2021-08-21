@@ -4,6 +4,8 @@
 ! Homepage: https://github.com/Cyanic76/Hosts
 ! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt
 
+# Website not working? Open an issue at https://github.com/Cyanic76/Hosts/issues/new
+
 # Local
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -20,6 +22,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # Amazon subdomains
+# Those subdomains are blocked due to being used to collect analytics data, tracking and showing ads.
+
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 amazon-adsystem.com
@@ -28,7 +32,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 mads.amazon-adsystem.com
 
-# Analytics (does not include everything)
+# Analytics
+# Those domains and subdomains are tracking habits, collecting statistics and analytics data.
+# Some domains may be under other categories.
+
 0.0.0.0 analytics.facebook.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.pointdrive.linkedin.com
@@ -44,23 +51,33 @@ ff02::3 ip6-allhosts
 0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 qualtrics.com
 0.0.0.0 quantserve.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 scroll.com
+0.0.0.0 secure.quantserve.com
+0.0.0.0 skimresources.com
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 statcounter.com
+0.0.0.0 static.scroll.com
 0.0.0.0 stats.redditmedia.com
 0.0.0.0 stats.wp.com
 0.0.0.0 www.fastly-insights.com
 
 # Baidu
+
 0.0.0.0 baidu.com
 
-# Cookies (most cookie banners are hosted on those domains)
+# Cookies
+# Blacklisting those domains removes most of cookie banners.
+
 0.0.0.0 consensu.org
 0.0.0.0 cookie.lmgssp.com
 0.0.0.0 cookielaw.org
 0.0.0.0 nocookie.net
 0.0.0.0 uniconsent.com
 
-# Click & AddThis
+# DoubleClick, AddThis and Fastclick
+
 0.0.0.0 addthis.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 cdn.fastclick.net
@@ -68,11 +85,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 media.fastclick.net
 0.0.0.0 s7.addthis.com
 
-# Error reporting (does not include all)
+# Error reporting software (doesn't include everything)
+
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 bugsnag.com
 
 # Facebook
+
 0.0.0.0 ads.ak.facebook.com
 0.0.0.0 ads.facebook.com
 0.0.0.0 aktualizacjafacebooka.blogspot.com
@@ -123,9 +142,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.facebook.realtorarcf.com
 
 # Google
+
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
 0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleoptimize.com
 0.0.0.0 googlesyndication.com
@@ -143,7 +164,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 wq-in-f188.1e100.net
 
 # Hijacking?
-# I highly suspect the .access.network domain and subdomains trying to hijack most Internet traffic.
+# Those domains are suspected to hijack your Internet traffic and redirect it through other website to generate more money.
+
 0.0.0.0 1-dontsharethislink.celsoazevedo.com
 0.0.0.0 2.us.pool.ntp.org.access.network
 0.0.0.0 7-dontsharethislink.celsoazevedo.com
@@ -167,9 +189,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.celsoazevedo.com
 
 # IPs
+
 0.0.0.0 204.79.197.200
 
 # Luckyorange
+
 0.0.0.0 cdn.luckyorange.com
 0.0.0.0 cs.luckyorange.com
 0.0.0.0 settings.luckyorange.com
@@ -177,10 +201,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 w1.luckyorange.com
 
 # Malwarebytes Telemetry
+
 0.0.0.0 elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
 0.0.0.0 telemetry.malwarebytes.com
 
 # Microsoft
+
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
@@ -286,6 +312,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 win10.ipv6.microsoft.com.nsatc.net
 
 # Mopub
+
 0.0.0.0 a.r10.mopub.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 analytics.mopub.com
@@ -303,10 +330,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 s2.mopub.com
 
 # Mozilla
+
 0.0.0.0 incoming.telemetry.mozilla.com
 0.0.0.0 telemetry.mozilla.com
 
 # Other ads
+
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -358,6 +387,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-click.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads.deviantart.com
+0.0.0.0 ads.pro-market.net
 0.0.0.0 ads.smartclick.com
 0.0.0.0 ads.stackoverflow.com
 0.0.0.0 ads.sun.com
@@ -370,6 +400,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 carbonads.com
 0.0.0.0 cbs.taboola.com
 0.0.0.0 cleverads.vn
+0.0.0.0 contextual.media.net
 0.0.0.0 doubleclick.net
 0.0.0.0 feedroll.com
 0.0.0.0 freshmarketer.com
@@ -389,7 +420,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 youtube.cleverads.vn
 
 # Other hosts
-# These hosts usually don't break the site when blocked, so that means they're useless.
+# Blocking those domains/subdomains don't usually break websites. There's no reason not blacklisting them.
+
 0.0.0.0 a.mouseflow.com
 0.0.0.0 adlooxtracking.com
 0.0.0.0 combinatronics.io
@@ -413,6 +445,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.hotjar.com
 
 # Other trackers
+
 0.0.0.0 9emn.com
 0.0.0.0 admdftjs.info
 0.0.0.0 adserv.info
@@ -455,14 +488,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 z4y.pl
 
 # Paywalls
+
 0.0.0.0 offerwall.yandex.net
 
 # Pinterest
+
 0.0.0.0 ads.pinterest.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 widgets.pinterest.com
 
 # Still can't belive why you would get ads in a system app preloaded on your phone but whatever
+
 0.0.0.0 ad.samsungadhub.com
 0.0.0.0 ad.samsungads.com
 0.0.0.0 ad.intl.xiaomi.com
@@ -509,6 +545,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.cdn.ad.xiaomi.com
 
 # Vungle
+
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 api.vungle.akadns.net
 0.0.0.0 api.vungle.com
@@ -529,16 +566,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 vungle.com.edgekey.net
 
 # Windows
+
 0.0.0.0 choice.microsoft.com.nstac.net
 0.0.0.0 licensing.mp.microsoft.com
 0.0.0.0 location-inference-westus.cloudapp.net
 0.0.0.0 win.data.microsoft.com
 
 # Xiti
+
 0.0.0.0 logs1187.xiti.com
 0.0.0.0 xiti.com
 
 # Yahoo
+
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 adserver.yahoo.com
@@ -575,6 +615,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 visit.webhosting.yahoo.com
 
 # Yandex
+
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adsdk.yandex.ru
 0.0.0.0 an.yandex.ru
