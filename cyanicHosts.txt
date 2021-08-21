@@ -19,7 +19,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-# Amazon
+# Amazon subdomains
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 amazon-adsystem.com
@@ -28,7 +28,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 mads.amazon-adsystem.com
 
-# Analytics
+# Analytics (does not include everything)
 0.0.0.0 analytics.facebook.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.pointdrive.linkedin.com
@@ -53,14 +53,14 @@ ff02::3 ip6-allhosts
 # Baidu
 0.0.0.0 baidu.com
 
-# Cookies
+# Cookies (most cookie banners are hosted on those domains)
 0.0.0.0 consensu.org
 0.0.0.0 cookie.lmgssp.com
 0.0.0.0 cookielaw.org
 0.0.0.0 nocookie.net
 0.0.0.0 uniconsent.com
 
-# Click
+# Click & AddThis
 0.0.0.0 addthis.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 cdn.fastclick.net
@@ -68,7 +68,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 media.fastclick.net
 0.0.0.0 s7.addthis.com
 
-# Errors
+# Error reporting (does not include all)
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 bugsnag.com
 
@@ -125,19 +125,46 @@ ff02::3 ip6-allhosts
 # Google
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
+0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleoptimize.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
+0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pf-in-f188.1e100.net
 0.0.0.0 sa-in-f188.1e100.net
+0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 tg-in-f188.1e100.net
 0.0.0.0 wa-in-f188.1e100.net
 0.0.0.0 wl-in-f188.1e100.net
 0.0.0.0 wq-in-f188.1e100.net
+
+# Hijacking?
+# I highly suspect the .access.network domain and subdomains trying to hijack most Internet traffic.
+0.0.0.0 1-dontsharethislink.celsoazevedo.com
+0.0.0.0 2.us.pool.ntp.org.access.network
+0.0.0.0 7-dontsharethislink.celsoazevedo.com
+0.0.0.0 alt5-mtalk.google.com.access.network
+0.0.0.0 discord.com.access.network
+0.0.0.0 external-preview.redd.it.access.network
+0.0.0.0 i.redd.it.access.network
+0.0.0.0 i.ytimg.com.access.network
+0.0.0.0 initplayback.access.network
+0.0.0.0 mtalk.google.com.access.network
+0.0.0.0 oauth.reddit.com.access.network
+0.0.0.0 pgl.yoyo.org.access.network
+0.0.0.0 preview.redd.it.access.network
+0.0.0.0 r2---sn-4g5edn6k.googlevideo.com.access.network
+0.0.0.0 r5---sn-25ge7nsl.googlevideo.com.access.network
+0.0.0.0 r5---sn-25glen7y.googlevideo.com.access.network
+0.0.0.0 simgbb.com.access.network
+0.0.0.0 speedtest5.wegozyn.eu.access.network
+0.0.0.0 styles.redditmedia.com.access.network
+0.0.0.0 v.redd.it.access.network
+0.0.0.0 www.celsoazevedo.com
 
 # IPs
 0.0.0.0 204.79.197.200
@@ -149,7 +176,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 upload.luckyorange.com
 0.0.0.0 w1.luckyorange.com
 
-# Malwarebytes
+# Malwarebytes Telemetry
 0.0.0.0 elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
 0.0.0.0 telemetry.malwarebytes.com
 
@@ -354,6 +381,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pub.network
 0.0.0.0 rereddit.com
 0.0.0.0 s2s.adjust.com
+0.0.0.0 sponsor.ajay.app
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.media.net
 0.0.0.0 taboola.com
@@ -364,11 +392,14 @@ ff02::3 ip6-allhosts
 # These hosts usually don't break the site when blocked, so that means they're useless.
 0.0.0.0 a.mouseflow.com
 0.0.0.0 adlooxtracking.com
+0.0.0.0 combinatronics.io
 0.0.0.0 contextual.sirdata.io
 0.0.0.0 data00.adlooxtracking.com
 0.0.0.0 dev-trackerapi.smartlify.com
 0.0.0.0 facebook.net
 0.0.0.0 hotjar.com
+0.0.0.0 ident.me
+0.0.0.0 in.appcenter.ms
 0.0.0.0 mediavoice.com
 0.0.0.0 mouseflow.com
 0.0.0.0 optimizely.com
