@@ -405,6 +405,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 feedroll.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 media.net
+0.0.0.0 mindworks-creative.com
 0.0.0.0 moatads.com
 0.0.0.0 orangeads.fr
 0.0.0.0 pingdom.net
@@ -477,6 +478,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 robwu.nl
 0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 sc386.com
+0.0.0.0 sdk-diagnostics.prd.mz.internal.unity3d.com
 0.0.0.0 sonic.impactify.media
 0.0.0.0 sun.mv
 0.0.0.0 tracker.yougov.com
