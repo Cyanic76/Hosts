@@ -18,7 +18,7 @@ If you can't find any issue related to yours, [create a new one](https://github.
 
 ## Legal
 
-This file is free for **PERSONAL USE** only. Otherwise it's not permitted to copy, host any content on any other website with or without permission. I am not liable for any damage. Therefore, feel free to use [Issues](https://github.com/Cyanic76/Hosts/issues/new) to report problems. You are responsible for using this list.
+This file is free for **PERSONAL USE** only. Otherwise it's not permitted to copy, host any content on any other website with or without permission. I am not liable for any damage. Therefore, feel free to use [Issues](https://github.com/Cyanic76/Hosts/issues/new) to report problems. You are the only one responsible for using this list. This project is licensed under MIT.
 
 ---
 Maintained by [Cyanic76](https://github.com/Cyanic76).
