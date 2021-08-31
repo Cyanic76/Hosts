@@ -61,6 +61,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.scroll.com
 0.0.0.0 stats.redditmedia.com
 0.0.0.0 stats.wp.com
+0.0.0.0 trackonomics.com
 0.0.0.0 www.fastly-insights.com
 
 # Baidu
@@ -74,6 +75,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cookie.lmgssp.com
 0.0.0.0 cookielaw.org
 0.0.0.0 nocookie.net
+0.0.0.0 privacy-center.org
 0.0.0.0 uniconsent.com
 
 # DoubleClick, AddThis and Fastclick
@@ -405,7 +407,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 feedroll.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 media.net
-0.0.0.0 mindworks-creative.com
 0.0.0.0 moatads.com
 0.0.0.0 orangeads.fr
 0.0.0.0 pingdom.net
