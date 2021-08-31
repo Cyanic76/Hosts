@@ -74,6 +74,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 consensu.org
 0.0.0.0 cookie.lmgssp.com
 0.0.0.0 cookielaw.org
+0.0.0.0 id.rlcdn.com
 0.0.0.0 nocookie.net
 0.0.0.0 privacy-center.org
 0.0.0.0 uniconsent.com
@@ -147,7 +148,9 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
+0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleoptimize.com
@@ -404,8 +407,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 cleverads.vn
 0.0.0.0 contextual.media.net
 0.0.0.0 doubleclick.net
+0.0.0.0 euw-ice.360yield.com
 0.0.0.0 feedroll.com
 0.0.0.0 freshmarketer.com
+0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 media.net
 0.0.0.0 moatads.com
 0.0.0.0 orangeads.fr
@@ -426,10 +431,12 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 a.mouseflow.com
 0.0.0.0 adlooxtracking.com
+0.0.0.0 b1-eudc1.zemanta.com
 0.0.0.0 combinatronics.io
 0.0.0.0 contextual.sirdata.io
 0.0.0.0 data00.adlooxtracking.com
 0.0.0.0 dev-trackerapi.smartlify.com
+0.0.0.0 exchange.consumabletv.com
 0.0.0.0 facebook.net
 0.0.0.0 hotjar.com
 0.0.0.0 ident.me
@@ -440,11 +447,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 parsely.com
 0.0.0.0 polyfill.io
 0.0.0.0 proxymedia.woopic.com
+0.0.0.0 renaultdatapooldoubletracking.solution.weborama.fr
 0.0.0.0 sentry.io
 0.0.0.0 sentry-cdn.com
 0.0.0.0 sharethis.com
 0.0.0.0 speedcurve.com
 0.0.0.0 static.hotjar.com
+0.0.0.0 sync.e-volution.ai
 
 # Other trackers
 
