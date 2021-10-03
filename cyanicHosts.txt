@@ -336,8 +336,12 @@ ff02::3 ip6-allhosts
 
 # Mozilla
 
+0.0.0.0 experiments.mozilla.org
 0.0.0.0 incoming.telemetry.mozilla.com
-0.0.0.0 telemetry.mozilla.com
+0.0.0.0 input.mozilla.org
+0.0.0.0 location.services.mozilla.org
+0.0.0.0 telemetry-experiment.mozilla.net
+0.0.0.0 telemetry.mozilla.org
 
 # Other ads
 
@@ -436,6 +440,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 contextual.sirdata.io
 0.0.0.0 data00.adlooxtracking.com
 0.0.0.0 dev-trackerapi.smartlify.com
+0.0.0.0 download.com
 0.0.0.0 exchange.consumabletv.com
 0.0.0.0 facebook.net
 0.0.0.0 hotjar.com
