@@ -511,6 +511,8 @@ ff02::3 ip6-allhosts
 # Pinterest
 
 0.0.0.0 ads.pinterest.com
+0.0.0.0 business.pinterest.com
+0.0.0.0 log.pinterest.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 widgets.pinterest.com
 
@@ -560,6 +562,26 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracking.rus.miui.com
 0.0.0.0 trackingshipment.apple.com
 0.0.0.0 www.cdn.ad.xiaomi.com
+
+# Twitter
+0.0.0.0 ads.twitter.com
+0.0.0.0 api-test.twitter.com
+0.0.0.0 business.twitter.com
+0.0.0.0 cdn.syndication.twimg.com
+0.0.0.0 cdn.syndication.twitter.com
+0.0.0.0 election.twitter.com
+0.0.0.0 firefox.twitter.com
+0.0.0.0 horizon.twitter.com
+0.0.0.0 partnerstream1.twitter.com
+0.0.0.0 partnerstream2.twitter.com
+0.0.0.0 s.ads-twitter.com
+0.0.0.0 sites.twitter.com
+0.0.0.0 syndication.twimg.com
+0.0.0.0 syndication-o.twimg.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 widgets.platform.twitter.com
+0.0.0.0 widgets.twimg.com
+0.0.0.0 www.ads-twitter.com
 
 # Vungle
 
