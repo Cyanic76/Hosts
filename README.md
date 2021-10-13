@@ -10,6 +10,10 @@ Add [this url](https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts
 
 You should make your adblock check for updates daily, or as soon as I publish a new commit.
 
+### Block apps of your choice
+
+I'll add more files and folders. You'll be able to add them to block a specific application or service, like Google Maps.
+
 ## Contributing
 
 Before filing a new issue or PR, [search in the existing ones](https://github.com/search?l=&q=is%3Aissue++repo%3ACyanic76%2FHosts&type=issues).
