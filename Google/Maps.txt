@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/Cyanic76/Hosts
 ! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/Google/Maps.txt
 
-# Add this to your adblock Google Maps and its APIs.
+# Add this to your adblock to block Google Maps and its APIs.
 
 # Basic
 0.0.0.0 maps.gstatic.com
