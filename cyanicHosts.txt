@@ -1,5 +1,5 @@
 ! Title: Cyanic's Hosts list
-! Expires: 5 days
+! Expires: 1 week
 ! Description: A list of advertising, analytics and tracking hosts.
 ! Homepage: https://github.com/Cyanic76/Hosts
 ! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt
@@ -192,6 +192,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 styles.redditmedia.com.access.network
 0.0.0.0 v.redd.it.access.network
 0.0.0.0 www.celsoazevedo.com
+
+# HP
+0.0.0.0 cs.rssx.hp.com
 
 # IPs
 
