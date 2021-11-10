@@ -26,7 +26,11 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
 0.0.0.0 amazon-adsystem.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 device-metrics-us-2.amazon.com
@@ -86,10 +90,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 doubleclick.net
 0.0.0.0 media.fastclick.net
+0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 s7.addthis.com
 
 # Error reporting software (doesn't include everything)
 
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 app.getsentry.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 bugsnag.com
 
@@ -441,6 +449,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 b1-eudc1.zemanta.com
 0.0.0.0 combinatronics.io
 0.0.0.0 contextual.sirdata.io
+0.0.0.0 d.reddit.com
 0.0.0.0 data00.adlooxtracking.com
 0.0.0.0 dev-trackerapi.smartlify.com
 0.0.0.0 download.com
@@ -468,6 +477,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 9emn.com
 0.0.0.0 admdftjs.info
 0.0.0.0 adserv.info
+0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 b1-eudc1.zemanta.com
 0.0.0.0 bighop.com
@@ -541,6 +551,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 logbak.hicloud.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 metrics.apple.com
@@ -554,6 +565,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 samsungads.com
+0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 securemetrics.apple.com
@@ -568,6 +580,7 @@ ff02::3 ip6-allhosts
 
 # Twitter
 0.0.0.0 ads.twitter.com
+0.0.0.0 advertising.twitter.com
 0.0.0.0 api-test.twitter.com
 0.0.0.0 business.twitter.com
 0.0.0.0 cdn.syndication.twimg.com
