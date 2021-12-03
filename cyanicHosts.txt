@@ -418,6 +418,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservetx.media.net
 0.0.0.0 ads-twitter.com
 0.0.0.0 adthrive.com
+0.0.0.0 
 0.0.0.0 carbonads.com
 0.0.0.0 cbs.taboola.com
 0.0.0.0 cleverads.vn
@@ -501,6 +502,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m1e.net
 0.0.0.0 madinad.com
 0.0.0.0 metrics.brightcove.com
+0.0.0.0 metrics.mzstatic.com
 0.0.0.0 mypic.icu
 0.0.0.0 newscloud.or.kr
 0.0.0.0 nrs-group.com
