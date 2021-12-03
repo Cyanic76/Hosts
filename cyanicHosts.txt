@@ -168,6 +168,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 pf-in-f188.1e100.net
 0.0.0.0 sa-in-f188.1e100.net
 0.0.0.0 safebrowsing.googleapis.com
@@ -425,6 +426,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 feedroll.com
 0.0.0.0 freshmarketer.com
+0.0.0.0 ib.adnxs-simple.com
+0.0.0.0 ib.a-mx.com
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 media.net
 0.0.0.0 moatads.com
@@ -478,6 +481,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 admdftjs.info
 0.0.0.0 adserv.info
 0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 analytics.pix.fr
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 b1-eudc1.zemanta.com
 0.0.0.0 bighop.com
@@ -490,6 +494,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gcm.ctnsnet.com
 0.0.0.0 horizonme.net
 0.0.0.0 hub2.com.pl
+0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 isso.ps
 0.0.0.0 ladepeche.fr
 0.0.0.0 lmhorse.se
