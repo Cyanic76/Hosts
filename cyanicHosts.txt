@@ -562,6 +562,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 secure.quantserve.com
 0.0.0.0 skimresources.com
 0.0.0.0 sonic.impactify.media
+0.0.0.0 snoop.minecraft.net
 0.0.0.0 statcounter.com
 0.0.0.0 static.scroll.com
 0.0.0.0 stats.redditmedia.com
