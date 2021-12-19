@@ -6,7 +6,7 @@
 
 # Website not working? Open an issue at https://github.com/Cyanic76/Hosts/issues/new
 
-# Local
+# ================================== OTHER
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -21,9 +21,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-# Amazon subdomains
-# Those subdomains are blocked due to being used to collect analytics data, tracking and showing ads.
-
+# ================================== AMAZON
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 advertising-api-eu.amazon.com
@@ -36,45 +34,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 mads.amazon-adsystem.com
 
-# Analytics
-# Those domains and subdomains are tracking habits, collecting statistics and analytics data.
-# Some domains may be under other categories.
-
-0.0.0.0 analytics.facebook.com
-0.0.0.0 analytics.pinterest.com
-0.0.0.0 analytics.pointdrive.linkedin.com
-0.0.0.0 analytics.tiktok.comet
-0.0.0.0 analytics.twitter.com
-0.0.0.0 cloudflareinsights.com
-0.0.0.0 events.redditmedia.com
-0.0.0.0 fastly-insights.net
-0.0.0.0 hs-analytics.net
-0.0.0.0 hs-banner.com
-0.0.0.0 js.hs-analytics.net
-0.0.0.0 log.pinterest.com
-0.0.0.0 opus.analytics.yahoo.com
-0.0.0.0 qualtrics.com
-0.0.0.0 quantserve.com
-0.0.0.0 sb.scorecardresearch.com
-0.0.0.0 scorecardresearch.com
-0.0.0.0 scroll.com
-0.0.0.0 secure.quantserve.com
-0.0.0.0 skimresources.com
-0.0.0.0 sp.analytics.yahoo.com
-0.0.0.0 statcounter.com
-0.0.0.0 static.scroll.com
-0.0.0.0 stats.redditmedia.com
-0.0.0.0 stats.wp.com
-0.0.0.0 trackonomics.com
-0.0.0.0 www.fastly-insights.com
-
-# Baidu
-
+# ================================== BAIDU
 0.0.0.0 baidu.com
 
-# Cookies
-# Blacklisting those domains removes most of cookie banners.
-
+# ================================== COOKIE BANNERS
 0.0.0.0 consensu.org
 0.0.0.0 cookie.lmgssp.com
 0.0.0.0 cookielaw.org
@@ -83,8 +46,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 privacy-center.org
 0.0.0.0 uniconsent.com
 
-# DoubleClick, AddThis and Fastclick
-
+# ================================== DOUBLECLICK/ADDTHIS/FASTCLICK
 0.0.0.0 addthis.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 cdn.fastclick.net
@@ -93,16 +55,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 s7.addthis.com
 
-# Error reporting software (doesn't include everything)
-
+# ================================== ERROR REPORTING
+# This list does not include everything. Some domains
+# and other subdomains may be missing or under other
+# categories.
 0.0.0.0 api.bugsnag.com
 0.0.0.0 app.bugsnag.com
 0.0.0.0 app.getsentry.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 bugsnag.com
 
-# Facebook
-
+# ================================== FACEBOOK
 0.0.0.0 ads.ak.facebook.com
 0.0.0.0 ads.facebook.com
 0.0.0.0 aktualizacjafacebooka.blogspot.com
@@ -152,8 +115,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.facebook.m918kiss.my
 0.0.0.0 www.facebook.realtorarcf.com
 
-# Google
-
+# ================================== GOOGLE
+# Note that other subdomains and domains may be
+# under other categories.
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
 0.0.0.0 firebaseinstallations.googleapis.com
@@ -177,9 +141,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wl-in-f188.1e100.net
 0.0.0.0 wq-in-f188.1e100.net
 
-# Hijacking?
-# Those domains are suspected to hijack your Internet traffic and redirect it through other website to generate more money.
-
+# ================================== HIJACKING?
 0.0.0.0 1-dontsharethislink.celsoazevedo.com
 0.0.0.0 2.us.pool.ntp.org.access.network
 0.0.0.0 7-dontsharethislink.celsoazevedo.com
@@ -202,15 +164,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 v.redd.it.access.network
 0.0.0.0 www.celsoazevedo.com
 
-# HP
+# ================================== HP
 0.0.0.0 cs.rssx.hp.com
 
-# IPs
-
-0.0.0.0 204.79.197.200
-
-# Luckyorange
-
+# ================================== LUCKYORANGE
 0.0.0.0 cdn.luckyorange.com
 0.0.0.0 cs.luckyorange.com
 0.0.0.0 settings.luckyorange.com
@@ -218,12 +175,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 w1.luckyorange.com
 
 # Malwarebytes Telemetry
-
 0.0.0.0 elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
 0.0.0.0 telemetry.malwarebytes.com
 
-# Microsoft
-
+# ================================== MICROSOFT
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
@@ -272,6 +227,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 hk2.wns.windows.com
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com.nsatc.net
+0.0.0.0 licensing.mp.microsoft.com
+0.0.0.0 location-inference-westus.cloudapp.net
 0.0.0.0 m.adnxs.com
 0.0.0.0 m.hotmail.com
 0.0.0.0 mediaredirect.microsoft.com
@@ -324,12 +281,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
 0.0.0.0 wees.df.telemetry.microsoft.com
+0.0.0.0 win.data.microsoft.com
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com.nsatc.net
 
-# Mopub
-
+# ================================== MOPUB
 0.0.0.0 a.r10.mopub.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 analytics.mopub.com
@@ -346,8 +303,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.mopub.com
 0.0.0.0 s2.mopub.com
 
-# Mozilla
-
+# ================================== MOZILLA
 0.0.0.0 experiments.mozilla.org
 0.0.0.0 incoming.telemetry.mozilla.com
 0.0.0.0 input.mozilla.org
@@ -355,189 +311,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 telemetry-experiment.mozilla.net
 0.0.0.0 telemetry.mozilla.org
 
-# Other ads
-
-0.0.0.0 1-1ads.com
-0.0.0.0 101com.com
-0.0.0.0 101order.com
-0.0.0.0 123freeavatars.com
-0.0.0.0 180hits.de
-0.0.0.0 1rx.io
-0.0.0.0 207.net
-0.0.0.0 24log.com
-0.0.0.0 24log.de
-0.0.0.0 30ads.com
-0.0.0.0 3337723.com
-0.0.0.0 4affiliate.com
-0.0.0.0 50websads.com
-0.0.0.0 518ad.com
-0.0.0.0 51yes.com
-0.0.0.0 5ijo.01net.com
-0.0.0.0 7search.com
-0.0.0.0 777partner.com
-0.0.0.0 77tracking.com
-0.0.0.0 a-ads.com
-0.0.0.0 a.pub.network
-0.0.0.0 aa-metrics.beauty.hotpepper.jp
-0.0.0.0 aa-metrics.recruit-card.jp
-0.0.0.0 aa-metrics.trip-ai.jp
-0.0.0.0 abc-ads.com
-0.0.0.0 abtasty.com
-0.0.0.0 adobedtm.com
-0.0.0.0 acceptable.a-ads.com
-0.0.0.0 acuityads.com
-0.0.0.0 ad-balancer.at
-0.0.0.0 ad-balancer.net
-0.0.0.0 ad-delivery.net
-0.0.0.0 ad-score.com
-0.0.0.0 ad-up.com
-0.0.0.0 ad.a-ads.com
-0.0.0.0 ad.abcnews.com
-0.0.0.0 ad.abctv.com
-0.0.0.0 ad.cgi.cz
-0.0.0.0 ad.eurosport.com
-0.0.0.0 ad.foxnetworks.com
-0.0.0.0 adclick.com
-0.0.0.0 addfreestats.com
-0.0.0.0 ademails.com
-0.0.0.0 adengage.com
-0.0.0.0 adetracking.com
-0.0.0.0 adf.ly
-0.0.0.0 adnext.fr
-0.0.0.0 adnxs-simple.com
-0.0.0.0 ads-click.com
-0.0.0.0 ads-dev.pinterest.com
-0.0.0.0 ads.deviantart.com
-0.0.0.0 ads.pro-market.net
-0.0.0.0 ads.smartclick.com
-0.0.0.0 ads.stackoverflow.com
-0.0.0.0 ads.sun.com
-0.0.0.0 ads.linkedin.com
-0.0.0.0 ads.reddit.com
-0.0.0.0 ads.youtube.com
-0.0.0.0 adservetx.media.net
-0.0.0.0 ads-twitter.com
-0.0.0.0 adthrive.com
-0.0.0.0 
-0.0.0.0 carbonads.com
-0.0.0.0 cbs.taboola.com
-0.0.0.0 cleverads.vn
-0.0.0.0 contextual.media.net
-0.0.0.0 doubleclick.net
-0.0.0.0 euw-ice.360yield.com
-0.0.0.0 feedroll.com
-0.0.0.0 freshmarketer.com
-0.0.0.0 ib.adnxs-simple.com
-0.0.0.0 ib.a-mx.com
-0.0.0.0 logs.ironsrc.mobi
-0.0.0.0 media.net
-0.0.0.0 moatads.com
-0.0.0.0 orangeads.fr
-0.0.0.0 pingdom.net
-0.0.0.0 prebid.ams1.adnxs-simple.com
-0.0.0.0 pub.network
-0.0.0.0 rereddit.com
-0.0.0.0 s2s.adjust.com
-0.0.0.0 sponsor.ajay.app
-0.0.0.0 static.ads-twitter.com
-0.0.0.0 static.media.net
-0.0.0.0 taboola.com
-0.0.0.0 wins.isprog.com
-0.0.0.0 youtube.cleverads.vn
-
-# Other hosts
-# Blocking those domains/subdomains don't usually break websites. There's no reason not blacklisting them.
-
-0.0.0.0 a.mouseflow.com
-0.0.0.0 adlooxtracking.com
-0.0.0.0 b1-eudc1.zemanta.com
-0.0.0.0 combinatronics.io
-0.0.0.0 contextual.sirdata.io
-0.0.0.0 d.reddit.com
-0.0.0.0 data00.adlooxtracking.com
-0.0.0.0 dev-trackerapi.smartlify.com
-0.0.0.0 download.com
-0.0.0.0 exchange.consumabletv.com
-0.0.0.0 facebook.net
-0.0.0.0 hotjar.com
-0.0.0.0 ident.me
-0.0.0.0 in.appcenter.ms
-0.0.0.0 mediavoice.com
-0.0.0.0 mouseflow.com
-0.0.0.0 optimizely.com
-0.0.0.0 parsely.com
-0.0.0.0 polyfill.io
-0.0.0.0 proxymedia.woopic.com
-0.0.0.0 renaultdatapooldoubletracking.solution.weborama.fr
-0.0.0.0 sentry.io
-0.0.0.0 sentry-cdn.com
-0.0.0.0 sharethis.com
-0.0.0.0 speedcurve.com
-0.0.0.0 static.hotjar.com
-0.0.0.0 sync.e-volution.ai
-
-# Other trackers
-
-0.0.0.0 9emn.com
-0.0.0.0 admdftjs.info
-0.0.0.0 adserv.info
-0.0.0.0 analytics-sg.tiktok.com
-0.0.0.0 analytics.pix.fr
-0.0.0.0 api.gameanalytics.com
-0.0.0.0 b1-eudc1.zemanta.com
-0.0.0.0 bighop.com
-0.0.0.0 blyjh.com
-0.0.0.0 deal24.lv
-0.0.0.0 dmxleo.com
-0.0.0.0 filter.com
-0.0.0.0 frz.io
-0.0.0.0 funbe.rjifxuqoo
-0.0.0.0 gcm.ctnsnet.com
-0.0.0.0 horizonme.net
-0.0.0.0 hub2.com.pl
-0.0.0.0 intake-analytics.wikimedia.org
-0.0.0.0 isso.ps
-0.0.0.0 ladepeche.fr
-0.0.0.0 lmhorse.se
-0.0.0.0 m1e.net
-0.0.0.0 madinad.com
-0.0.0.0 metrics.brightcove.com
-0.0.0.0 metrics.mzstatic.com
-0.0.0.0 mypic.icu
-0.0.0.0 newscloud.or.kr
-0.0.0.0 nrs-group.com
-0.0.0.0 over.net
-0.0.0.0 pantip.com
-0.0.0.0 pornozot.com
-0.0.0.0 public-prod-dspcookiematching.dmxleo.com
-0.0.0.0 robwu.nl
-0.0.0.0 rubick.gameanalytics.com
-0.0.0.0 sc386.com
-0.0.0.0 sdk-diagnostics.prd.mz.internal.unity3d.com
-0.0.0.0 sonic.impactify.media
-0.0.0.0 sun.mv
-0.0.0.0 tracker.yougov.com
-0.0.0.0 tracking.emerse.com
-0.0.0.0 travelncs.com
-0.0.0.0 tzwaw.pw
-0.0.0.0 vogozaw.ru
-0.0.0.0 webdesignerdepot.com
-0.0.0.0 z4y.pl
-
-# Paywalls
-
-0.0.0.0 offerwall.yandex.net
-
-# Pinterest
-
-0.0.0.0 ads.pinterest.com
-0.0.0.0 business.pinterest.com
-0.0.0.0 log.pinterest.com
-0.0.0.0 trk.pinterest.com
-0.0.0.0 widgets.pinterest.com
-
-# Still can't belive why you would get ads in a system app preloaded on your phone but whatever
-
+# ================================== OEMs
 0.0.0.0 ad.samsungadhub.com
 0.0.0.0 ad.samsungads.com
 0.0.0.0 ad.intl.xiaomi.com
@@ -585,9 +359,239 @@ ff02::3 ip6-allhosts
 0.0.0.0 trackingshipment.apple.com
 0.0.0.0 www.cdn.ad.xiaomi.com
 
-# Twitter
+# ================================== OTHER ADS
+0.0.0.0 1-1ads.com
+0.0.0.0 101com.com
+0.0.0.0 101order.com
+0.0.0.0 123freeavatars.com
+0.0.0.0 180hits.de
+0.0.0.0 1rx.io
+0.0.0.0 207.net
+0.0.0.0 24log.com
+0.0.0.0 24log.de
+0.0.0.0 30ads.com
+0.0.0.0 3337723.com
+0.0.0.0 4affiliate.com
+0.0.0.0 50websads.com
+0.0.0.0 518ad.com
+0.0.0.0 51yes.com
+0.0.0.0 5ijo.01net.com
+0.0.0.0 7search.com
+0.0.0.0 777partner.com
+0.0.0.0 77tracking.com
+0.0.0.0 a-ads.com
+0.0.0.0 a.pub.network
+0.0.0.0 aa-metrics.beauty.hotpepper.jp
+0.0.0.0 aa-metrics.recruit-card.jp
+0.0.0.0 aa-metrics.trip-ai.jp
+0.0.0.0 abc-ads.com
+0.0.0.0 abtasty.com
+0.0.0.0 adobedtm.com
+0.0.0.0 acceptable.a-ads.com
+0.0.0.0 acuityads.com
+0.0.0.0 ad-balancer.at
+0.0.0.0 ad-balancer.net
+0.0.0.0 ad-delivery.net
+0.0.0.0 ad-score.com
+0.0.0.0 ad-up.com
+0.0.0.0 ad.a-ads.com
+0.0.0.0 ad.abcnews.com
+0.0.0.0 ad.abctv.com
+0.0.0.0 ad.cgi.cz
+0.0.0.0 ad.eurosport.com
+0.0.0.0 ad.foxnetworks.com
+0.0.0.0 ad.mrtnsrv.com
+0.0.0.0 adclick.com
+0.0.0.0 addfreestats.com
+0.0.0.0 ademails.com
+0.0.0.0 adengage.com
+0.0.0.0 adetracking.com
+0.0.0.0 adf.ly
+0.0.0.0 adloox.zebestof.com
+0.0.0.0 adnext.fr
+0.0.0.0 adnxs-simple.com
+0.0.0.0 ads.avads.com
+0.0.0.0 ads-click.com
+0.0.0.0 ads-dev.pinterest.com
+0.0.0.0 ads.deviantart.com
+0.0.0.0 ads.pro-market.net
+0.0.0.0 ads.smartclick.com
+0.0.0.0 ads.stackoverflow.com
+0.0.0.0 ads.sun.com
+0.0.0.0 ads.linkedin.com
+0.0.0.0 ads.reddit.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 adservetx.media.net
+0.0.0.0 ads-twitter.com
+0.0.0.0 adthrive.com
+0.0.0.0 carbonads.com
+0.0.0.0 cbs.taboola.com
+0.0.0.0 cleverads.vn
+0.0.0.0 contextual.media.net
+0.0.0.0 dispatcher.mng-ads-com
+0.0.0.0 dispatcher.mng-ads.com
+0.0.0.0 doubleclick.net
+0.0.0.0 euw-ice.360yield.com
+0.0.0.0 feedroll.com
+0.0.0.0 freshmarketer.com
+0.0.0.0 ib.adnxs-simple.com
+0.0.0.0 ib.a-mx.com
+0.0.0.0 ie1-bid.adsrvr.org
+0.0.0.0 logs.ironsrc.mobi
+0.0.0.0 media.net
+0.0.0.0 moatads.com
+0.0.0.0 orangeads.fr
+0.0.0.0 pingdom.net
+0.0.0.0 play.adpaths.com
+0.0.0.0 prebid.ams1.adnxs-simple.com
+0.0.0.0 prebid.reworldmediafactory.com
+0.0.0.0 pub.network
+0.0.0.0 rereddit.com
+0.0.0.0 s2s.adjust.com
+0.0.0.0 sponsor.ajay.app
+0.0.0.0 ssb-euw1.smartadserver.com
+0.0.0.0 ssb-itx5.smartadserver.com
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 static.media.net
+0.0.0.0 taboola.com
+0.0.0.0 tpsc-eu3.doubleverify.com
+0.0.0.0 vae-bid.adsrvr.org
+0.0.0.0 vid.isprog.com
+0.0.0.0 wins.isprog.com
+0.0.0.0 youtube.cleverads.vn
+
+# ================================== OTHER UNNECESSARY HOSTS
+# Blocking those hosts do not break websites, usually.
+0.0.0.0 a.mouseflow.com
+0.0.0.0 adlooxtracking.com
+0.0.0.0 b1-eudc1.zemanta.com
+0.0.0.0 backedn.irsdn.net
+0.0.0.0 beam.hubvisor.io
+0.0.0.0 combinatronics.io
+0.0.0.0 contextual.sirdata.io
+0.0.0.0 c-sta.haloapps.com
+0.0.0.0 csync.smilewanted.com
+0.0.0.0 d.reddit.com
+0.0.0.0 data00.adlooxtracking.com
+0.0.0.0 dev-trackerapi.smartlify.com
+0.0.0.0 download.com
+0.0.0.0 exchange.consumabletv.com
+0.0.0.0 facebook.net
+0.0.0.0 hotjar.com
+0.0.0.0 i.haloapps.com
+0.0.0.0 ident.me
+0.0.0.0 in.appcenter.ms
+0.0.0.0 mediavoice.com
+0.0.0.0 mouseflow.com
+0.0.0.0 optimizely.com
+0.0.0.0 parsely.com
+0.0.0.0 pbc.hubvisor.io
+0.0.0.0 polyfill.io
+0.0.0.0 prebid.smilewanted.com
+0.0.0.0 proxymedia.woopic.com
+0.0.0.0 renaultdatapooldoubletracking.solution.weborama.fr
+0.0.0.0 sentry.io
+0.0.0.0 sentry-cdn.com
+0.0.0.0 sharethis.com
+0.0.0.0 speedcurve.com
+0.0.0.0 static.hotjar.com
+0.0.0.0 sync.e-volution.ai
+0.0.0.0 u.videostep.com
+
+# ================================== OTHER TRACKERS & ANALYTICS
+0.0.0.0 9emn.com
+0.0.0.0 admdftjs.info
+0.0.0.0 adserv.info
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 analytics.pix.fr
+0.0.0.0 analytics.pointdrive.linkedin.com
+0.0.0.0 analytics.tiktok.comet
+0.0.0.0 api.gameanalytics.com
+0.0.0.0 b1-eudc1.zemanta.com
+0.0.0.0 bighop.com
+0.0.0.0 blyjh.com
+0.0.0.0 cloudflareinsights.com
+0.0.0.0 config.seedtag.com
+0.0.0.0 cs.seedtag.com
+0.0.0.0 deal24.lv
+0.0.0.0 dig.ultimedia.com
+0.0.0.0 dmxleo.com
+0.0.0.0 eu-west-1.event.prod.bidr.io
+0.0.0.0 event.clientgear.com
+0.0.0.0 events.redditmedia.com
+0.0.0.0 fastly-insights.net
+0.0.0.0 filter.com
+0.0.0.0 frz.io
+0.0.0.0 funbe.rjifxuqoo
+0.0.0.0 gcm.ctnsnet.com
+0.0.0.0 goutee.top
+0.0.0.0 horizonme.net
+0.0.0.0 hs-analytics.net
+0.0.0.0 hs-banner.com
+0.0.0.0 hub2.com.pl
+0.0.0.0 intake-analytics.wikimedia.org
+0.0.0.0 io1.eulerian.net
+0.0.0.0 isso.ps
+0.0.0.0 js.hs-analytics.net
+0.0.0.0 kwebstat.videostep.com
+0.0.0.0 ladepeche.fr
+0.0.0.0 lmhorse.se
+0.0.0.0 m1e.net
+0.0.0.0 madinad.com
+0.0.0.0 metrics.brightcove.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 mypic.icu
+0.0.0.0 newscloud.or.kr
+0.0.0.0 nrs-group.com
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 over.net
+0.0.0.0 p.adlooxtracking.com
+0.0.0.0 pantip.com
+0.0.0.0 pornozot.com
+0.0.0.0 public-prod-dspcookiematching.dmxleo.com
+0.0.0.0 px.powerlinks.com
+0.0.0.0 qualtrics.com
+0.0.0.0 quantserve.com
+0.0.0.0 robwu.nl
+0.0.0.0 rubick.gameanalytics.com
+0.0.0.0 sc386.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 scroll.com
+0.0.0.0 sdk-diagnostics.prd.mz.internal.unity3d.com
+0.0.0.0 secure.quantserve.com
+0.0.0.0 skimresources.com
+0.0.0.0 sonic.impactify.media
+0.0.0.0 statcounter.com
+0.0.0.0 static.scroll.com
+0.0.0.0 stats.redditmedia.com
+0.0.0.0 stats.wp.com
+0.0.0.0 studio-tag.teads.tv
+0.0.0.0 sun.mv
+0.0.0.0 sync.richaudience.com
+0.0.0.0 t.seedtag.com
+0.0.0.0 tracker.yougov.com
+0.0.0.0 tracking.emerse.com
+0.0.0.0 trackonomics.com
+0.0.0.0 travelncs.com
+0.0.0.0 tzwaw.pw
+0.0.0.0 vogozaw.ru
+0.0.0.0 webdesignerdepot.com
+0.0.0.0 www.fastly-insights.com
+0.0.0.0 z4y.pl
+
+# ================================== PINTEREST
+0.0.0.0 ads.pinterest.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 business.pinterest.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 widgets.pinterest.com
+
+# ================================== TWITTER (aka Zoo Inc.)
 0.0.0.0 ads.twitter.com
 0.0.0.0 advertising.twitter.com
+0.0.0.0 analytics.twitter.com
 0.0.0.0 api-test.twitter.com
 0.0.0.0 business.twitter.com
 0.0.0.0 cdn.syndication.twimg.com
@@ -606,8 +610,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 widgets.twimg.com
 0.0.0.0 www.ads-twitter.com
 
-# Vungle
-
+# ================================== VUNGLE
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 api.vungle.akadns.net
 0.0.0.0 api.vungle.com
@@ -627,20 +630,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 vungle.akadns.net
 0.0.0.0 vungle.com.edgekey.net
 
-# Windows
-
-0.0.0.0 choice.microsoft.com.nstac.net
-0.0.0.0 licensing.mp.microsoft.com
-0.0.0.0 location-inference-westus.cloudapp.net
-0.0.0.0 win.data.microsoft.com
-
-# Xiti
-
+# ================================== XITI
+0.0.0.0 logs4.xiti.com
 0.0.0.0 logs1187.xiti.com
+0.0.0.0 logs1202.xiti.com
+0.0.0.0 logs1412.xiti.com
 0.0.0.0 xiti.com
 
-# Yahoo
-
+# ================================== YAHOO
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 adserver.yahoo.com
@@ -668,16 +665,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 onepush.query.yahoo.com
+0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 pclick.yahoo.com
 0.0.0.0 sea.advertising.yahoo.com
+0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 uk.advertising.yahoo.com
 0.0.0.0 us.adserver.yahoo.com
 0.0.0.0 ush.adspecs.yahoo.com
 0.0.0.0 visit.webhosting.yahoo.com
 
-# Yandex
-
+# ================================== YANDEX
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adsdk.yandex.ru
 0.0.0.0 an.yandex.ru
