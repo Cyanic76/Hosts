@@ -2,19 +2,15 @@
 
 This is pretty much my personal blocked hosts list.
 
-## Basics
-
-### Get the hosts list running
+## Use the hosts list
 
 Add [this url](https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt) to your adblock (like Pi-Hole). Download it, and all of the hosts should be blocked.
 
 You should make your adblock check for updates daily, or as soon as I publish a new commit.
 
-### Block apps of your choice
-
-I'll add more files and folders. You'll be able to add them to block a specific application or service, like Google Maps.
-
 ## Contributing
+
+You may find that blocking a domain or sub-domain causes a website to not work correctly. File an issue or a PR if necessary.
 
 Before filing a new issue or PR, [search in the existing ones](https://github.com/search?l=&q=is%3Aissue++repo%3ACyanic76%2FHosts&type=issues).
 
