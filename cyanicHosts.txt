@@ -470,6 +470,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pub.network
 0.0.0.0 q.adrta.com
 0.0.0.0 rereddit.com
+0.0.0.0 s.videostep.com
 0.0.0.0 s2s.adjust.com
 0.0.0.0 sponsor.ajay.app
 0.0.0.0 ssb-euw1.smartadserver.com
@@ -482,6 +483,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 us-u.openx.net
 0.0.0.0 vae-bid.adsrvr.org
 0.0.0.0 vid.isprog.com
+0.0.0.0 videostep.com
 0.0.0.0 wins.isprog.com
 0.0.0.0 youtube.cleverads.vn
 
