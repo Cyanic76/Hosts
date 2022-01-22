@@ -516,7 +516,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 prebid.reworldmediafactory.com
 0.0.0.0 prebid-fr.casalemedia.com
 0.0.0.0 pub.network
-0.0.0.0 pubs.acs?irg
+0.0.0.0 pubs.acs.irg
 0.0.0.0 q.adrta.com
 0.0.0.0 rereddit.com
 0.0.0.0 s.videostep.com
