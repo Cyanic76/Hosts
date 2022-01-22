@@ -1,0 +1,24 @@
+! Title: Cyanic's Hosts list: Alibaba and Aliexpress
+! Expires: 1 month
+! Description: Alibaba/AliExpress hosts
+! Homepage: https://github.com/Cyanic76/Hosts
+! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/corporations/alibaba_aliexpress.txt
+
+0.0.0.0 alibaba.com
+0.0.0.0 acs.aliexpress.com
+0.0.0.0 ae01.alicdn.com
+0.0.0.0 ae02.alicdn.com
+0.0.0.0 ae03.alicdn.com
+0.0.0.0 ae04.alicdn.com
+0.0.0.0 aeproductsourcesite.alicdn.com
+0.0.0.0 assets.alicdn.com
+0.0.0.0 fr.aliexpress.com
+0.0.0.0 g.alicdn.com
+0.0.0.0 i.alicdn.com
+0.0.0.0 is.alicdn.com
+0.0.0.0 lighthouse.aliexpress.com
+0.0.0.0 m.alibaba.com
+0.0.0.0 moduleanalysis.aliexpress.com
+0.0.0.0 sc01.alicdn.com
+0.0.0.0 sc02.alicdn.com
+0.0.0.0 us.cobra.aliexpress.com
