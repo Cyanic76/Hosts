@@ -385,6 +385,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics4.data.hicloud.com
 0.0.0.0 metrics5.data.hicloud.com 
 0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics.ubuntu.com
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 open.oneplus.net
@@ -471,6 +472,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-twitter.com
 0.0.0.0 adthrive.com
 0.0.0.0 be.durationmedia.net
+0.0.0.0 buysellads.com
 0.0.0.0 carbonads.com
 0.0.0.0 cbs.taboola.com
 0.0.0.0 cdn.adpushup.com
@@ -508,6 +510,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 moatads.com
 0.0.0.0 orangeads.fr
 0.0.0.0 pbjs.e-planning.net
+0.0.0.0 pbs.hubvisor.io
 0.0.0.0 pingdom.net
 0.0.0.0 pix.adrta.com
 0.0.0.0 pkg.adfinis.com
