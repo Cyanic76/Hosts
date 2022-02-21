@@ -344,14 +344,40 @@ ff02::3 ip6-allhosts
 0.0.0.0 s2.mopub.com
 
 # ================================== MOZILLA
-0.0.0.0 experiments.mozilla.org
+0.0.0.0 api.getpocket.com
+0.0.0.0 autopush.prod.mozaws.net
+0.0.0.0 blocked.cdn.mozilla.net
+0.0.0.0 blocklist.addons.mozilla.org
+0.0.0.0 blocklist.settings.services.mozilla.org
+0.0.0.0 bouncer-bouncer-elb.prod.mozaws.net
+0.0.0.0 content-signature.cdn.mozilla.net
+0.0.0.0 content-signature-2.cdn.mozilla.net
+0.0.0.0 crash-stats.mozilla.com
+0.0.0.0 crash-stats.mozilla.org
+0.0.0.0 download.mozilla.org
+0.0.0.0 download.cdn.mozilla.net
+0.0.0.0 firefoxflicks.com
+0.0.0.0 getpocket.cdn.mozilla.net
+0.0.0.0 getpocket.com
+0.0.0.0 hello.firefox.com
+0.0.0.0 img-getpocket.cdn.mozilla.net
 0.0.0.0 incoming.telemetry.mozilla.com
 0.0.0.0 input.mozilla.org
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 location.services.mozilla.org
+0.0.0.0 metrics.mozilla.com
+0.0.0.0 monitor.firefox.com
+0.0.0.0 mozsocial.cliqz.com
+0.0.0.0 normandy.cdn.mozilla.com
 0.0.0.0 normandy-cdn.services.mozilla.com
+0.0.0.0 push.services.mozilla.com
+0.0.0.0 self-repair.mozilla.org
 0.0.0.0 telemetry-experiment.mozilla.net
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 tracking-protection.cdn.mozilla.net
+0.0.0.0 tracking-protection-issues.herokuapp.com
+0.0.0.0 tracking.services.mozilla.com
+0.0.0.0 versioncheck-bg.addons.mozilla.org
 
 # ================================== OEMs
 0.0.0.0 ad.samsungadhub.com
@@ -688,6 +714,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 robwu.nl
 0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 s.seedtag.com
+0.0.0.0 salesforceliveagent.com
 0.0.0.0 sc386.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 scorecardresearch.com
