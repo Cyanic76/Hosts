@@ -8,7 +8,7 @@ Add [this url](https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts
 
 You should make your adblock check for updates daily, or as soon as I publish a new commit.
 
-If you want to block more hosts, domains and subdomains, look in the `hosts/` folder.
+If you want to block more hosts, domains and subdomains, look in the `corporations/` folder.
 
 ## Contributing
 
