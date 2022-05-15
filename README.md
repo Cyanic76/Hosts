@@ -10,6 +10,10 @@ You should make your adblock check for updates daily, or as soon as I publish a 
 
 If you want to block more hosts, domains and subdomains, look in the `corporations/` folder.
 
+### Download the large file
+
+A workflow was set up for users to download a large file containing ALL hosts from ALL files. This file is available at [GitHub Actions](https://github.com/Cyanic76/Hosts/actions).
+
 ## Contributing
 
 You may find that blocking a domain or sub-domain causes a website to not work correctly. File an issue or a PR if necessary.
