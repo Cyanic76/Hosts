@@ -20,7 +20,7 @@ jobs:
       - name: Add other files
         run: cat corporations/* | grep -E '^0.0.0.0.*$' >> hosts.txt
       - name: Upload large file
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: output
           path: hosts.txt
