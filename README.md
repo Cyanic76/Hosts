@@ -14,6 +14,8 @@ If you want to block more hosts, domains and subdomains, look in the `corporatio
 
 A workflow was set up for users to download a large file containing ALL hosts from ALL files. This file is available at [GitHub Actions](https://github.com/Cyanic76/Hosts/actions).
 
+[![Merge all files into one](https://github.com/Cyanic76/Hosts/actions/workflows/merge_all.yml/badge.svg)](https://github.com/Cyanic76/Hosts/actions/workflows/merge_all.yml)
+
 ## Contributing
 
 You may find that blocking a domain or sub-domain causes a website to not work correctly. File an issue or a PR if necessary.
