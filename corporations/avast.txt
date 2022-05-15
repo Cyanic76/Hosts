@@ -1,0 +1,10 @@
+! Title: Cyanic's Hosts list - Avast
+! Expires: 1 month
+! Description: A list of Avast domains.
+! Homepage: https://github.com/Cyanic76/Hosts
+! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/corporations/avast.txt
+
+0.0.0.0 apkrep.ff.avast.com
+0.0.0.0 auth.ff.avast.com
+0.0.0.0 avast.com
+0.0.0.0 shepherd.db.avast.com

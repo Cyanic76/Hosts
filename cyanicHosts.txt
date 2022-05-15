@@ -57,6 +57,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cookie.lmgssp.com
 0.0.0.0 cookielaw.org
 0.0.0.0 gdpr-tcfv2.sp-prod.net
+0.0.0.0 geo.privacymanager.io
 0.0.0.0 hs-banner.com
 0.0.0.0 id.rlcdn.com
 0.0.0.0 js.hs-banner.com
@@ -135,10 +136,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
-0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 cdn.fastclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 doubleclick.net
-0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 fundingchoicesmessages.google.com
@@ -157,6 +158,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 passwordsleakcheck-pa.googleapis.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 pf-in-f188.1e100.net
 0.0.0.0 sa-in-f188.1e100.net
@@ -383,6 +385,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservetx.media.net
 0.0.0.0 ads-twitter.com
 0.0.0.0 adthrive.com
+0.0.0.0 b1h.zemanta.com
+0.0.0.0 b1sync.zemanta.com
 0.0.0.0 be.durationmedia.net
 0.0.0.0 buysellads.com
 0.0.0.0 carbonads.com
@@ -400,10 +404,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 dispatcher.mng-ads-com
 0.0.0.0 dispatcher.mng-ads.com
 0.0.0.0 doubleclick.net
+0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 eb2.3lift.com
 0.0.0.0 eu-eb2.3lift.com
 0.0.0.0 eu-tlx.3lift.com
 0.0.0.0 eu-u.openx.net
+0.0.0.0 euc-ice.360yield.com
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 feedroll.com
 0.0.0.0 freshmarketer.com
@@ -422,10 +428,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 media.net
 0.0.0.0 moatads.com
+0.0.0.0 mwzeom.zeotap.com
+0.0.0.0 odr.mookie1.com
+0.0.0.0 onetag-sys.com
 0.0.0.0 orangeads.fr
 0.0.0.0 pbjs.e-planning.net
 0.0.0.0 pbs.hubvisor.io
 0.0.0.0 pingdom.net
+0.0.0.0 pips.taboola.com
 0.0.0.0 pix.adrta.com
 0.0.0.0 pkg.adfinis.com
 0.0.0.0 play.adpaths.com
@@ -441,9 +451,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 seg.ad.gt
 0.0.0.0 sponsor.ajay.app
 0.0.0.0 ssb-euw1.smartadserver.com
+0.0.0.0 ssb-itx4.smartadserver.com
 0.0.0.0 ssb-itx5.smartadserver.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.media.net
+0.0.0.0 sync.adotmob.com
 0.0.0.0 taboola.com
 0.0.0.0 tag.durationmedia.net
 0.0.0.0 tlx.3lift.com
@@ -488,11 +500,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 gvl.ezodn.com
 0.0.0.0 hotjar.com
 0.0.0.0 i.haloapps.com
+0.0.0.0 iap-pay-dre.cloud.huawei.eu
+0.0.0.0 id5-sync.com
 0.0.0.0 ident.me
 0.0.0.0 in.appcenter.ms
 0.0.0.0 live.staticflickr.com
+0.0.0.0 mclean.uk.cloud.360safe.com
 0.0.0.0 mediavoice.com
 0.0.0.0 mouseflow.com
+0.0.0.0 mvconf.uk.cloud.360safe.com
 0.0.0.0 optimizely.com
 0.0.0.0 parsely.com
 0.0.0.0 pbc.hubvisor.io
@@ -501,14 +517,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 prebid.smilewanted.com
 0.0.0.0 prod-tp.sumo.mozit.cloud
 0.0.0.0 proxymedia.woopic.com
+0.0.0.0 ps.eyeota.com
+0.0.0.0 r3.o.lencr.org
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 sentry.io
 0.0.0.0 sentry-cdn.com
 0.0.0.0 sharethis.com
 0.0.0.0 speedcurve.com
 0.0.0.0 static.hotjar.com
+0.0.0.0 static-pixel.impptk.com
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.e-volution.ai
+0.0.0.0 tracker.quadran.eu
+0.0.0.0 tv.springserve.com
 0.0.0.0 u.videostep.com
 
 # ================================== OTHER TRACKERS & ANALYTICS
@@ -529,6 +550,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 bbc.gscontxt.net
 0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beacon.wikia-services.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 bid1.videostep.com
+0.0.0.0 bid2.videostep.com
+0.0.0.0 bid3.videostep.com
 0.0.0.0 bid4.videostep.com
 0.0.0.0 bighop.com
 0.0.0.0 blyjh.com
@@ -549,6 +574,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eu-west-1.event.prod.bidr.io
 0.0.0.0 event.clientgear.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 exchange.mediavine.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastly-insights.net
 0.0.0.0 filter.com
@@ -576,6 +602,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 le-monde-ams.gscontxt.net
 0.0.0.0 libs.coremetrix.com
 0.0.0.0 lmhorse.se
+0.0.0.0 m.csqtrk.net
 0.0.0.0 m1e.net
 0.0.0.0 madinad.com
 0.0.0.0 map.sddan.com
@@ -589,6 +616,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 p.adlooxtracking.com
 0.0.0.0 pantip.com
 0.0.0.0 pbs.hubvisor.io
+0.0.0.0 ping.seedtag.com
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 pornozot.com
 0.0.0.0 prebid-server.rubiconproject.com
@@ -612,6 +640,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 skimresources.com
 0.0.0.0 sonic.impactify.media
 0.0.0.0 snoop.minecraft.net
+0.0.0.0 ssb-eqx.smartadserver.com
 0.0.0.0 statcounter.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.scroll.com
@@ -619,7 +648,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.wp.com
 0.0.0.0 studio-tag.teads.tv
 0.0.0.0 sun.mv
+0.0.0.0 sync.1rx.io
 0.0.0.0 sync.richaudience.com
+0.0.0.0 t.richaudience.com
 0.0.0.0 t.seedtag.com
 0.0.0.0 tagservice.maximus.mobkoi.com
 0.0.0.0 track.hubspot.com
@@ -628,6 +659,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trackonomics.com
 0.0.0.0 travelncs.com
 0.0.0.0 tzwaw.pw
+0.0.0.0 u.4dex.io
 0.0.0.0 vinci.commander1.com
 0.0.0.0 vogozaw.ru
 0.0.0.0 webdesignerdepot.com
@@ -686,8 +718,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 vungle.com.edgekey.net
 
 # ================================== WEBORAMA
+0.0.0.0 bayardmediaactivationfr.solution.weborama.fr
+0.0.0.0 edf.solution.weborama.fr
 0.0.0.0 groupelaposte.solution.weborama.fr
 0.0.0.0 renaultdatapooldoubletracking.solution.weborama.fr
+0.0.0.0 serviceciviquefr.solution.weborama.fr
 0.0.0.0 wf.frontend.weborama.fr
 
 # ================================== XITI
