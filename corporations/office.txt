@@ -8,16 +8,22 @@
 # office.txt is a separate file that contains some Microsoft Office endpoints.
 # Main Microsoft hosts file is at ./microsoft.txt
 
+0.0.0.0 api.onedrive.com
 0.0.0.0 blobs.officehome.msocdn.com
 0.0.0.0 config.edge.skype.com
 0.0.0.0 config.teams.microsoft.com
 0.0.0.0 g.live.com
 0.0.0.0 logincdn.msauth.net
+0.0.0.0 office.com
 0.0.0.0 officehomeblobs.blob.core.windows.net
 0.0.0.0 oneclient.sfx.ms
+0.0.0.0 outlook.office365.com
 0.0.0.0 outlookmobile-office365-tas.msedge.net
+0.0.0.0 roaming.officeapps.live.com
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 settings.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 skydrivesync.policies.live.net
+0.0.0.0 substrate.office.com
 0.0.0.0 wdcp.microsoft.com
 0.0.0.0 www.office.com
