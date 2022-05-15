@@ -14,14 +14,17 @@ A workflow was set up for users to download a large file containing ALL hosts fr
 1. Go to [GitHub Actions](https://github.com/Cyanic76/Hosts/actions?query=is%3Asuccess).
 
 2. Click on the most recent successful run.
+  
 ![Click on the run that shows first.](https://cdn.discordapp.com/attachments/854342838194929685/975399982427426887/unknown.png)
 
 3. Scroll to *Artifcats*.
+  
 ![Scroll down to the Artifacts section](https://cdn.discordapp.com/attachments/854342838194929685/975400093056380979/unknown.png)
 
 4. Click on the `output` text next to the box to start the download.
 
 5. Extract the hosts.txt file from the ZIP archive you'll get.
+  
 ![Extract](https://cdn.discordapp.com/attachments/854342838194929685/975400450335600650/unknown.png)
 
 [![Merge all files into one](https://github.com/Cyanic76/Hosts/actions/workflows/merge_all.yml/badge.svg)](https://github.com/Cyanic76/Hosts/actions/workflows/merge_all.yml)
