@@ -1,14 +1,16 @@
-# Cyanic's Hosts list
+# Cyanic's Hosts lists
 
-This is pretty much my personal blocked hosts list.
+All my hosts lists for you to add to your adblocker.
 
 ## Use the hosts list
 
-Add [this url](https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt) to your adblock (like Pi-Hole). Download it, and all of the hosts specified in the file should be blocked.
+Add `https://hosts.cyanic.tk/cyanicHosts.txt` to your adblock (like Pi-Hole). All of the requests that are made to the specified domains will be redirected to 0.0.0.0 (nowhere).
 
-If you want to block more hosts, domains and subdomains, look in the `corporations/` folder and add the URLs one by one to your ad blocker.
+If you want to block more hosts, domains and subdomains, look in the [`corporations/`](https://github.com/Cyanic76/Hosts/tree/main/corporations) folder and add the URLs one by one to your ad blocker.
 
-<details><summary>Get the file with all hosts</summary>
+<details><summary>Get all files in a single .txt file</summary>
+<a href="https://github.com/Cyanic76/Hosts/tree/main/corporations">View on GitHub</a>
+
 A workflow was set up for users to download a large file containing ALL hosts from ALL files. 
 
 1. Go to [GitHub Actions](https://github.com/Cyanic76/Hosts/actions?query=is%3Asuccess).
