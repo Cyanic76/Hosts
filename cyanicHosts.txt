@@ -5,6 +5,7 @@
 ! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt
 
 # Website not working? Open an issue at https://github.com/Cyanic76/Hosts/issues/new
+# Available at https://hosts.cyanic.tk/cyanicHosts.txt for short.
 
 # ================================== OTHER
 127.0.0.1 localhost
