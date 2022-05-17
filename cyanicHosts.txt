@@ -340,6 +340,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 77tracking.com
 0.0.0.0 a5160.casalemedia.com
 0.0.0.0 a-ads.com
+0.0.0.0 a-fds.youborafds01.com
 0.0.0.0 a.ad.gt
 0.0.0.0 a.pub.network
 0.0.0.0 aa-metrics.beauty.hotpepper.jp
@@ -541,11 +542,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics.pix.fr
 0.0.0.0 analytics.pointdrive.linkedin.com
-0.0.0.0 analytics.tiktok.comet
+0.0.0.0 analytics.tiktok.come
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.fouanalytics.com
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.rlcdn.com
+0.0.0.0 api-hotjar.com
 0.0.0.0 astatic.ccmbg.com
 0.0.0.0 b1-eudc1.zemanta.com
 0.0.0.0 bbc.gscontxt.net
