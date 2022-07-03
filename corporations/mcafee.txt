@@ -1,0 +1,22 @@
+! Title: Cyanic's Hosts list - McAfee
+! Expires: 1 month
+! Description: A list of McAfee domains.
+! Homepage: https://github.com/Cyanic76/Hosts
+! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/corporations/mcafee.txt
+
+0.0.0.0 analytics.ccs.mcafee.com
+0.0.0.0 analyticsdcs.ccs.mcafee.com
+0.0.0.0 app.mcafee.com
+0.0.0.0 cloud.gti.mcafee.com
+0.0.0.0 context-enroll.ccs.mcafee.com
+0.0.0.0 einstein-core.awscommon.mcafee.com
+0.0.0.0 gns.ccs.mcafee.com
+0.0.0.0 instruaccess.mcafee.com
+0.0.0.0 lns.ccs.mcafee.com
+0.0.0.0 platformutil.mcafee.com
+0.0.0.0 sadownload.mcafee.com
+0.0.0.0 scinstallcheck.mcafee.com
+0.0.0.0 securitymgmt.unifiedapis.mcafee.com
+0.0.0.0 www.mcafee.com
+0.0.0.0 usepvls.ccs.mcafee.com
+# will add more later
