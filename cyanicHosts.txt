@@ -551,6 +551,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api-hotjar.com
+0.0.0.0 app-measurement.com
 0.0.0.0 astatic.ccmbg.com
 0.0.0.0 b1-eudc1.zemanta.com
 0.0.0.0 bbc.gscontxt.net
@@ -579,6 +580,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ejp.rlcdn.com
 0.0.0.0 eu-west-1.event.prod.bidr.io
 0.0.0.0 event.clientgear.com
+0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 exchange.mediavine.com
 0.0.0.0 fastlane.rubiconproject.com
