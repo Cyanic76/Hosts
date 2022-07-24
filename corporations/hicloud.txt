@@ -1,0 +1,47 @@
+! Title: Cyanic's Hosts list - HiCloud
+! Expires: 1 month
+! Description: A list of HiCloud domains.
+! Homepage: https://github.com/Cyanic76/Hosts
+! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/corporations/hicloud.txt
+
+# Some of these hosts (including metrics) are in the main cyanicHosts.txt file.
+
+0.0.0.0 agdist-api.cloud.huawei.com
+0.0.0.0 api.cloud.huawei.com
+0.0.0.0 appdl-1-drcn.dbankcdn.com
+0.0.0.0 appdl-1-dre.dbankcdn.com
+0.0.0.0 appdl-2-drcn.dbankcdn.com
+0.0.0.0 appdl-11-drcn.dbankcdn.com
+0.0.0.0 appdl-12-drcn.dbankcdn.com
+0.0.0.0 appdl-11-dre.dbankcdn.com
+0.0.0.0 appdl-12-dre.dbankcdn.com
+0.0.0.0 appdl-13-drcn.dbankcdn.com
+0.0.0.0 appdlc-drcn.hispace.dbankcloud.cn
+0.0.0.0 appdlc-dre.hispace.dbankcloud.com
+0.0.0.0 appoptimize-dre.dbankcdn.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 ccpce-de.consumer.huawei.com
+0.0.0.0 configserver-dre.platform.hicloud.com
+0.0.0.0 connect-drcn.dbankcloud.cn
+0.0.0.0 connect-drcn.hispace.hicloud.com
+#0.0.0.0 connectivitycheck.platform.hicloud.com
+0.0.0.0 dnkeeper.hicloud.com
+0.0.0.0 dnkeeper.platform.dbankcloud.cn
+0.0.0.0 event-dre.op.hicloud.com
+0.0.0.0 grs.dbankcloud.asia
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 grs.dbankcloud.com
+0.0.0.0 grs.hicloud.com
+0.0.0.0 grs.platform.dbankcloud.ru
+0.0.0.0 hag-dre.ai.hicloud.com
+0.0.0.0 healthcommon-dre.things.hicloud.com
+0.0.0.0 hihealthbase-dre.things.hicloud.com
+0.0.0.0 hwid.platform.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 openlocation-dre.platform.dbankcloud.com
+0.0.0.0 operationposition-dre.things.dbankcloud.com
+0.0.0.0 sdkserver-dre.op.hicloud.com
+0.0.0.0 sgw-de.c.huawei.com
+0.0.0.0 sportdata-dre.things.hicloud.com
+0.0.0.0 store-dre.hispace.dbankcloud.com
+0.0.0.0 store3.hispace.hicloud.com

@@ -22,13 +22,10 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-# ================================== ADDTHIS/FASTCLICK
-0.0.0.0 addthis.com
-0.0.0.0 s7.addthis.com
-
 # ================================== AMAZON
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 affiliationjs.s3.amazonaws.com
@@ -38,6 +35,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 s-beta.amazon-adsystem.com
 
 # ================================== BAIDU
 0.0.0.0 baidu.com
@@ -49,6 +48,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 choices.consentframework.com
 0.0.0.0 choices.truste.com
+0.0.0.0 choices.trustarc.com
+0.0.0.0 choices-or.trustarc.com
 0.0.0.0 collector.appconsent.io
 0.0.0.0 consensu.org
 0.0.0.0 consentmanager.mgr.consensu.org
@@ -291,6 +292,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 event-dre.op.hicloud.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logservice.hicloud.com
@@ -368,6 +370,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.mrtnsrv.com
 0.0.0.0 adclick.com
 0.0.0.0 addfreestats.com
+0.0.0.0 addthis.com
 0.0.0.0 ademails.com
 0.0.0.0 adengage.com
 0.0.0.0 adetracking.com
@@ -404,13 +407,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 contents.adpaths.com
 0.0.0.0 contextual.media.net
 0.0.0.0 core.iprom.net
+0.0.0.0 cs.admanmedia.com
+0.0.0.0 cs.emxdgt.com
+0.0.0.0 cs.media.net
 0.0.0.0 de1-bid.adsrvr.org
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 dispatcher.mng-ads-com
 0.0.0.0 dispatcher.mng-ads.com
+0.0.0.0 dmp.brand-display.com
 0.0.0.0 doubleclick.net
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 eb2.3lift.com
+0.0.0.0 emxdgt.com
 0.0.0.0 eu-eb2.3lift.com
 0.0.0.0 eu-tlx.3lift.com
 0.0.0.0 eu-u.openx.net
@@ -453,9 +461,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 rereddit.com
 0.0.0.0 s.videostep.com
 0.0.0.0 s2s.adjust.com
+0.0.0.0 s7.addthis.com
 0.0.0.0 seg.ad.gt
 0.0.0.0 sponsor.ajay.app
 0.0.0.0 ssb-euw1.smartadserver.com
+0.0.0.0 ssb-euw2.smartadserver.com
 0.0.0.0 ssb-itx4.smartadserver.com
 0.0.0.0 ssb-itx5.smartadserver.com
 0.0.0.0 static.ads-twitter.com
@@ -472,12 +482,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 videostep.com
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 wins.isprog.com
+0.0.0.0 ws.rqtrk.eu
 0.0.0.0 youtube.cleverads.vn
 
 # ================================== OTHER UNNECESSARY HOSTS
 # Blocking those hosts do not break websites, usually.
 0.0.0.0 a.mouseflow.com
 0.0.0.0 adlooxtracking.com
+0.0.0.0 android-safebrowsing.google.com # Tell me if this breaks everything
 0.0.0.0 b1-eudc1.zemanta.com
 0.0.0.0 backedn.irsdn.net
 0.0.0.0 beam.hubvisor.io
@@ -485,6 +497,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 client-context.hubvisor.io
 0.0.0.0 combinatronics.io
 0.0.0.0 contextual.sirdata.io
+0.0.0.0 creativecdn.com
 0.0.0.0 c-sta.haloapps.com
 0.0.0.0 csync.smilewanted.com
 0.0.0.0 d.reddit.com
@@ -512,6 +525,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 live.staticflickr.com
 0.0.0.0 mclean.uk.cloud.360safe.com
 0.0.0.0 mediavoice.com
+0.0.0.0 ml314.com
 0.0.0.0 mouseflow.com
 0.0.0.0 mvconf.uk.cloud.360safe.com
 0.0.0.0 optimizely.com
@@ -533,6 +547,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 static-pixel.impptk.com
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.e-volution.ai
+0.0.0.0 sync.ipredictive.com
+0.0.0.0 sync.srv.stackadapt.com
 0.0.0.0 tracker.quadran.eu
 0.0.0.0 tv.springserve.com
 0.0.0.0 u.videostep.com
@@ -564,6 +580,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bid4.videostep.com
 0.0.0.0 bighop.com
 0.0.0.0 blyjh.com
+0.0.0.0 bttrack.com
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.statically.io
@@ -590,6 +607,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 funbe.rjifxuqoo
 0.0.0.0 gcm.ctnsnet.com
 0.0.0.0 goutee.top
+0.0.0.0 green.erne.co
 0.0.0.0 h1.fastlyanalytics.map.fastly.net
 0.0.0.0 hal9000.redintelligence.net
 0.0.0.0 hal90005.redintelligence.net
@@ -614,6 +632,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m1e.net
 0.0.0.0 madinad.com
 0.0.0.0 map.sddan.com
+0.0.0.0 match.prod.bidr.io
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 mypic.icu
@@ -626,7 +645,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 pbs.hubvisor.io
 0.0.0.0 ping.seedtag.com
 0.0.0.0 pixel.onaudience.com
-0.0.0.0 pornozot.com
+0.0.0.0 pixel-eu.onaudience.com
+0.0.0.0 pixel-eu.rubiconproject.com
+0.0.0.0 pixel.tapad.com
+0.0.0.0 pornozot.compad.com
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 prebid-server-perf-eu.rubiconproject.net.akadns.net
 0.0.0.0 prod.y-medialink.com
@@ -659,10 +681,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 studio-tag.teads.tv
 0.0.0.0 sun.mv
 0.0.0.0 sync.1rx.io
+0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 sync.richaudience.com
 0.0.0.0 t.richaudience.com
 0.0.0.0 t.seedtag.com
 0.0.0.0 tagservice.maximus.mobkoi.com
+0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 tracker.yougov.com
 0.0.0.0 tracking.emerse.com
@@ -675,6 +699,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 webdesignerdepot.com
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 www.iubenda.com
+0.0.0.0 www.wysistat.com
 0.0.0.0 z4y.pl
 
 # ================================== PINTEREST
