@@ -44,6 +44,7 @@ ff02::3 ip6-allhosts
 # ================================== COOKIE BANNERS
 0.0.0.0 ccpa.sp-prod.net
 0.0.0.0 cdn-privacy-mgmt.com
+0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 cdn.appconsent.io
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 choices.consentframework.com
