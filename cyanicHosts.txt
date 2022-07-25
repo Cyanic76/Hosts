@@ -362,6 +362,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cbs.taboola.com
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 cds.taboola.com
 0.0.0.0 cleverads.vn
 0.0.0.0 contents.adpaths.com
 0.0.0.0 contextual.media.net
@@ -530,6 +531,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 astatic.ccmbg.com
 0.0.0.0 b1-eudc1.zemanta.com
 0.0.0.0 bbc.gscontxt.net
+0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beacons.gcp.gvt2.com
@@ -579,6 +581,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 io1.eulerian.net
 0.0.0.0 isso.ps
 0.0.0.0 js.hs-analytics.net
+0.0.0.0 js.hs-banner.com
+0.0.0.0 js-na1.hs-scripts.com
 0.0.0.0 kwebstat.videostep.com
 0.0.0.0 kwebstat4.videostep.com
 0.0.0.0 kyo7.supdepub.com
@@ -587,6 +591,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 le-monde-ams.gscontxt.net
 0.0.0.0 libs.coremetrix.com
 0.0.0.0 lmhorse.se
+0.0.0.0 m.castle.io
 0.0.0.0 m.csqtrk.net
 0.0.0.0 m1e.net
 0.0.0.0 madinad.com
@@ -602,6 +607,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 p.adlooxtracking.com
 0.0.0.0 pantip.com
 0.0.0.0 pbs.hubvisor.io
+0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping.seedtag.com
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 pixel-eu.onaudience.com
@@ -644,6 +650,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sync.richaudience.com
 0.0.0.0 t.richaudience.com
 0.0.0.0 t.seedtag.com
+0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tagservice.maximus.mobkoi.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 track.hubspot.com
