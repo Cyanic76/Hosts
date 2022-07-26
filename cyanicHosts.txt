@@ -68,6 +68,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 prefmgr-cookie.truste-svc.net
 0.0.0.0 privacy-center.org
 0.0.0.0 sdk.privacy-center.org
+0.0.0.0 sourcepoint.mgr.consensu.org
 0.0.0.0 uniconsent.com
 
 # ================================== ERROR REPORTING
@@ -82,6 +83,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 o56819.ingest.sentry.io
 
 # ================================== FACEBOOK
+# There's more in the corporations/facebook.txt.
 0.0.0.0 an.facebook.com
 0.0.0.0 analytics.facebook.com
 0.0.0.0 facebook-proxy.hi5.com
@@ -108,6 +110,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleoptimize.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
@@ -125,6 +128,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 pf-in-f188.1e100.net
+0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 sa-in-f188.1e100.net
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 signaler-pa.clients6.google.com
@@ -337,10 +341,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 adloox.zebestof.com
 0.0.0.0 adnext.fr
 0.0.0.0 adnxs-simple.com
+0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 ads.avads.com
 0.0.0.0 ads-click.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads.deviantart.com
+0.0.0.0 ads.lfstmedia.com
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.pro-market.net
 0.0.0.0 ads.reddit.com
@@ -352,6 +358,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservetx.media.net
 0.0.0.0 ads-twitter.com
 0.0.0.0 adthrive.com
+0.0.0.0 ams3-ib.adnxs.com
+0.0.0.0 auiopt.unityads.unity3d.com
 0.0.0.0 b1h.zemanta.com
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 be.durationmedia.net
@@ -364,9 +372,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cds.taboola.com
 0.0.0.0 cleverads.vn
+0.0.0.0 connect.tapjoy.com
 0.0.0.0 contents.adpaths.com
 0.0.0.0 contextual.media.net
 0.0.0.0 core.iprom.net
+0.0.0.0 cs.adingo.jp
 0.0.0.0 cs.admanmedia.com
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 cs.media.net
@@ -385,9 +395,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 euc-ice.360yield.com
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 feedroll.com
+0.0.0.0 fra1-ib.adnxs.com
 0.0.0.0 freshmarketer.com
+0.0.0.0 hb.beop.io
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbopenbid22000nf.pubmatic.com
+0.0.0.0 iab-imp-gateway.supersonicads.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ib.adnxs-simple.com
 0.0.0.0 ib.a-mx.com
@@ -396,22 +409,31 @@ ff02::3 ip6-allhosts
 0.0.0.0 image8.pubmatic.com
 0.0.0.0 imagesync-lhr.pubmatic.com
 0.0.0.0 in-automate.sendinblue.com
+0.0.0.0 init.supersonicads.com
 0.0.0.0 its.tradelab.fr
+0.0.0.0 itx4.smartadserver.com
+0.0.0.0 itx5.smartadserver.com
+0.0.0.0 j.adlooxtracking.com
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 m.servedby-buysellads.com
+0.0.0.0 match.adsrvr.com
 0.0.0.0 media.net
 0.0.0.0 moatads.com
 0.0.0.0 mwzeom.zeotap.com
 0.0.0.0 odr.mookie1.com
 0.0.0.0 onetag-sys.com
 0.0.0.0 orangeads.fr
+0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 pbjs.e-planning.net
 0.0.0.0 pbs.hubvisor.io
+0.0.0.0 pbs-front.mediasquare.fr
 0.0.0.0 pingdom.net
 0.0.0.0 pips.taboola.com
 0.0.0.0 pix.adrta.com
 0.0.0.0 pkg.adfinis.com
+0.0.0.0 placements.tapjoy.com
 0.0.0.0 play.adpaths.com
+0.0.0.0 pm-gateway.supersonicads.com
 0.0.0.0 prebid.ams1.adnxs-simple.com
 0.0.0.0 prebid.reworldmediafactory.com
 0.0.0.0 prebid-fr.casalemedia.com
@@ -429,6 +451,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssb-itx4.smartadserver.com
 0.0.0.0 ssb-itx5.smartadserver.com
 0.0.0.0 static.ads-twitter.com
+0.0.0.0 static.criteo.net
 0.0.0.0 static.media.net
 0.0.0.0 sync.adotmob.com
 0.0.0.0 taboola.com
@@ -436,6 +459,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tlx.3lift.com
 0.0.0.0 tpsc-eu3.doubleverify.com
 0.0.0.0 u-ams02.e-planning.net
+0.0.0.0 ums.acuityplatform.com
 0.0.0.0 us-u.openx.net
 0.0.0.0 vae-bid.adsrvr.org
 0.0.0.0 vid.isprog.com
@@ -443,6 +467,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 wins.isprog.com
 0.0.0.0 ws.rqtrk.eu
+0.0.0.0 ws.tapjoyads.com
 0.0.0.0 youtube.cleverads.vn
 
 # ================================== OTHER UNNECESSARY HOSTS
@@ -454,6 +479,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 backedn.irsdn.net
 0.0.0.0 beam.hubvisor.io
 0.0.0.0 cdn.iframe.ly
+0.0.0.0 client.rave-api.com
 0.0.0.0 client-context.hubvisor.io
 0.0.0.0 combinatronics.io
 0.0.0.0 contextual.sirdata.io
@@ -512,6 +538,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracker.quadran.eu
 0.0.0.0 tv.springserve.com
 0.0.0.0 u.videostep.com
+0.0.0.0 widgets.outbrain.com
 
 # ================================== OTHER TRACKERS & ANALYTICS
 0.0.0.0 9emn.com
@@ -525,6 +552,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.fouanalytics.com
 0.0.0.0 api.gameanalytics.com
+0.0.0.0 api.leanplum.com
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api-hotjar.com
 0.0.0.0 app-measurement.com
@@ -591,6 +619,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 le-monde-ams.gscontxt.net
 0.0.0.0 libs.coremetrix.com
 0.0.0.0 lmhorse.se
+0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 m.castle.io
 0.0.0.0 m.csqtrk.net
 0.0.0.0 m1e.net
@@ -622,6 +651,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 px.powerlinks.com
 0.0.0.0 qualtrics.com
 0.0.0.0 quantserve.com
+0.0.0.0 region1.app-measurement.com
 0.0.0.0 robwu.nl
 0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 s.seedtag.com
@@ -635,10 +665,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 skimresources.com
 0.0.0.0 sonic.impactify.media
 0.0.0.0 snoop.minecraft.net
+0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 ssb-eqx.smartadserver.com
 0.0.0.0 sstats.adobe.com
 0.0.0.0 statcounter.com
 0.0.0.0 static.cloudflareinsights.com
+0.0.0.0 static.hyprmx.com
 0.0.0.0 static.scroll.com
 0.0.0.0 stats.adobe.com
 0.0.0.0 stats.redditmedia.com
@@ -650,6 +682,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 sync.richaudience.com
 0.0.0.0 t.richaudience.com
 0.0.0.0 t.seedtag.com
+0.0.0.0 tag.aticdn.net
+0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tagservice.maximus.mobkoi.com
 0.0.0.0 telemetry.api.swiftkey.com
@@ -663,6 +697,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vinci.commander1.com
 0.0.0.0 vogozaw.ru
 0.0.0.0 webdesignerdepot.com
+0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 www.iubenda.com
 0.0.0.0 www.wysistat.com
