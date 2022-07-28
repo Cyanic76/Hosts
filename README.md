@@ -6,7 +6,11 @@ All my hosts lists for you to add to your adblocker.
 
 Add `https://hosts.cyanic.tk/cyanicHosts.txt` to your adblock (like Pi-Hole). All of the requests that are made to the specified domains will be redirected to 0.0.0.0 (nowhere).
 
-If you want to block more hosts, domains and subdomains, look in the [`corporations/`](https://github.com/Cyanic76/Hosts/tree/main/corporations) folder and add the URLs one by one to your ad blocker.
+## Choose what you want to block
+
+The goal is to let you choose what you want and don't want to block. I split the files into many new ones in the [`corporations/`](https://github.com/Cyanic76/Hosts/tree/main/corporations) folder for you to pick the ones you want.
+
+## Get all hosts together
 
 <details><summary>Get all files in a single .txt file</summary>
 <a href="https://github.com/Cyanic76/Hosts/tree/main/corporations">View on GitHub</a>
