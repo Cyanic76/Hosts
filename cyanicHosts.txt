@@ -353,6 +353,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.smartclick.com
 0.0.0.0 ads.stackoverflow.com
+0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.sun.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 adservetx.media.net
@@ -370,6 +371,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cbs.taboola.com
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 cdn.wazimo.com
 0.0.0.0 cds.taboola.com
 0.0.0.0 cleverads.vn
 0.0.0.0 connect.tapjoy.com
@@ -380,6 +382,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cs.admanmedia.com
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 cs.media.net
+0.0.0.0 data.ad-score.com
 0.0.0.0 de1-bid.adsrvr.org
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 dispatcher.mng-ads-com
@@ -414,7 +417,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 itx4.smartadserver.com
 0.0.0.0 itx5.smartadserver.com
 0.0.0.0 j.adlooxtracking.com
+0.0.0.0 js.ad-score.com
 0.0.0.0 logs.ironsrc.mobi
+0.0.0.0 mb9eo.publishers.tremorhub.com
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 match.adsrvr.com
 0.0.0.0 media.net
@@ -441,6 +446,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pubs.acs.irg
 0.0.0.0 q.adrta.com
 0.0.0.0 rereddit.com
+0.0.0.0 s.console.adtarget.com.tr
 0.0.0.0 s.videostep.com
 0.0.0.0 s2s.adjust.com
 0.0.0.0 s7.addthis.com
@@ -450,6 +456,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssb-euw2.smartadserver.com
 0.0.0.0 ssb-itx4.smartadserver.com
 0.0.0.0 ssb-itx5.smartadserver.com
+0.0.0.0 ssc-cms.33across.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.criteo.net
 0.0.0.0 static.media.net
@@ -520,6 +527,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pbjs.sskzlabs.com
 0.0.0.0 polyfill.io
 0.0.0.0 prebid.smilewanted.com
+0.0.0.0 prg.smartadserver.com
 0.0.0.0 prod-tp.sumo.mozit.cloud
 0.0.0.0 proxymedia.woopic.com
 0.0.0.0 ps.eyeota.com
@@ -529,6 +537,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sentry-cdn.com
 0.0.0.0 sharethis.com
 0.0.0.0 speedcurve.com
+0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 static-pixel.impptk.com
 0.0.0.0 sync.bfmio.com
@@ -539,12 +548,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 tv.springserve.com
 0.0.0.0 u.videostep.com
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 x.bidswitch.net
 
 # ================================== OTHER TRACKERS & ANALYTICS
 0.0.0.0 9emn.com
 0.0.0.0 admdftjs.info
 0.0.0.0 adserv.info
 0.0.0.0 akm-static.ccmbg.com
+0.0.0.0 amplify.outbrain.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics.pix.fr
 0.0.0.0 analytics.pointdrive.linkedin.com
@@ -563,6 +574,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 bid.contextweb.com
 0.0.0.0 bid1.videostep.com
 0.0.0.0 bid2.videostep.com
 0.0.0.0 bid3.videostep.com
@@ -573,6 +585,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.statically.io
+0.0.0.0 cdn.wazimo.com
 0.0.0.0 check.analytics.rlcdn.com
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 config.seedtag.com
@@ -607,6 +620,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 idrs.adtelligent.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 io1.eulerian.net
+0.0.0.0 inventory-weighted.hyprmx.com
 0.0.0.0 isso.ps
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hs-banner.com
@@ -638,7 +652,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 pbs.hubvisor.io
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping.seedtag.com
+0.0.0.0 pixel.mc-complex.com
 0.0.0.0 pixel.onaudience.com
+0.0.0.0 pixel-eu.mc-complex.com
 0.0.0.0 pixel-eu.onaudience.com
 0.0.0.0 pixel-eu.rubiconproject.com
 0.0.0.0 pixel.tapad.com
@@ -682,6 +698,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sync.richaudience.com
 0.0.0.0 t.richaudience.com
 0.0.0.0 t.seedtag.com
+0.0.0.0 tag.1rx.io
 0.0.0.0 tag.aticdn.net
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.crwdcntrl.net
@@ -694,6 +711,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 travelncs.com
 0.0.0.0 tzwaw.pw
 0.0.0.0 u.4dex.io
+0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 vinci.commander1.com
 0.0.0.0 vogozaw.ru
 0.0.0.0 webdesignerdepot.com
