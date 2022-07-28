@@ -6,6 +6,10 @@
 
 # Some of these hosts (including metrics) are in the main cyanicHosts.txt file.
 
+# BEWARE
+# ONLY USE THIS IF YOU KNOW WHAT YOU'RE DOING.
+# it also works if you live in a cave.
+
 # Apps
 0.0.0.0 about.google
 0.0.0.0 admob.google.com
@@ -33,6 +37,7 @@
 0.0.0.0 groups.google.com
 0.0.0.0 gsuite.google.com
 0.0.0.0 hangouts.google.com
+0.0.0.0 inbox.google.com
 0.0.0.0 keep.google.com
 0.0.0.0 mail.google.com
 0.0.0.0 maps.google.com
@@ -160,6 +165,7 @@
 0.0.0.0 tv.youtube.com
 0.0.0.0 www.youtube.com
 0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtubei.googleapis.com
 
 # Waze (incomplete)
 0.0.0.0 biz.waze.com
