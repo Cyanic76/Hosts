@@ -27,6 +27,7 @@
 #0.0.0.0 connectivitycheck.platform.hicloud.com
 0.0.0.0 dnkeeper.hicloud.com
 0.0.0.0 dnkeeper.platform.dbankcloud.cn
+0.0.0.0 event.dbankcdn.com
 0.0.0.0 event-dre.op.hicloud.com
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 grs.dbankcloud.cn
@@ -37,9 +38,18 @@
 0.0.0.0 healthcommon-dre.things.hicloud.com
 0.0.0.0 hihealthbase-dre.things.hicloud.com
 0.0.0.0 hwid.platform.hicloud.com
+0.0.0.0 logbak.hicloud.com
 0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 openlocation-dre.platform.dbankcloud.com
 0.0.0.0 operationposition-dre.things.dbankcloud.com
+0.0.0.0 push.hicloud.com
+0.0.0.0 pushtrs1.push.hicloud.com
+0.0.0.0 pushtrs2.push.hicloud.com
+0.0.0.0 pushtrs3.push.hicloud.com
+0.0.0.0 pushtrs4.push.hicloud.com
+0.0.0.0 pushtrs5.push.hicloud.com
+0.0.0.0 pushtrs6.push.hicloud.com
+0.0.0.0 pushtrs7.push.hicloud.com
 0.0.0.0 sdkserver-dre.op.hicloud.com
 0.0.0.0 sgw-de.c.huawei.com
 0.0.0.0 sportdata-dre.things.hicloud.com
