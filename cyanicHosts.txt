@@ -84,10 +84,17 @@ ff02::3 ip6-allhosts
 
 # ================================== FACEBOOK
 # There's more in the corporations/facebook.txt.
+0.0.0.0 ads.ak.facebook.com
+0.0.0.0 ads.facebook.com
 0.0.0.0 an.facebook.com
 0.0.0.0 analytics.facebook.com
+0.0.0.0 facebook-ads.mediaz.vn
+0.0.0.0 facebook-color.5v.pl
+0.0.0.0 facebook-drm-server3.com
 0.0.0.0 facebook-proxy.hi5.com
 0.0.0.0 facebook.commit.capitaluniversity.net
+0.0.0.0 facebookads.gafin.vn
+0.0.0.0 fcd32f50e80-qonnvwqa1640495824-sonar.xz.fbcdn.net
 0.0.0.0 graph.facebook.com
 0.0.0.0 pixel.facebook.com
 0.0.0.0 unblockfacebook.co.uk

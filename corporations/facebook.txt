@@ -1,8 +1,8 @@
-! Title: Cyanic's Hosts list - HiCloud
+! Title: Cyanic's Hosts list - Facebook
 ! Expires: 1 month
-! Description: A list of HiCloud domains.
+! Description: A list of Facebook domains.
 ! Homepage: https://github.com/Cyanic76/Hosts
-! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/corporations/hicloud.txt
+! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/corporations/facebook.txt
 
 # Some of these hosts (including metrics) are in the main cyanicHosts.txt file.
 
