@@ -12,8 +12,12 @@ The goal is to let you choose what you want and don't want to block. I split the
 
 ## Get all hosts together
 
-<details><summary>Get all files in a single .txt file</summary>
-<a href="https://github.com/Cyanic76/Hosts/tree/main/corporations">View on GitHub</a>
+<details><summary>Shell</summary>
+Run the `merge_all_hosts.sh` in the `merge_all` folder.
+</details>
+
+<details><summary>GitHub Actions</summary>
+<a href="https://codeberg.org/Cyanic76/Hosts/">View on Codeberg</a>
 
 A workflow was set up for users to download a large file containing ALL hosts from ALL files. 
 
