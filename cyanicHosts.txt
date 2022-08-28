@@ -254,6 +254,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 ad.xiaomi.com
 0.0.0.0 ads.oppomobile.com
+0.0.0.0 ads.samsung.com
 0.0.0.0 analytics.oneplus.cn
 0.0.0.0 analytics.samsungknox.com
 0.0.0.0 analytics-api.samsunghealthcn.com
@@ -366,6 +367,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-click.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads.deviantart.com
+0.0.0.0 ads.flashbid.io
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads.lfstmedia.com
 0.0.0.0 ads.linkedin.com
@@ -390,6 +392,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 b1h.zemanta.com
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 be.durationmedia.net
+0.0.0.0 bid.bricks-co.com
 0.0.0.0 buysellads.com
 0.0.0.0 c1.nend.net
 0.0.0.0 carbonads.com
