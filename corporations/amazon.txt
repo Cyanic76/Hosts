@@ -1,0 +1,21 @@
+! Title: Cyanic's Hosts list - Amazon
+! Expires: 1 month
+! Description: A short list of Amazon domains.
+! Homepage: https://hosts.cyanic.tk
+! Source: https://hosts.cyanic.tk/corporations/amazon.txt
+
+0.0.0.0 amazon.com
+0.0.0.0 aan.amazon.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 assoc-amazon.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 device-metrics-us-2.amazon.com
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 s-beta.amazon-adsystem.com

@@ -16,8 +16,10 @@ The goal is to let you choose what you want and don't want to block. I split the
 Run the `merge_all_hosts.sh` in the `merge_all` folder.
 </details>
 
-<details><summary>GitHub Actions</summary>
+<details><summary>GitHub Actions (outdated)</summary>
 <a href="https://codeberg.org/Cyanic76/Hosts/">View on Codeberg</a>
+
+:warning: This is now outdated and the last artifact has expired.
 
 A workflow was set up for users to download a large file containing ALL hosts from ALL files. 
 

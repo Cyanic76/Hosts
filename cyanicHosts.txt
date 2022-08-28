@@ -1,11 +1,12 @@
 ! Title: Cyanic's Hosts list
 ! Expires: 1 week
 ! Description: A list of advertising, analytics and tracking hosts.
-! Homepage: https://github.com/Cyanic76/Hosts
-! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/cyanicHosts.txt
+! Homepage: https://hosts.cyanic.tk
+! Source: https://hosts.cyanic.tk/cyanicHosts.txt
 
-# Website not working? Open an issue at https://github.com/Cyanic76/Hosts/issues/new
+# Website not working? Open an issue at https://codeberg.org/Cyanic76/
 # Available at https://hosts.cyanic.tk/cyanicHosts.txt for short.
+# Entirely block a corporation by adding a file from the corporations/ folder.
 
 # ================================== OTHER
 127.0.0.1 localhost
@@ -21,22 +22,6 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-
-# ================================== AMAZON
-0.0.0.0 aan.amazon.com
-0.0.0.0 aax.amazon-adsystem.com
-0.0.0.0 aax-eu.amazon-adsystem.com
-0.0.0.0 advertising-api-eu.amazon.com
-0.0.0.0 advice-ads.s3.amazonaws.com
-0.0.0.0 affiliationjs.s3.amazonaws.com
-0.0.0.0 amazon-adsystem.com
-0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 assoc-amazon.com
-0.0.0.0 c.amazon-adsystem.com
-0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 mads.amazon-adsystem.com
-0.0.0.0 s.amazon-adsystem.com
-0.0.0.0 s-beta.amazon-adsystem.com
 
 # ================================== BAIDU
 0.0.0.0 baidu.com
@@ -180,9 +165,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 styles.redditmedia.com.access.network
 0.0.0.0 v.redd.it.access.network
 0.0.0.0 www.celsoazevedo.com
-
-# ================================== HP
-0.0.0.0 cs.rssx.hp.com
 
 # ================================== LUCKYORANGE
 0.0.0.0 cdn.luckyorange.com

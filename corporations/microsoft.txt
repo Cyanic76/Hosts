@@ -1,8 +1,8 @@
 ! Title: Cyanic's Hosts list - Microsoft
 ! Expires: 1 month
 ! Description: A list of Microsoft domains.
-! Homepage: https://github.com/Cyanic76/Hosts
-! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/corporations/microsoft.txt
+! Homepage: https://hosts.cyanic.tk
+! Source: https://hosts.cyanic.tk/corporations/microsoft.txt
 
 # More at https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
 # office.txt is a separate file that contains some Microsoft Office endpoints.

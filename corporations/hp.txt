@@ -1,0 +1,70 @@
+! Title: Cyanic's Hosts list - HP
+! Expires: 1 month
+! Description: A list of HP domains.
+! Homepage: https://hosts.cyanic.tk
+! Source: https://hosts.cyanic.tk/corporations/hp.txt
+
+# This blocks:
+# - ARUBA
+# - HP
+# - HP Enterprise (HPE)
+# - HP Smart
+# - OMEN
+
+0.0.0.0 123.hp.com
+0.0.0.0 asp.arubanetworks.com
+0.0.0.0 auth.hpe.com
+0.0.0.0 authz.api.ws-hp.com
+0.0.0.0 blogs.arubanetworks.com
+0.0.0.0 buy.hpe.com
+0.0.0.0 calculators.arubanetworks.com
+0.0.0.0 careers.arubanetworks.com
+0.0.0.0 client.greenlake.hpe.com
+0.0.0.0 common.cloud.hpe.com
+0.0.0.0 community.arubanetworks.com
+0.0.0.0 community.hpe.com
+0.0.0.0 connect.hpe.com
+0.0.0.0 cs.rssx.hp.com
+0.0.0.0 developer.arubanetworks.com
+0.0.0.0 developer.hpe.com
+0.0.0.0 developers.hp.com
+0.0.0.0 e100.a.akamaiedge.net
+0.0.0.0 e7316.b.akamaiedge.net
+0.0.0.0 e40715.dsca.akamaiedge.net
+0.0.0.0 education.hpe.com
+0.0.0.0 garage.hp.com
+0.0.0.0 gncpgslbpro1.houston.hp.com
+0.0.0.0 h10076.www1.hpe.com
+0.0.0.0 h20212.www2.hp.com
+0.0.0.0 h20195.www2.hp.com
+0.0.0.0 h20195.www2.hpe.com
+0.0.0.0 h30434.www3.hp.com
+0.0.0.0 hp.com
+0.0.0.0 hpetraining.co1.qualtrics.com
+0.0.0.0 instantink.com
+0.0.0.0 instantink.hpconnected.com
+0.0.0.0 investor.hp.com
+0.0.0.0 investors.hpe.com
+0.0.0.0 jobs.hp.com
+0.0.0.0 locator.hp.com
+0.0.0.0 login3.id.hp.com
+0.0.0.0 myaccount.id.hp.com
+0.0.0.0 news.arubanetworks.com
+0.0.0.0 partner.hp.com
+0.0.0.0 parts.hp.com
+0.0.0.0 portal.central.arubanetworks.com
+0.0.0.0 register.hp.com
+0.0.0.0 support.hp.com
+0.0.0.0 support.hpe.com
+0.0.0.0 store.hp.com
+0.0.0.0 techpro.hpe.com
+0.0.0.0 thenew.hp.com
+0.0.0.0 www.arubanetworks.com
+0.0.0.0 www.hp.com
+0.0.0.0 www.hp-smart.cn
+0.0.0.0 www.hpe.com
+0.0.0.0 www.hpsalescentral.com
+0.0.0.0 www.hpsmart.com
+0.0.0.0 www.hpsmartstage.com
+0.0.0.0 www.omen.com
+0.0.0.0 www8.hp.com

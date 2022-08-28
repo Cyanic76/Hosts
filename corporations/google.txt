@@ -1,8 +1,8 @@
 ! Title: Cyanic's Hosts list - Google
 ! Expires: 1 month
 ! Description: A list of Google domains.
-! Homepage: https://github.com/Cyanic76/Hosts
-! Source: https://raw.githubusercontent.com/Cyanic76/Hosts/main/corporations/google.txt
+! Homepage: https://hosts.cyanic.tk
+! Source: https://hosts.cyanic.tk/corporations/google.txt
 
 # Some of these hosts (including metrics) are in the main cyanicHosts.txt file.
 
@@ -62,6 +62,11 @@
 0.0.0.0 www.google.com
 0.0.0.0 www.tiltbrush.com
 
+# Android
+0.0.0.0 android.com
+0.0.0.0 android-developers.googleblog.com
+0.0.0.0 developer.android.com
+
 # Other
 0.0.0.0 300zlf-dnsotls-ds.metric.gstatic.com
 0.0.0.0 accounts.google.com
@@ -74,6 +79,7 @@
 0.0.0.0 android.googleapis.com
 0.0.0.0 apis.google.com
 0.0.0.0 carrers.google.com
+0.0.0.0 chrome.com
 0.0.0.0 clients3.google.com
 0.0.0.0 clients4.google.com
 0.0.0.0 connectivitycheck.google.com
@@ -81,12 +87,14 @@
 0.0.0.0 content-firebaseappcheck.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 csp.withgoogle.com
+0.0.0.0 developer.chrome.com
 0.0.0.0 developers.google.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 encrypted-tbn0.gstatic.com
 0.0.0.0 enterprise.google.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 firebase.google.com
 0.0.0.0 firestore.googleapis.com
 0.0.0.0 fonts.googleapis.com
 0.0.0.0 fonts.gstatic.com
@@ -94,6 +102,7 @@
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 google-analytics.com
+0.0.0.0 googleblog.com
 0.0.0.0 googleoptimize.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
@@ -123,6 +132,7 @@
 0.0.0.0 podcastsmanager.google.com
 0.0.0.0 policies.google.com # Will prevent access to privacy policy, terms of use, etc
 0.0.0.0 pop.gmail.com
+0.0.0.0 redirector.gvt1.com
 0.0.0.0 sa-in-f188.1e100.net
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 scone-pa.clients6.google.com
