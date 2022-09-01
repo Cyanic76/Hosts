@@ -64,8 +64,11 @@
 
 # Android
 0.0.0.0 android.com
+0.0.0.0 android.clients.google.com
 0.0.0.0 android-developers.googleblog.com
+0.0.0.0 android.googleapis.com
 0.0.0.0 developer.android.com
+0.0.0.0 time.android.com
 
 # Other
 0.0.0.0 300zlf-dnsotls-ds.metric.gstatic.com
@@ -76,13 +79,13 @@
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
 0.0.0.0 ajax.googleapis.com
-0.0.0.0 android.googleapis.com
 0.0.0.0 apis.google.com
 0.0.0.0 carrers.google.com
 0.0.0.0 chrome.com
 0.0.0.0 clients3.google.com
 0.0.0.0 clients4.google.com
 0.0.0.0 connectivitycheck.google.com
+0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 content-firebaseappcheck.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
@@ -125,9 +128,12 @@
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
+0.0.0.0 people-pa.googleapis.com
 0.0.0.0 peoplestack-pa.googleapis.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 pf-in-f188.1e100.net
+0.0.0.0 play-fe.googleapis.com
+0.0.0.0 play-lh.googleusercontent.com
 0.0.0.0 play.googleapis.com
 0.0.0.0 podcastsmanager.google.com
 0.0.0.0 policies.google.com # Will prevent access to privacy policy, terms of use, etc

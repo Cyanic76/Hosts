@@ -24,7 +24,7 @@
 0.0.0.0 configserver-dre.platform.hicloud.com
 0.0.0.0 connect-drcn.dbankcloud.cn
 0.0.0.0 connect-drcn.hispace.hicloud.com
-#0.0.0.0 connectivitycheck.platform.hicloud.com
+0.0.0.0 connectivitycheck.platform.hicloud.com
 0.0.0.0 dnkeeper.hicloud.com
 0.0.0.0 dnkeeper.platform.dbankcloud.cn
 0.0.0.0 event.dbankcdn.com
@@ -50,6 +50,7 @@
 0.0.0.0 pushtrs5.push.hicloud.com
 0.0.0.0 pushtrs6.push.hicloud.com
 0.0.0.0 pushtrs7.push.hicloud.com
+0.0.0.0 query.hicloud.com
 0.0.0.0 sdkserver-dre.op.hicloud.com
 0.0.0.0 sgw-de.c.huawei.com
 0.0.0.0 sportdata-dre.things.hicloud.com
