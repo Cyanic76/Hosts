@@ -6,9 +6,7 @@
 
 # Some of these hosts (including metrics) are in the main cyanicHosts.txt file.
 
-# BEWARE
-# ONLY USE THIS IF YOU KNOW WHAT YOU'RE DOING.
-# it also works if you live in a cave.
+# This will block most Google services, including Android, YouTube and Waze.
 
 # Apps
 0.0.0.0 about.google

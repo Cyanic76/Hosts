@@ -1,0 +1,32 @@
+! Title: Cyanic's Hosts list - Twitter
+! Expires: 1 month
+! Description: An incomplete list of Twitter domains.
+! Homepage: https://hosts.cyanic.tk
+! Source: https://hosts.cyanic.tk/corporations/twitter.txt
+
+0.0.0.0 about.twitter.com
+0.0.0.0 abs.twimg.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 api.twitter.com
+0.0.0.0 blog.twitter.com
+0.0.0.0 business.twitter.com
+0.0.0.0 careers.twitter.com
+0.0.0.0 cdn.cms-twdigitalassets.com
+0.0.0.0 create.twitter.com
+0.0.0.0 cs41.wac.edgecastcdn.net
+0.0.0.0 cs510.wpc.edgecastcdn.net
+0.0.0.0 dev.twitter.com
+0.0.0.0 developer.twitter.com
+0.0.0.0 fonts.twitter.com
+0.0.0.0 help.twitter.com
+0.0.0.0 investor.twitterinc.com
+0.0.0.0 marketing.twitter.com
+0.0.0.0 pic.twitter.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 platform.twitter.map.fastly.net
+0.0.0.0 search.twitter.com
+0.0.0.0 status.twitterstat.us
+0.0.0.0 support.twitter.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 twitter.com
+0.0.0.0 twitterinc.tt.omtrdc.net
