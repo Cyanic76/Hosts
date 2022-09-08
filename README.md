@@ -2,7 +2,7 @@
 
 All my hosts lists for you to add to your adblocker.
 
-## Use the hosts list
+## Use the main hosts list
 
 Add `https://hosts.cyanic.tk/cyanicHosts.txt` to your adblock (like Pi-Hole). All of the requests that are made to the specified domains will be redirected to 0.0.0.0 (nowhere).
 

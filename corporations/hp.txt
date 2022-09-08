@@ -28,6 +28,7 @@
 0.0.0.0 developer.arubanetworks.com
 0.0.0.0 developer.hpe.com
 0.0.0.0 developers.hp.com
+0.0.0.0 downloads.hpdaas.com
 0.0.0.0 e100.a.akamaiedge.net
 0.0.0.0 e7316.b.akamaiedge.net
 0.0.0.0 e40715.dsca.akamaiedge.net

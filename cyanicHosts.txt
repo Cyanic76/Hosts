@@ -52,9 +52,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 prefmgr-cookie.truste-svc.net
 0.0.0.0 privacy-center.org
+0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 sourcepoint.mgr.consensu.org
 0.0.0.0 uniconsent.com
+# Might as well block
+# 0.0.0.0 *.mgr.consensu.org
 
 # ================================== ERROR REPORTING
 # This list does not include everything. Some domains

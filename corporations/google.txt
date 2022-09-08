@@ -156,6 +156,7 @@
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleblog.com
+0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 googleoptimize.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
@@ -225,6 +226,7 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.gstatic.com
 0.0.0.0 storage.googleapis.com
+0.0.0.0 stun.l.google.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 s-usc1a-nss-2023.firebase.io
 0.0.0.0 tables.area120.google.com
