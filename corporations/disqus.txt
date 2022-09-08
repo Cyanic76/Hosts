@@ -1,0 +1,14 @@
+! Title: Cyanic's Hosts list - Disqus
+! Expires: 1 month
+! Description: A short list of Disqus domains.
+! Homepage: https://hosts.cyanic.tk
+! Source: https://hosts.cyanic.tk/corporations/disqus.txt
+
+0.0.0.0 about.disqus.com
+0.0.0.0 blog.disqus.com
+0.0.0.0 disqus.com
+0.0.0.0 help.disqus.com
+0.0.0.0 import.disqus.com
+0.0.0.0 howchootest.disqus.com
+0.0.0.0 prod.disqus.map.fastlylb.net
+0.0.0.0 texfash.disqus.com

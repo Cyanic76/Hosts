@@ -39,6 +39,7 @@
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 merch.amazon.com
 0.0.0.0 music.amazon.com
+0.0.0.0 ocsp.sca1b.amazontrust.com
 0.0.0.0 one.amazon.com
 0.0.0.0 org.amazon.com
 0.0.0.0 panel.amazon.com

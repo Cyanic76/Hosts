@@ -171,6 +171,7 @@
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 odinvzc.azureedge.net
 0.0.0.0 onecs-live.azureedge.net
+0.0.0.0 oneocsp.microsoft.com
 0.0.0.0 open-vsx.org
 0.0.0.0 openvsxorg.blob.core.windows.net
 0.0.0.0 passwordreset.microsoftonline.com
