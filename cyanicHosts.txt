@@ -252,6 +252,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 event-dre.op.hicloud.com
+0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logservice.hicloud.com

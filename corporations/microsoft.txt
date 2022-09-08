@@ -8,6 +8,17 @@
 # office.txt is a separate file that contains some Microsoft Office endpoints.
 
 0.0.0.0 1storecatelogrevocation.storequality.microsoft.com
+0.0.0.0 1.tlu.dl.delivery.microsoft.com
+0.0.0.0 2.tlu.dl.delivery.microsoft.com
+0.0.0.0 3.tlu.dl.delivery.microsoft.com
+0.0.0.0 4.tlu.dl.delivery.microsoft.com
+0.0.0.0 5.tlu.dl.delivery.microsoft.com
+0.0.0.0 6.tlu.dl.delivery.microsoft.com
+0.0.0.0 7.tlu.dl.delivery.microsoft.com
+0.0.0.0 8.tlu.dl.delivery.microsoft.com
+0.0.0.0 9.tlu.dl.delivery.microsoft.com
+0.0.0.0 10.tlu.dl.delivery.microsoft.com
+0.0.0.0 11.tlu.dl.delivery.microsoft.com
 0.0.0.0 a-ring.msedge.net
 0.0.0.0 a-ring-fallback.msedge.net
 0.0.0.0 a.ads1.msn.com
@@ -35,6 +46,7 @@
 0.0.0.0 api.msn.com
 0.0.0.0 api.passwordreset.microsoftonline.com
 0.0.0.0 arc.msn.com
+0.0.0.0 array616.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array805.prod.do.dsp.mp.microsoft.com
 0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 asimov.settings.data.microsoft.com.akadns.net
@@ -56,6 +68,7 @@
 0.0.0.0 c.msn.com.nsatc.net
 0.0.0.0 ca.telemetry.microsoft.com
 0.0.0.0 cache.datamart.windows.com
+0.0.0.0 catalog.gamepass.com
 0.0.0.0 ccs.login.microsoftonline.com
 0.0.0.0 cdn.onenote.net
 0.0.0.0 cdnprod.myanalytics.microsoft.com
@@ -71,6 +84,7 @@
 0.0.0.0 config.edge.skype.com
 0.0.0.0 config.teams.microsoft.com
 0.0.0.0 cortana.ai
+0.0.0.0 cp601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 cp801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 cs.dds.microsoft.com
 0.0.0.0 ctldl.windowsupdate.com
@@ -78,6 +92,7 @@
 0.0.0.0 cu1pehnswss01.servicebus.windows.net
 0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
 0.0.0.0 da.xboxservices.com
+0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 defender.microsoft.com
 0.0.0.0 definitionupdates.microsoft.com
 0.0.0.0 delivery.mp.microsoft.com
@@ -85,12 +100,14 @@
 0.0.0.0 device.login.microsoftonline.com
 0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 disc601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 disco801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 dl.delivery.mp.microsoft.com
 0.0.0.0 dlassets-ssl.xboxlive.com
 0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 dns.msftncsi.com
+0.0.0.0 download.visualstudio.microsoft.com
 0.0.0.0 download.windowsupdate.com
 0.0.0.0 e584.g.akamaiedge.net
 0.0.0.0 e9398.g.akamaiedge.net
@@ -140,6 +157,7 @@
 0.0.0.0 licensing.mp.microsoft.com
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
 0.0.0.0 location-inference-westus.cloudapp.net
+0.0.0.0 login.live.com
 0.0.0.0 login.microsoft.com
 0.0.0.0 login.microsoftonline.com
 0.0.0.0 login.microsoftonline-p.com
@@ -189,6 +207,7 @@
 0.0.0.0	secure.adnxs.com
 0.0.0.0	secure.flashtalking.com
 0.0.0.0 security.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 segments-s.msedge.net
 0.0.0.0	services.wes.df.telemetry.microsoft.com
 0.0.0.0	settings.crashlytics.com
@@ -237,6 +256,7 @@
 0.0.0.0 vip5.afdorigin-prod-am02.afdogw.com
 0.0.0.0 vip5.afdorogin-prod-hk02.afdogw.com
 0.0.0.0 vip5.afdorigin-prod-ch02.afdogw.com
+0.0.0.0 visualstudio-devdiv-c2s.msedge.com
 0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
 0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
 0.0.0.0 vortex-sandbox.data.microsoft.com
