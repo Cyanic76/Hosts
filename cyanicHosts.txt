@@ -666,6 +666,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 frz.io
 0.0.0.0 funbe.rjifxuqoo
 0.0.0.0 gcm.ctnsnet.com
+0.0.0.0 geo.prod.do.dsp.trafficmanager.net
 0.0.0.0 goutee.top
 0.0.0.0 green.erne.co
 0.0.0.0 h1.fastlyanalytics.map.fastly.net
@@ -773,6 +774,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vinci.commander1.com
 0.0.0.0 vogozaw.ru
 0.0.0.0 webdesignerdepot.com
+0.0.0.0 wns.notify.trafficmanager.net
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 www.iubenda.com

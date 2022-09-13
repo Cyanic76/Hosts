@@ -26,6 +26,7 @@
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.rad.msn.com
+0.0.0.0 about.ads.microsoft.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 account.activedirectory.windowsazure.com
 0.0.0.0 accounts.accesscontrol.windows.net
@@ -48,6 +49,7 @@
 0.0.0.0 api.edgeoffer.microsoft.com
 0.0.0.0 api.msn.com
 0.0.0.0 api.passwordreset.microsoftonline.com
+0.0.0.0 appsource.microsoft.com
 0.0.0.0 arc.msn.com
 0.0.0.0 array614.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array616.prod.do.dsp.mp.microsoft.com
@@ -60,11 +62,14 @@
 0.0.0.0 au.download.windowsupdate.com
 0.0.0.0 autologon.microsoftazuread-sso.com
 0.0.0.0 az512334.vo.msecdn.net
+0.0.0.0 azure.microsoft.com
+0.0.0.0 azuremarketplace.microsoft.com
 0.0.0.0 b-ring.msedge.net
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 b.rad.msn.com
 0.0.0.0 becws.microsoftonline.com
 0.0.0.0 bingads.microsoft.com
+0.0.0.0 blogs.microsoft.com
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 browser.pipe.aria.microsoft.com
@@ -87,6 +92,7 @@
 0.0.0.0 choice.microsoft.com.nstac.net
 0.0.0.0 client.wns.windows.com
 0.0.0.0 clientconfig.microsoftonline-p.net
+0.0.0.0 code.visualstudio.com
 0.0.0.0 companymanager.microsoftonline.com
 0.0.0.0 compliance.microsoft.com
 0.0.0.0 config.teams.microsoft.com
@@ -104,6 +110,7 @@
 0.0.0.0 definitionupdates.microsoft.com
 0.0.0.0 delivery.mp.microsoft.com
 0.0.0.0 dev.virtualearth.net
+0.0.0.0 developer.microsoft.com
 0.0.0.0 device.login.microsoftonline.com
 0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 diagnostics.support.microsoft.com
@@ -114,6 +121,7 @@
 0.0.0.0 dlassets-ssl.xboxlive.com
 0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 dns.msftncsi.com
+0.0.0.0 docs.microsoft.com
 0.0.0.0 download.microsoft.com
 0.0.0.0 download.visualstudio.microsoft.com
 0.0.0.0 download.windowsupdate.com
@@ -207,7 +215,9 @@
 0.0.0.0 oneocsp.microsoft.com
 0.0.0.0 open-vsx.org
 0.0.0.0 openvsxorg.blob.core.windows.net
+0.0.0.0 partner.microsoft.com
 0.0.0.0 passwordreset.microsoftonline.com
+0.0.0.0 ping-edge.smartscreen.microsoft.com
 0.0.0.0 policykeyservice.dc.ad.msft.net
 0.0.0.0 prod.nexusrules.live.com.akadns.net
 0.0.0.0 prod-w.nexus.live.com.akadns.net
@@ -251,6 +261,7 @@
 0.0.0.0 store-images.s-microsoft.com
 0.0.0.0 storesdk.dsx.mp.microsoft.com
 0.0.0.0 storecatelogrevocation.storequality.microsoft.com
+0.0.0.0 support.serviceshub.microsoft.com
 0.0.0.0 t-ring.msedge.net
 0.0.0.0 teams-ring.msedge.net
 0.0.0.0 telecommand.telemetry.microsoft.com
@@ -264,6 +275,7 @@
 0.0.0.0 time.windows.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 umwatson.events.data.microsoft.com
+0.0.0.0 update.code.visualstudio.com
 0.0.0.0 update.microsoft.com
 0.0.0.0 us.configsvc1.live.com.akadns.net
 0.0.0.0 usseu1northprod.blob.core.windows.net
@@ -274,7 +286,9 @@
 0.0.0.0 vip5.afdorigin-prod-am02.afdogw.com
 0.0.0.0 vip5.afdorogin-prod-hk02.afdogw.com
 0.0.0.0 vip5.afdorigin-prod-ch02.afdogw.com
+0.0.0.0 visualstudio.com
 0.0.0.0 visualstudio-devdiv-c2s.msedge.com
+0.0.0.0 visualstudio.microsoft.com
 0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
 0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
 0.0.0.0 vortex-sandbox.data.microsoft.com

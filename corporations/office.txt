@@ -115,6 +115,7 @@
 0.0.0.0 messaging.engagement.office.com
 0.0.0.0 mlccdn.blob.core.windows.net
 0.0.0.0 msdn.microsoft.com
+0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 nps.onyx.azure.net
 0.0.0.0 o15.officeredir.microsoft.com
 0.0.0.0 ocos-office365-s2s.msedge.net

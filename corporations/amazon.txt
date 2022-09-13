@@ -36,7 +36,9 @@
 0.0.0.0 kindlepublishing.amazon.com
 0.0.0.0 local.amazon.com
 0.0.0.0 logistics.amazon.com
+0.0.0.0 m.media-amazon.com
 0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 media.amazon.map.fastly.net
 0.0.0.0 merch.amazon.com
 0.0.0.0 music.amazon.com
 0.0.0.0 ocsp.sca1b.amazontrust.com
@@ -62,4 +64,7 @@
 0.0.0.0 www.amazon.com.au
 0.0.0.0 www.amazon.de
 0.0.0.0 www.amazon.es
+0.0.0.0 www.amazon.fr
 0.0.0.0 www.amazon.jobs
+# Might as well block
+# 0.0.0.0 www.amazon.*

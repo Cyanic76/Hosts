@@ -116,6 +116,12 @@
 0.0.0.0 android.googleapis.com
 0.0.0.0 answers.google.com
 0.0.0.0 apis.google.com
+0.0.0.0 appsitemsuggest-pa.clients1.google.com
+0.0.0.0 appsitemsuggest-pa.clients2.google.com
+0.0.0.0 appsitemsuggest-pa.clients3.google.com
+0.0.0.0 appsitemsuggest-pa.clients4.google.com
+0.0.0.0 appsitemsuggest-pa.clients5.google.com
+0.0.0.0 appsitemsuggest-pa.clients6.google.com
 0.0.0.0 appswaldo.clients1.google.com
 0.0.0.0 appswaldo.clients2.google.com
 0.0.0.0 appswaldo.clients3.google.com
@@ -131,6 +137,8 @@
 0.0.0.0 clients4.google.com
 0.0.0.0 clients5.google.com
 0.0.0.0 clients6.google.com
+0.0.0.0 clientservices.googleapis.com
+0.0.0.0 clients.l.google.com
 0.0.0.0 code.google.com
 0.0.0.0 connectivitycheck.google.com
 0.0.0.0 connectivitycheck.gstatic.com
@@ -150,6 +158,7 @@
 0.0.0.0 e.crashlytics.com
 0.0.0.0 edu.google.com
 0.0.0.0 encrypted-tbn0.gstatic.com
+0.0.0.0 encrypted-vtbn0.gstatic.com
 0.0.0.0 enterprise.google.com
 0.0.0.0 finance.google.com
 0.0.0.0 firebase.google.com
@@ -176,6 +185,7 @@
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gstatic.com
+0.0.0.0 id.google.com
 0.0.0.0 imap.gmail.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 instantmessaging-pa-eu.googleapis.com
@@ -216,9 +226,11 @@
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 pf-in-f188.1e100.net
 0.0.0.0 picasa.google.com
+0.0.0.0 pki-goog.l.google.com
 0.0.0.0 play-fe.googleapis.com
 0.0.0.0 play-lh.googleusercontent.com
 0.0.0.0 play.googleapis.com
+0.0.0.0 plus.l.google.com
 0.0.0.0 podcastsmanager.google.com
 0.0.0.0 policies.google.com # Will prevent access to privacy policy, terms of use, etc
 0.0.0.0 pop.gmail.com
@@ -289,6 +301,7 @@
 
 # Youtube
 0.0.0.0 accounts.youtube.com
+0.0.0.0 consent.youtube.com
 0.0.0.0 i.ytimg.com
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 studio.youtube.com
