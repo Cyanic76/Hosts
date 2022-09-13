@@ -120,6 +120,7 @@
 0.0.0.0 ocos-office365-s2s.msedge.net
 0.0.0.0 office.com
 0.0.0.0 office.live.com
+0.0.0.0 office.microsoft.com
 0.0.0.0 office15client.microsoft.com
 0.0.0.0 officeapps.live.com
 0.0.0.0 officecdn.microsoft.com

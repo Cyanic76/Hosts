@@ -73,10 +73,21 @@
 0.0.0.0 www.tiltbrush.com
 
 # Android
+0.0.0.0 0.android.pool.ntp.org
+0.0.0.0 1.android.pool.ntp.org
+0.0.0.0 2.android.pool.ntp.org
+0.0.0.0 3.android.pool.ntp.org
+0.0.0.0 4.android.pool.ntp.org
+0.0.0.0 5.android.pool.ntp.org
+0.0.0.0 6.android.pool.ntp.org
+0.0.0.0 7.android.pool.ntp.org
+0.0.0.0 8.android.pool.ntp.org
+0.0.0.0 9.android.pool.ntp.org
 0.0.0.0 android.com
 0.0.0.0 android.clients.google.com
 0.0.0.0 android-developers.googleblog.com
 0.0.0.0 android.googleapis.com
+0.0.0.0 android.pool.ntp.org
 0.0.0.0 androidenterprisepartners.withgoogle.com
 0.0.0.0 ci.android.com
 0.0.0.0 connectivitycheck.android.com
