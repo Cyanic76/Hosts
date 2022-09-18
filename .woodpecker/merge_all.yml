@@ -3,7 +3,7 @@ pipeline:
     image: debian
     commands:
       - export REPO_URL="https://$${CI_REPO_OWNER}}:$${TOKEN}@codeberg.org/$${CI_REPO_OWNER}/$${CI_REPO_NAME}.git"
-      - apt install git
+      - apt install git-all
       - git config --global user.email "woodpecker-ci@noreply.org"
       - git config --global user.name "Woodpecker CI"
       - git remote set-url origin "$${REPO_URL}"
