@@ -1,0 +1,16 @@
+pipeline:
+  build:
+    image: debian
+    commands:
+      - export REPO_URL="https://$${CI_REPO_OWNER}}:$${TOKEN}@codeberg.org/$${CI_REPO_OWNER}/$${CI_REPO_NAME}.git"
+      - git config --global user.email "woodpecker-ci@noreply.org"
+      - git config --global user.name "Woodpecker CI"
+      - git remote set-url origin "$${REPO_URL}"
+      - cat cyanicHosts.txt | grep -E '^0.0.0.0.*$' >> allhosts.txt
+      - cat corporations/* | grep -E '^0.0.0.0.*$' >> allhosts.txt
+      - git add allhosts.txt
+      - git commit -m "Merged hosts together. [ci skip]"
+      - git push origin HEAD:$CI_COMMIT_BRANCH
+    secrets: [ TOKEN ]
+
+      
