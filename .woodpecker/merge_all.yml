@@ -24,7 +24,7 @@ pipeline:
       # Commit the file
       - git add allhosts.txt
       - git commit -m "$${GIT_COMMIT_MESSAGE} [ci skip]"
-      - git remote set-url origin "https://Cyanic76:$${GITEA_TOKEN}@$${GITEA_HOST}/$${GITEA_REPOSITORY}}.git"
+      - git remote set-url origin "https://Cyanic76:$${GITEA_TOKEN}@$${GITEA_HOST}/$${GITEA_REPOSITORY}.git"
       - git push origin "$${GITEA_BRANCH}"
     when:
       branch: pages
