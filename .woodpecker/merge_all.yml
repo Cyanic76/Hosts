@@ -10,6 +10,7 @@ pipeline:
       - GITEA_HOST=codeberg.org
       - GITEA_REPOSITORY=Cyanic76/Hosts
       - GITEA_BRANCH=pages
+    secrets: [ gitea_token ]
     commands:
       # Setup git and checkout pages
       - git clone https://codeberg.org/Cyanic76/Hosts
@@ -23,12 +24,11 @@ pipeline:
       # Commit the file
       - git add allhosts.txt
       - git commit -m "$${GIT_COMMIT_MESSAGE} [ci skip]"
-      - git remote set-url origin "https://Cyanic76:$${TOKEN}@$${GITEA_HOST}/$${GITEA_REPOSITORY}}"
+      - git remote set-url origin "https://Cyanic76:$${GITEA_TOKEN}@$${GITEA_HOST}/$${GITEA_REPOSITORY}}"
       - git push origin "$${GITEA_BRANCH}"
     when:
       branch: pages
       path:
         include: [ '.woodpecker/*.yml', 'cyanicHosts.txt', 'corporations/*.txt' ]
         exclude: [ '*.md', 'LICENSE*' ]
-    secrets: [ TOKEN ]
       
