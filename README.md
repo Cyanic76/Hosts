@@ -13,10 +13,12 @@ The goal is to [block standard ad and tracker domains](https://hosts.cyanic.tk/c
 ## Get all hosts together
 
 <details><summary>Using URLs</summary>
-Add this URL to your ad blocker:
+Add this URL to your ad blocker.
+
 - https://hosts.cyanic.tk/allhosts.txt
 
 If it [doesn't work](https://codeberg.org/Cyanic76/Hosts/issues/1), try with this one instead:
+
 - https://codeberg.org/Cyanic76/Hosts/raw/branch/pages/allhosts.txt
 
 This uses [Woodpecker CI](https://ci.codeberg.org/Cyanic76/Hosts).
