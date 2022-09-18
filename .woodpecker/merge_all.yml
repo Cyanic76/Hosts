@@ -10,7 +10,6 @@ pipeline:
       - GITEA_HOST=codeberg.org
       - GITEA_REPOSITORY=Cyanic76/Hosts
       - GITEA_BRANCH=pages
-    secrets: [ TOKEN ]
     commands:
       # Setup git and checkout pages
       - git clone https://codeberg.org/Cyanic76/Hosts
@@ -31,4 +30,5 @@ pipeline:
       path:
         include: [ '.woodpecker/*.yml', 'cyanicHosts.txt', 'corporations/*.txt' ]
         exclude: [ '*.md', 'LICENSE*' ]
+    secrets: [ TOKEN ]
       
