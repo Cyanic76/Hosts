@@ -30,5 +30,5 @@ pipeline:
       branch: pages
       path:
         include: [ '.woodpecker/*.yml', 'cyanicHosts.txt', 'corporations/*.txt' ]
-        exclude: [ '*.md', 'LICENSE*' ]
+        exclude: [ 'README.md', 'LICENSE*', '*.md', 'index.html' ]
       
