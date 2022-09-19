@@ -199,6 +199,7 @@
 0.0.0.0 marketingplatform.google.com
 0.0.0.0 mobilemaps.googleapis.com
 0.0.0.0 mobilemaps-pa-gz.googleapis.com
+0.0.0.0 mobile-gtalk.l.google.com
 0.0.0.0 mtalk.google.com
 0.0.0.0 ocsp.pki.goog
 0.0.0.0 ogs.google.com

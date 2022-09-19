@@ -64,6 +64,7 @@
 0.0.0.0 c.live.com
 0.0.0.0 c1.microsoft.com
 0.0.0.0 cdn.odc.officeapps.live.com
+0.0.0.0 cdn.onenote.net.edgekey.net
 0.0.0.0 cdn.uci.officeapps.live.com
 0.0.0.0 config.edge.skype.com
 0.0.0.0 config.teams.microsoft.com
@@ -132,6 +133,7 @@
 0.0.0.0 officeredir.microsoft.com
 0.0.0.0 officespeech.platform.bing.com
 0.0.0.0 oneclient.sfx.ms
+0.0.0.0 onedrive.live.com
 0.0.0.0 outlook.office365.com
 0.0.0.0 outlookmobile-office365-tas.msedge.net
 0.0.0.0 ow1.res.office365.com

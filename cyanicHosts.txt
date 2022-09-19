@@ -701,6 +701,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.mzstatic.com
+0.0.0.0 metrics.ubuntu.com
 0.0.0.0 mypic.icu
 0.0.0.0 newscloud.or.kr
 0.0.0.0 nrs-group.com
