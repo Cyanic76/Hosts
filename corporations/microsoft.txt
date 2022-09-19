@@ -26,6 +26,7 @@
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.rad.msn.com
+0.0.0.0 a1158.g.akamai.net
 0.0.0.0 aad.cs.dds.microsoft.com
 0.0.0.0 about.ads.microsoft.com
 0.0.0.0 ac3.msn.com
@@ -42,6 +43,7 @@
 0.0.0.0 ads.msn.com
 0.0.0.0 ags.privatelink.msidentity.com
 0.0.0.0 ajax.aspnetcdn.com
+0.0.0.0 ak.privatelink.msidentity.com
 0.0.0.0 aka.ms
 0.0.0.0 amp-reddit-com.cdn.ampproject.org
 0.0.0.0 amp.azure.net
@@ -54,7 +56,11 @@
 0.0.0.0 api.passwordreset.microsoftonline.com
 0.0.0.0 appsource.microsoft.com
 0.0.0.0 arc.msn.com
+0.0.0.0 array607.prod.do.dsp.mp.microsoft.com
+0.0.0.0 array608.prod.do.dsp.mp.microsoft.com
+0.0.0.0 array610.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array614.prod.do.dsp.mp.microsoft.com
+0.0.0.0 array615.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array616.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array805.prod.do.dsp.mp.microsoft.com
 # Might as well block
@@ -134,10 +140,16 @@
 0.0.0.0 e584.g.akamaiedge.net
 0.0.0.0 e9398.g.akamaiedge.net
 0.0.0.0 e1723.g.akamaiedge.net
+0.0.0.0 e2785.x.akamaiedge.net
+0.0.0.0 e10370.d.akamaiedge.net
 0.0.0.0 e12358.d.akamaiedge.net
+0.0.0.0 e15318.dsca.akamaiedge.net
+0.0.0.0 e28578.d.akamaiedge.net
+0.0.0.0 e86303.dscx.akamaiedge.net
 0.0.0.0 ecn.dev.virtualearth.net
 0.0.0.0 edge.activity.windows.com
 0.0.0.0 edge.microsoft.com
+0.0.0.0 edge-microsoft-com.dual-a-0036.a-msedge.net
 0.0.0.0 emdl.ws.microsoft.com
 0.0.0.0 encartaupdate.msn.com
 0.0.0.0 enterpriseregistration.windows.net
@@ -173,6 +185,7 @@
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com.nsatc.net
 0.0.0.0 iecvlist.microsoft.com
+0.0.0.0 ieonlinews.microsoft.com
 0.0.0.0 img-prod-cms-rt-microsoft-com.akamaized.net
 0.0.0.0 img-s-msn-com.akamaized.net
 0.0.0.0 inference.location.live.net
@@ -211,6 +224,8 @@
 0.0.0.0 msdn.microsoft.com
 0.0.0.0 msdn-social.microsoft.com
 0.0.0.0 msedge.api.cdp.microsoft.com
+0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 msedge.f.dl.delivery.mp.microsoft.com
 0.0.0.0 msn.com
 0.0.0.0 msnbot-65-52-108-234.search.msn.com
 0.0.0.0 msntest.serving-sys.com
@@ -230,6 +245,7 @@
 0.0.0.0 openvsxorg.blob.core.windows.net
 0.0.0.0 partner.microsoft.com
 0.0.0.0 passwordreset.microsoftonline.com
+0.0.0.0 photos-ugc.l.googleusercontent.com
 0.0.0.0 ping-edge.smartscreen.microsoft.com
 0.0.0.0 policykeyservice.dc.ad.msft.net
 0.0.0.0 prod.configsvc1.live.com.akadns.net
@@ -327,6 +343,7 @@
 0.0.0.0 win10.ipv6.microsoft.com.nsatc.net
 0.0.0.0 windows.msn.com
 0.0.0.0 windows.policies.live.net
+0.0.0.0 windowsupdatebg.s.llnwi.net
 0.0.0.0 windowsupdate.com
 0.0.0.0 wustats.microsoft.com
 0.0.0.0 www.bing.com
@@ -342,7 +359,6 @@
 0.0.0.0 www.xboxab.com
 0.0.0.0 www2.bing.com
 0.0.0.0 wwwbay3vip.microsoft.com
-0.0.0.0 www-www.bing.com.trafficmanager.net
 
 # Skype
 0.0.0.0 a.config.skype.com
@@ -383,3 +399,10 @@
 0.0.0.0 x.config.skype.com
 0.0.0.0 y.config.skype.com
 0.0.0.0 z.config.skype.com
+
+# TrafficManager
+0.0.0.0 config.edge.skype.com.trafficmanager.net
+0.0.0.0 fe2cr.update.msft.com.trafficmanager.net
+0.0.0.0 wu-bg-shim.trafficmanager.net
+0.0.0.0 www.tm.ak.prd.aadg.trafficmanager.net
+0.0.0.0 www-www.bing.com.trafficmanager.net

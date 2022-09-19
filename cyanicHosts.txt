@@ -318,6 +318,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 abtasty.com
 0.0.0.0 adobedtm.com
 0.0.0.0 acceptable.a-ads.com
+0.0.0.0 active.tadsbelver.com
 0.0.0.0 acuityads.com
 0.0.0.0 ad1.dev.nend.net
 0.0.0.0 ad1.nend.net
@@ -430,6 +431,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eu-u.openx.net
 0.0.0.0 euc-ice.360yield.com
 0.0.0.0 euw-ice.360yield.com
+0.0.0.0 explorads.xml-v4.ak-is2.net
 0.0.0.0 feedroll.com
 0.0.0.0 fra1-ib.adnxs.com
 0.0.0.0 freshmarketer.com
@@ -537,6 +539,7 @@ ff02::3 ip6-allhosts
 
 # ================================== OTHER UNNECESSARY HOSTS
 # Blocking those hosts do not break websites, usually.
+# 0.0.0.0 *.trafficmanager.net
 0.0.0.0 a.mouseflow.com
 0.0.0.0 adlooxtracking.com
 0.0.0.0 android-safebrowsing.google.com # Tell me if this breaks everything
@@ -544,6 +547,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 backedn.irsdn.net
 0.0.0.0 beam.hubvisor.io
 0.0.0.0 cdn.iframe.ly
+0.0.0.0 click-v4.expmdiadi.com
 0.0.0.0 client.rave-api.com
 0.0.0.0 client-context.hubvisor.io
 0.0.0.0 combinatronics.io
@@ -605,6 +609,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracker.quadran.eu
 0.0.0.0 tv.springserve.com
 0.0.0.0 u.videostep.com
+0.0.0.0 um8cc.bemobtracks.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 x.bidswitch.net
 
@@ -614,7 +619,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 adserv.info
 0.0.0.0 akm-static.ccmbg.com
 0.0.0.0 amplify.outbrain.com
+0.0.0.0 analytics1.us.archive.org
 0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.pix.fr
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.tiktok.come
@@ -639,12 +646,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 bid4.videostep.com
 0.0.0.0 bighop.com
 0.0.0.0 blyjh.com
+0.0.0.0 btloader.com
 0.0.0.0 bttrack.com
+0.0.0.0 cdn.intergient.com
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.statically.io
 0.0.0.0 cdn.wazimo.com
 0.0.0.0 check.analytics.rlcdn.com
+0.0.0.0 client-metrics-cf.chess.com
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 config.seedtag.com
 0.0.0.0 consentdeliveryfd.azurefd.net
@@ -654,6 +664,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 deal24.lv
 0.0.0.0 dig.ultimedia.com
 0.0.0.0 dmxleo.com
+0.0.0.0 echo.intergient.com
 0.0.0.0 ejp.rlcdn.com
 0.0.0.0 eu-west-1.event.prod.bidr.io
 0.0.0.0 event.clientgear.com
