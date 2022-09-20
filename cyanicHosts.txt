@@ -577,7 +577,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 id5-sync.com
 0.0.0.0 ident.me
 0.0.0.0 in.appcenter.ms
+0.0.0.0 links.duckduckgo.com
 0.0.0.0 live.staticflickr.com
+0.0.0.0 maps.yandex.com #chad
 0.0.0.0 mclean.uk.cloud.360safe.com
 0.0.0.0 mediavoice.com
 0.0.0.0 ml314.com
@@ -720,6 +722,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 over.net
 0.0.0.0 p.adlooxtracking.com
 0.0.0.0 pantip.com
+0.0.0.0 path1.xtracloud.net
+0.0.0.0 path2.xtracloud.net
+0.0.0.0 path3.xtracloud.net
 0.0.0.0 pbs.hubvisor.io
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping.seedtag.com

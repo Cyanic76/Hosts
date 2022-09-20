@@ -32,6 +32,7 @@
 0.0.0.0 gaming.amazon.com
 0.0.0.0 hiring.amazon.com
 0.0.0.0 ignite.amazon.com
+0.0.0.0 images-na.ssl-images-amazon.com
 0.0.0.0 kdp.amazon.com
 0.0.0.0 kindlepublishing.amazon.com
 0.0.0.0 local.amazon.com

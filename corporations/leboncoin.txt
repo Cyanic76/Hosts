@@ -1,0 +1,17 @@
+! Title: Cyanic's Hosts list - Leboncoin
+! Expires: 1 month
+! Description: A requested list of Leboncoin domains.
+! Homepage: https://hosts.cyanic.tk
+! Source: https://hosts.cyanic.tk/corporations/leboncoin.txt
+
+# Leboncoin is a french website. This is a requested list.
+
+0.0.0.0 api.leboncoin.fr
+0.0.0.0 auth.leboncoin.fr
+0.0.0.0 dd.leboncoin.fr
+0.0.0.0 img.leboncoin.fr
+0.0.0.0 proxytile-1.leboncoin.fr
+0.0.0.0 proxytile-2.leboncoin.fr
+0.0.0.0 proxytile-3.leboncoin.fr
+0.0.0.0 proxytile-4.leboncoin.fr
+0.0.0.0 www.leboncoin.fr

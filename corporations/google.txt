@@ -129,9 +129,15 @@
 0.0.0.0 appswaldo.clients4.google.com
 0.0.0.0 appswaldo.clients5.google.com
 0.0.0.0 appswaldo.clients6.google.com
+0.0.0.0 aswpsdkeu.com # see whois record
 0.0.0.0 carrers.google.com
 0.0.0.0 chrome.com
+0.0.0.0 ci1.googleusercontent.com
+0.0.0.0 ci2.googleusercontent.com
+0.0.0.0 ci3.googleusercontent.com
+0.0.0.0 ci4.googleusercontent.com
 0.0.0.0 ci5.googleusercontent.com
+0.0.0.0 ci6.googleusercontent.com
 0.0.0.0 clients1.google.com
 0.0.0.0 clients2.google.com
 0.0.0.0 clients3.google.com
@@ -145,6 +151,7 @@
 0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 content.googleapis.com
 0.0.0.0 consent.google.com # Will break most Google web services
+#0.0.0.0 consent.google.*
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 content-firebaseappcheck.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
@@ -152,15 +159,33 @@
 0.0.0.0 cs.opensource.google
 0.0.0.0 csp.withgoogle.com
 0.0.0.0 datacompute.google.com
+0.0.0.0 design.google.com
 0.0.0.0 developer.chrome.com
 0.0.0.0 developers.google.com
+0.0.0.0 dl.google.com
 0.0.0.0 domains.google
 0.0.0.0 domains.google.com
+0.0.0.0 drive-thirdparty.googleusercontent.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 edu.google.com
 0.0.0.0 encrypted-tbn0.gstatic.com
+0.0.0.0 encrypted-tbn1.gstatic.com
+0.0.0.0 encrypted-tbn2.gstatic.com
+0.0.0.0 encrypted-tbn3.gstatic.com
 0.0.0.0 encrypted-vtbn0.gstatic.com
 0.0.0.0 enterprise.google.com
+0.0.0.0 espresso-pa.clients1.google.com
+0.0.0.0 espresso-pa.clients2.google.com
+0.0.0.0 espresso-pa.clients3.google.com
+0.0.0.0 espresso-pa.clients4.google.com
+0.0.0.0 espresso-pa.clients5.google.com
+0.0.0.0 espresso-pa.clients6.google.com
+0.0.0.0 feedback-pa.clients1.google.com
+0.0.0.0 feedback-pa.clients2.google.com
+0.0.0.0 feedback-pa.clients3.google.com
+0.0.0.0 feedback-pa.clients4.google.com
+0.0.0.0 feedback-pa.clients5.google.com
+0.0.0.0 feedback-pa.clients6.google.com
 0.0.0.0 finance.google.com
 0.0.0.0 firebase.google.com
 0.0.0.0 firebaseinstallations.googleapis.com
@@ -186,14 +211,19 @@
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gstatic.com
+0.0.0.0 gz0.googleusercontent.com
 0.0.0.0 id.google.com
 0.0.0.0 imap.gmail.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 instantmessaging-pa-eu.googleapis.com
 0.0.0.0 jnn-pa.googleapis.com
+0.0.0.0 kstatic.googleusercontent.com
 0.0.0.0 KQu0cL-dnsotls-ds.metric.gstatic.com
 0.0.0.0 learndigital.withgoogle.com
 0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 lh4.googleusercontent.com
+0.0.0.0 lh5.googleusercontent.com
+0.0.0.0 lh6.googleusercontent.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 mail-attachment.googleusercontent.com
 0.0.0.0 maps.googleapis.com
@@ -225,6 +255,11 @@
 0.0.0.0 peoplestack-pa.clients5.google.com
 0.0.0.0 peoplestack-pa.clients6.google.com
 0.0.0.0 peoplestack-pa.googleapis.com
+0.0.0.0 peoplestackwebexperiments-pa.clients1.google.com
+0.0.0.0 peoplestackwebexperiments-pa.clients2.google.com
+0.0.0.0 peoplestackwebexperiments-pa.clients3.google.com
+0.0.0.0 peoplestackwebexperiments-pa.clients4.google.com
+0.0.0.0 peoplestackwebexperiments-pa.clients5.google.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 pf-in-f188.1e100.net
 0.0.0.0 picasa.google.com
@@ -237,20 +272,32 @@
 0.0.0.0 policies.google.com # Will prevent access to privacy policy, terms of use, etc
 0.0.0.0 pop.gmail.com
 0.0.0.0 productforums.google.com
+0.0.0.0 redirector.googlevideo.com
 0.0.0.0 redirector.gvt1.com
 0.0.0.0 sa-in-f188.1e100.net
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 safety.google
 0.0.0.0 santatracker.google.com
+0.0.0.0 scone-pa.clients1.google.com
+0.0.0.0 scone-pa.clients2.google.com
+0.0.0.0 scone-pa.clients3.google.com
+0.0.0.0 scone-pa.clients4.google.com
+0.0.0.0 scone-pa.clients5.google.com
 0.0.0.0 scone-pa.clients6.google.com
 0.0.0.0 search.google.com
 0.0.0.0 securetoken.googleapis.com
 0.0.0.0 security.googleblog.com
+0.0.0.0 signaler-pa.clients1.google.com
+0.0.0.0 signaler-pa.clients2.google.com
+0.0.0.0 signaler-pa.clients3.google.com
+0.0.0.0 signaler-pa.clients4.google.com
+0.0.0.0 signaler-pa.clients5.google.com
 0.0.0.0 signaler-pa.clients6.google.com
 0.0.0.0 smtp.gmail.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.gstatic.com
 0.0.0.0 storage.googleapis.com
+0.0.0.0 streetviewpixels-ga.googleapis.com
 0.0.0.0 stun.l.google.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 suggestqueries-clients1.youtube.com
@@ -260,6 +307,7 @@
 0.0.0.0 suggestqueries-clients5.youtube.com
 0.0.0.0 suggestqueries-clients6.youtube.com
 0.0.0.0 s-usc1a-nss-2023.firebase.io
+0.0.0.0 t0.gstatic.com
 0.0.0.0 tables.area120.google.com
 0.0.0.0 taskassist-pa.clients1.google.com
 0.0.0.0 taskassist-pa.clients2.google.com
@@ -282,6 +330,7 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.google-analytics.l.google.com
 0.0.0.0 www.googleadservices.com
+0.0.0.0 www.googlee.com
 0.0.0.0 www.googlemaps.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
@@ -312,17 +361,24 @@
 0.0.0.0 securepubads.g.doubleclick.net
 
 # Youtube
+#0.0.0.0 *.ytimg.com
 0.0.0.0 accounts.youtube.com
 0.0.0.0 consent.youtube.com
 0.0.0.0 i.ytimg.com
+0.0.0.0 lh3.ggpht.com
+0.0.0.0 lh4.ggpht.com
+0.0.0.0 lh5.ggpht.com
 0.0.0.0 redirector.googlevideo.com
+0.0.0.0 s.ytimg.com
 0.0.0.0 studio.youtube.com
 0.0.0.0 tv.youtube.com
 0.0.0.0 www.youtube.com
+0.0.0.0 youtu.be
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 youtube-ui.l.google.com
 0.0.0.0 yt3.ggpht.com
+0.0.0.0 yt4.ggpht.com
 # You can also blacklist *.googlevideo.com
 # 0.0.0.0 *.googlevideo.com
 
