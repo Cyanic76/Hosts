@@ -47,6 +47,7 @@
 0.0.0.0 panel.amazon.com
 0.0.0.0 pay.amazon.com
 0.0.0.0 payeecentral.amazon.com
+0.0.0.0 s3.amazonaws.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s-beta.amazon-adsystem.com
 0.0.0.0 sell.amazon.com
