@@ -23,8 +23,12 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-# ================================== BAIDU
+# ================================== BAIDU, QQ
 0.0.0.0 baidu.com
+0.0.0.0 map.baidu.cn
+0.0.0.0 map.baidu.com
+0.0.0.0 map.qq.com
+0.0.0.0 map.wap.qq.com
 
 # ================================== COOKIE BANNERS
 0.0.0.0 ccpa.sp-prod.net
@@ -104,6 +108,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e.crashlytics
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 fls.doubleclick.net
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 google-analytics.com
@@ -491,6 +496,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 play.adpaths.com
 0.0.0.0 pm-gateway.supersonicads.com
 0.0.0.0 prebid.ams1.adnxs-simple.com
+0.0.0.0 prebid.b-cdn.net
 0.0.0.0 prebid.reworldmediafactory.com
 0.0.0.0 prebid-fr.casalemedia.com
 0.0.0.0 pub.network
@@ -536,6 +542,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www1.nend.net
 0.0.0.0 www2.nend.net
 0.0.0.0 youtube.cleverads.vn
+0.0.0.0 zn3dtdyc8qsewhj6t-nidx.siteintercept.qualtrics.com
 
 # ================================== OTHER UNNECESSARY HOSTS
 # Blocking those hosts do not break websites, usually.
@@ -546,7 +553,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 b1-eudc1.zemanta.com
 0.0.0.0 backedn.irsdn.net
 0.0.0.0 beam.hubvisor.io
+0.0.0.0 bs.serving-sys.com
 0.0.0.0 cdn.iframe.ly
+0.0.0.0 cdn-b.notsy.io
 0.0.0.0 click-v4.expmdiadi.com
 0.0.0.0 client.rave-api.com
 0.0.0.0 client-context.hubvisor.io
@@ -559,6 +568,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 data00.adlooxtracking.com
 0.0.0.0 dev-trackerapi.smartlify.com
 0.0.0.0 download.com
+0.0.0.0 dpm.demdex.net
 0.0.0.0 exchange.consumabletv.com
 0.0.0.0 facebook.net
 0.0.0.0 farm3.static.flickr.com
@@ -577,6 +587,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 id5-sync.com
 0.0.0.0 ident.me
 0.0.0.0 in.appcenter.ms
+0.0.0.0 j.6sc.co
 0.0.0.0 links.duckduckgo.com
 0.0.0.0 live.staticflickr.com
 0.0.0.0 maps.yandex.com #chad
@@ -585,10 +596,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 ml314.com
 0.0.0.0 mouseflow.com
 0.0.0.0 mvconf.uk.cloud.360safe.com
+0.0.0.0 ni500z.btttag.com
 0.0.0.0 optimizely.com
 0.0.0.0 parsely.com
 0.0.0.0 pbc.hubvisor.io
 0.0.0.0 pbjs.sskzlabs.com
+0.0.0.0 pi.pardot.com
 0.0.0.0 polyfill.io
 0.0.0.0 prebid.smilewanted.com
 0.0.0.0 prg.smartadserver.com
@@ -613,6 +626,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 u.videostep.com
 0.0.0.0 um8cc.bemobtracks.com
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 www-geo.nike.com.akadns.net
 0.0.0.0 x.bidswitch.net
 
 # ================================== OTHER TRACKERS & ANALYTICS
@@ -658,8 +672,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 check.analytics.rlcdn.com
 0.0.0.0 client-metrics-cf.chess.com
 0.0.0.0 cloudflareinsights.com
+0.0.0.0 co4.telecommand.telemetry.microsoft.com.akadns.net
 0.0.0.0 config.seedtag.com
 0.0.0.0 consentdeliveryfd.azurefd.net
+0.0.0.0 counter.yadro.ru
 0.0.0.0 cs.seedtag.com
 0.0.0.0 datacollector-dre.dt.hicloud.com
 0.0.0.0 darcs.maximiles.com
@@ -693,6 +709,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 io1.eulerian.net
 0.0.0.0 inventory-weighted.hyprmx.com
+0.0.0.0 iriscoremetadataprod.blob.core.windows.net
 0.0.0.0 isso.ps
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hs-banner.com
@@ -715,6 +732,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics.ubuntu.com
+0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 mypic.icu
 0.0.0.0 newscloud.or.kr
 0.0.0.0 nrs-group.com
@@ -755,6 +773,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sdk-diagnostics.prd.mz.internal.unity3d.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 skimresources.com
+0.0.0.0 smetrics.ni.com
 0.0.0.0 sonic.impactify.media
 0.0.0.0 snoop.minecraft.net
 0.0.0.0 srv.pixel.parsely.com

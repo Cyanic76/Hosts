@@ -1,0 +1,10 @@
+! Title: Cyanic's Hosts list - iAdvize
+! Expires: 1 month
+! Description: A list of iAdvize domains.
+! Homepage: https://hosts.cyanic.tk
+! Source: https://hosts.cyanic.tk/corporations/iadvize.txt
+
+0.0.0.0 fstatic.iadvize.com
+0.0.0.0 gapi.iadvize.com
+0.0.0.0 live.iadvize.com
+0.0.0.0 static.iadvize.com

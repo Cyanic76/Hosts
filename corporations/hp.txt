@@ -33,12 +33,15 @@
 0.0.0.0 e7316.b.akamaiedge.net
 0.0.0.0 e40715.dsca.akamaiedge.net
 0.0.0.0 education.hpe.com
+0.0.0.0 ftp.ext.hp.com
+0.0.0.0 ftp.hp.com
 0.0.0.0 garage.hp.com
 0.0.0.0 gncpgslbpro1.houston.hp.com
 0.0.0.0 h10076.www1.hpe.com
 0.0.0.0 h20212.www2.hp.com
 0.0.0.0 h20195.www2.hp.com
 0.0.0.0 h20195.www2.hpe.com
+0.0.0.0 h20572.www2.hp.com
 0.0.0.0 h30434.www3.hp.com
 0.0.0.0 hp.com
 0.0.0.0 hpetraining.co1.qualtrics.com
@@ -56,6 +59,7 @@
 0.0.0.0 parts.hp.com
 0.0.0.0 portal.central.arubanetworks.com
 0.0.0.0 register.hp.com
+0.0.0.0 sudf-api.hpcloud.hp.com
 0.0.0.0 support.hp.com
 0.0.0.0 support.hpe.com
 0.0.0.0 store.hp.com

@@ -100,6 +100,7 @@
 0.0.0.0 aa.google.com
 0.0.0.0 accounts.google.com
 #0.0.0.0 accounts.google.*
+0.0.0.0 accounts-cctld.l.google.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 addons-pa.clients1.google.com
 0.0.0.0 addons-pa.clients2.google.com
@@ -130,7 +131,14 @@
 0.0.0.0 appswaldo.clients5.google.com
 0.0.0.0 appswaldo.clients6.google.com
 0.0.0.0 aswpsdkeu.com # see whois record
+0.0.0.0 blobcomments-pa.clients1.google.com
+0.0.0.0 blobcomments-pa.clients2.google.com
+0.0.0.0 blobcomments-pa.clients3.google.com
+0.0.0.0 blobcomments-pa.clients4.google.com
+0.0.0.0 blobcomments-pa.clients5.google.com
+0.0.0.0 blobcomments-pa.clients6.google.com
 0.0.0.0 carrers.google.com
+0.0.0.0 cdn.ampproject.org
 0.0.0.0 chrome.com
 0.0.0.0 ci1.googleusercontent.com
 0.0.0.0 ci2.googleusercontent.com
@@ -163,6 +171,7 @@
 0.0.0.0 developer.chrome.com
 0.0.0.0 developers.google.com
 0.0.0.0 dl.google.com
+0.0.0.0 doc-0g-48-docstext.googleusercontent.com
 0.0.0.0 domains.google
 0.0.0.0 domains.google.com
 0.0.0.0 drive-thirdparty.googleusercontent.com
@@ -227,6 +236,7 @@
 0.0.0.0 mail-ads.google.com
 0.0.0.0 mail-attachment.googleusercontent.com
 0.0.0.0 maps.googleapis.com
+0.0.0.0 maps.gstatic.com
 0.0.0.0 marketingplatform.google.com
 0.0.0.0 mobilemaps.googleapis.com
 0.0.0.0 mobilemaps-pa-gz.googleapis.com
@@ -622,7 +632,7 @@
 0.0.0.0 www.google.mk
 0.0.0.0 maps.google.ml
 0.0.0.0 www.google.ml
-0.0.0.0 maps.google.com.ll
+0.0.0.0 maps.google.com.mm
 0.0.0.0 www.google.com.mm
 0.0.0.0 maps.google.mn
 0.0.0.0 www.google.mn

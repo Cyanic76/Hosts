@@ -6,6 +6,7 @@
 
 0.0.0.0 about.twitter.com
 0.0.0.0 abs.twimg.com
+0.0.0.0 abs-0.twimg.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 api.twitter.com
 0.0.0.0 blog.twitter.com
@@ -21,6 +22,7 @@
 0.0.0.0 help.twitter.com
 0.0.0.0 investor.twitterinc.com
 0.0.0.0 marketing.twitter.com
+0.0.0.0 pbs.twimg.com
 0.0.0.0 pic.twitter.com
 0.0.0.0 platform.twitter.com
 0.0.0.0 platform.twitter.map.fastly.net

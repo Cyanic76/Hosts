@@ -19,6 +19,7 @@
 0.0.0.0 lighthouse.aliexpress.com
 0.0.0.0 m.alibaba.com
 0.0.0.0 moduleanalysis.aliexpress.com
+0.0.0.0 s.click.aliexpress.com
 0.0.0.0 sc01.alicdn.com
 0.0.0.0 sc02.alicdn.com
 0.0.0.0 us.cobra.aliexpress.com

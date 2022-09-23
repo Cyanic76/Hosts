@@ -125,6 +125,7 @@
 0.0.0.0 mrodevicemgr.officeapps.live.com
 0.0.0.0 msdn.microsoft.com
 0.0.0.0 nexusrules.officeapps.live.com
+0.0.0.0 nleditor.osi.office.net
 0.0.0.0 nps.onyx.azure.net
 0.0.0.0 o15.officeredir.microsoft.com
 0.0.0.0 ocos-office365-s2s.msedge.net
@@ -143,6 +144,7 @@
 0.0.0.0 officeredir.microsoft.com
 0.0.0.0 officespeech.platform.bing.com
 0.0.0.0 oneclient.sfx.ms
+0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 onedrive.live.com
 0.0.0.0 outlook.office365.com
 0.0.0.0 outlookmobile-office365-tas.msedge.net
@@ -177,12 +179,14 @@
 0.0.0.0 technet.microsoft.com
 0.0.0.0 telemetryservice.firstpartyapps.oaspapps.com
 0.0.0.0 tse1.mm.bing.net
+0.0.0.0 uci.edog.cdn.office.net
 0.0.0.0 videocontent.osi.office.net
 0.0.0.0 videoplayercdn.osi.office.net
 0.0.0.0 wa104381125.resources.office.net
 0.0.0.0 wdcp.microsoft.com
 0.0.0.0 wikipedia.firstpartyapps.oaspapps.com
 0.0.0.0 workplaceanalytics.cdn.office.net
+0.0.0.0 wusofficehome.msocdn.com
 0.0.0.0 wus-firstpartyapps.oaspapps.com
 0.0.0.0 wus-www.sway-cdn.com
 0.0.0.0 wus-www.sway-extensions.com

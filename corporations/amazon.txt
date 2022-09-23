@@ -57,6 +57,7 @@
 0.0.0.0 smile.amazon.com
 0.0.0.0 studios.amazon.com
 0.0.0.0 substainability.aboutamazon.com
+0.0.0.0 tp.f0c2e5164-frontier.amazon.fr
 0.0.0.0 us.amazon.com
 0.0.0.0 vendorcentral.amazon.com
 0.0.0.0 videodirect.amazon.com
