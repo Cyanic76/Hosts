@@ -15,7 +15,9 @@
 0.0.0.0 asp.arubanetworks.com
 0.0.0.0 auth.hpe.com
 0.0.0.0 authz.api.ws-hp.com
+0.0.0.0 bec-sureclick.bromium-online.com
 0.0.0.0 blogs.arubanetworks.com
+0.0.0.0 brcl-sureclick.bromium-online.com
 0.0.0.0 buy.hpe.com
 0.0.0.0 calculators.arubanetworks.com
 0.0.0.0 careers.arubanetworks.com

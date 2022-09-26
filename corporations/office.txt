@@ -61,6 +61,7 @@
 0.0.0.0 augloop.office.com
 0.0.0.0 auth.gfx.ms
 0.0.0.0 autodiscover-s.outlook.com
+0.0.0.0 binaries.templates.cdn.office.net
 0.0.0.0 blobs.officehome.msocdn.com
 0.0.0.0 broadcast.skype.com
 0.0.0.0 c.bing.net
@@ -152,8 +153,10 @@
 0.0.0.0 partnerservices.getmicrosoftkey.com
 0.0.0.0 peoplegraph.firstpartyapps.oaspapps.com
 0.0.0.0 platform.linkedin.com
+0.0.0.0 pptsgs.officeapps.live.com
 0.0.0.0 prod.firstpartyapps.oaspapps.com.akadns.net
 0.0.0.0 prod.msocdn.com
+0.0.0.0 prod.roaming1.live.com.akadns.net
 0.0.0.0 protection.office.com
 0.0.0.0 protection.outlook.com
 0.0.0.0 r.office.microsoft.com

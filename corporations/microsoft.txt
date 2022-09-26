@@ -127,6 +127,7 @@
 0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 cu1pehnswad01.servicebus.windows.net
 0.0.0.0 cu1pehnswss01.servicebus.windows.net
+0.0.0.0 cxcs.microsoft.net
 0.0.0.0 cy2.licensing.md.mp.microsoft.com.akadns.net
 0.0.0.0 cy2.purchase.md.mp.microsoft.com.akadns.net
 0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
@@ -251,6 +252,7 @@
 0.0.0.0 msedge.api.cdp.microsoft.com
 0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
 0.0.0.0 msedge.f.dl.delivery.mp.microsoft.com
+0.0.0.0 msftstore.s.llnwi.net
 0.0.0.0 msn.com
 0.0.0.0 msnbot-65-52-108-234.search.msn.com
 0.0.0.0 msntest.serving-sys.com
@@ -259,6 +261,7 @@
 0.0.0.0 myanalytics.microsoft.com
 0.0.0.0 nav.smartscreen.microsoft.com
 0.0.0.0 nexus.microsoftonline-p.com
+0.0.0.0 nontlu.graystore.au-msedge.net
 0.0.0.0 ntp.msn.com
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net

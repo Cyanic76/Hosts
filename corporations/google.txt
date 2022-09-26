@@ -118,6 +118,12 @@
 0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 answers.google.com
 0.0.0.0 apis.google.com
+0.0.0.0 appsgrowthpromo-pa.clients1.google.com
+0.0.0.0 appsgrowthpromo-pa.clients2.google.com
+0.0.0.0 appsgrowthpromo-pa.clients3.google.com
+0.0.0.0 appsgrowthpromo-pa.clients4.google.com
+0.0.0.0 appsgrowthpromo-pa.clients5.google.com
+0.0.0.0 appsgrowthpromo-pa.clients6.google.com
 0.0.0.0 appsitemsuggest-pa.clients1.google.com
 0.0.0.0 appsitemsuggest-pa.clients2.google.com
 0.0.0.0 appsitemsuggest-pa.clients3.google.com

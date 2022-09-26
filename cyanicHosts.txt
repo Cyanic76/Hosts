@@ -31,11 +31,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 map.wap.qq.com
 
 # ================================== COOKIE BANNERS
+0.0.0.0 c.delivery.consentmanager.net
 0.0.0.0 ccpa.sp-prod.net
 0.0.0.0 cdn-privacy-mgmt.com
 0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 cdn.appconsent.io
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
+0.0.0.0 cdn.consentmanager.net
 0.0.0.0 choices.consentframework.com
 0.0.0.0 choices.truste.com
 0.0.0.0 choices.trustarc.com
@@ -48,6 +50,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 consent-st.trustarc.com
 0.0.0.0 cookie.lmgssp.com
 0.0.0.0 cookielaw.org
+0.0.0.0 delivery.consentmanager.net
 0.0.0.0 gdpr-tcfv2.sp-prod.net
 0.0.0.0 geo.privacymanager.io
 0.0.0.0 hs-banner.com
@@ -93,7 +96,7 @@ ff02::3 ip6-allhosts
 
 # ================================== GOOGLE
 # Note that other subdomains and domains may be
-# under other categories.
+# under other categories and in other files.
 0.0.0.0 300zlf-dnsotls-ds.metric.gstatic.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 ad.doubleclick.net
@@ -102,6 +105,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
 0.0.0.0 cdn.fastclick.net
+0.0.0.0 chrome.google.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 doubleclick.net
@@ -378,6 +382,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adthrive.com
 0.0.0.0 adtilt.com
 0.0.0.0 ams3-ib.adnxs.com
+0.0.0.0 api.adinplay.com
 0.0.0.0 applovin.com
 0.0.0.0 applvn.com
 0.0.0.0 auiopt.unityads.unity3d.com
@@ -553,6 +558,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 b1-eudc1.zemanta.com
 0.0.0.0 backedn.irsdn.net
 0.0.0.0 beam.hubvisor.io
+0.0.0.0 bec-sureclick.bromium-online.com
+0.0.0.0 brcl-sureclick.bromium-online.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 cdn.iframe.ly
 0.0.0.0 cdn-b.notsy.io
@@ -561,6 +568,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 client-context.hubvisor.io
 0.0.0.0 combinatronics.io
 0.0.0.0 contextual.sirdata.io
+0.0.0.0 country.adinplay.workers.dev
 0.0.0.0 creativecdn.com
 0.0.0.0 c-sta.haloapps.com
 0.0.0.0 csync.smilewanted.com
@@ -581,6 +589,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 g.ezodn.com
 0.0.0.0 go.ezodn.com
 0.0.0.0 gvl.ezodn.com
+0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 hotjar.com
 0.0.0.0 i.haloapps.com
 0.0.0.0 iap-pay-dre.cloud.huawei.eu
@@ -784,6 +793,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.hyprmx.com
 0.0.0.0 static.scroll.com
 0.0.0.0 stats.adobe.com
+0.0.0.0 stats.adinplay.com
 0.0.0.0 stats.redditmedia.com
 0.0.0.0 stats.wp.com
 0.0.0.0 studio-tag.teads.tv
