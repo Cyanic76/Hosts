@@ -147,6 +147,7 @@
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 onedrive.live.com
+0.0.0.0 outlook.ha.office365.com
 0.0.0.0 outlook.office365.com
 0.0.0.0 outlookmobile-office365-tas.msedge.net
 0.0.0.0 ow1.res.office365.com

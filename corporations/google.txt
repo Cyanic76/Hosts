@@ -96,6 +96,7 @@
 0.0.0.0 time.android.com
 
 # Other
+#0.0.0.0 *.safeframe.googlesyndication.com
 0.0.0.0 300zlf-dnsotls-ds.metric.gstatic.com
 0.0.0.0 aa.google.com
 0.0.0.0 accounts.google.com
@@ -114,7 +115,11 @@
 0.0.0.0 adsense.google.com
 0.0.0.0 adservice.google.com
 0.0.0.0 ajax.googleapis.com
+0.0.0.0 alt1-mtalk.google.com
+0.0.0.0 alt3-mtalk.google.com
+0.0.0.0 alt4-mtalk.google.com
 0.0.0.0 android.googleapis.com
+0.0.0.0 android-context-data.googleapis.com
 0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 answers.google.com
 0.0.0.0 apis.google.com
@@ -176,6 +181,7 @@
 0.0.0.0 design.google.com
 0.0.0.0 developer.chrome.com
 0.0.0.0 developers.google.com
+0.0.0.0 digitalassetlinks.googleapis.com
 0.0.0.0 dl.google.com
 0.0.0.0 doc-0g-48-docstext.googleusercontent.com
 0.0.0.0 domains.google
@@ -248,6 +254,8 @@
 0.0.0.0 mobilemaps-pa-gz.googleapis.com
 0.0.0.0 mobile-gtalk.l.google.com
 0.0.0.0 mtalk.google.com
+0.0.0.0 newsstand.googleusercontent.com
+0.0.0.0 notifications-pa.googleapis.com
 0.0.0.0 ocsp.pki.goog
 0.0.0.0 ogs.google.com
 0.0.0.0 opensource.google.com
@@ -294,6 +302,7 @@
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 safety.google
 0.0.0.0 santatracker.google.com
+0.0.0.0 sb-ssl.google.com
 0.0.0.0 scone-pa.clients1.google.com
 0.0.0.0 scone-pa.clients2.google.com
 0.0.0.0 scone-pa.clients3.google.com
@@ -303,6 +312,7 @@
 0.0.0.0 search.google.com
 0.0.0.0 securetoken.googleapis.com
 0.0.0.0 security.googleblog.com
+0.0.0.0 settings.crashlytics.com
 0.0.0.0 signaler-pa.clients1.google.com
 0.0.0.0 signaler-pa.clients2.google.com
 0.0.0.0 signaler-pa.clients3.google.com
@@ -334,7 +344,9 @@
 0.0.0.0 tg-in-f188.1e100.net
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 update.googleapis.com
+0.0.0.0 userlocation.googleapis.com
 0.0.0.0 videos.google.com
+0.0.0.0 voledevice-pa.googleapis.com
 0.0.0.0 wa-in-f188.1e100.net
 0.0.0.0 webdesigner.withgoogle.com
 0.0.0.0 wl-in-f188.1e100.net

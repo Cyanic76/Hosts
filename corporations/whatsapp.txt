@@ -1,0 +1,9 @@
+! Title: Cyanic's Hosts list - WhatsApp
+! Expires: 1 month
+! Description: A short list of WhatsApp domains.
+! Homepage: https://hosts.cyanic.tk
+! Source: https://hosts.cyanic.tk/corporations/whatsapp.txt
+
+0.0.0.0 dit.whatsapp.net
+0.0.0.0 g.whatsapp.net
+0.0.0.0 static.whatsapp.net
