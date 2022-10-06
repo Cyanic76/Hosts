@@ -1,6 +1,11 @@
+# READ COMMENTED LINES
+
+# Not coming soon
 corporations/amp.txt
 corporations/garmin.txt
+
+# May be released soon
 corporations/oracle.txt
 
+# Other
 merge_all/allhosts.txt
-index.html

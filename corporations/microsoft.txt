@@ -1,6 +1,6 @@
-! Title: Cyanic's Hosts list - Microsoft
+! Title: Cyanic Hosts: Microsoft
 ! Expires: 1 month
-! Description: A list of Microsoft domains.
+! Description: Incomplete list of Microsoft domains.
 ! Homepage: https://hosts.cyanic.tk
 ! Source: https://hosts.cyanic.tk/corporations/microsoft.txt
 
@@ -120,6 +120,7 @@
 0.0.0.0 compliance.microsoft.com
 0.0.0.0 config.teams.microsoft.com
 0.0.0.0 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net
+0.0.0.0 core.bdec.microsoft.com
 0.0.0.0 cortana.ai
 0.0.0.0 cp601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 cp801.prod.do.dsp.mp.microsoft.com
@@ -170,6 +171,7 @@
 0.0.0.0 ecn.dev.virtualearth.net
 0.0.0.0 edge.activity.windows.com
 0.0.0.0 edge.microsoft.com
+0.0.0.0 edge-http.microsoft.com
 0.0.0.0 edge-microsoft-com.dual-a-0036.a-msedge.net
 0.0.0.0 emdl.ws.microsoft.com
 0.0.0.0 encartaupdate.msn.com

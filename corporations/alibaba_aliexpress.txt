@@ -1,4 +1,4 @@
-! Title: Cyanic's Hosts list: Alibaba and Aliexpress
+! Title: Cyanic Hosts: Alibaba & Aliexpress
 ! Expires: 1 month
 ! Description: Alibaba/AliExpress hosts
 ! Homepage: https://hosts.cyanic.tk
@@ -12,8 +12,10 @@
 0.0.0.0 ae04.alicdn.com
 0.0.0.0 aeproductsourcesite.alicdn.com
 0.0.0.0 assets.alicdn.com
-0.0.0.0 fr.aliexpress.com
+0.0.0.0 eu-acs.aliexpress.com.gds.alibabadns.com
+0.0.0.0 eu-aebridge.aliexpress.com.gds.alibabadns.com
 0.0.0.0 g.alicdn.com
+0.0.0.0 hz-aebridge.aliexpress.com.gds.alibabadns.com
 0.0.0.0 i.alicdn.com
 0.0.0.0 is.alicdn.com
 0.0.0.0 lighthouse.aliexpress.com
@@ -23,3 +25,4 @@
 0.0.0.0 sc01.alicdn.com
 0.0.0.0 sc02.alicdn.com
 0.0.0.0 us.cobra.aliexpress.com
+0.0.0.0 us.ynuf.aliapp.org
