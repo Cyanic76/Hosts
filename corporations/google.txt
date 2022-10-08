@@ -84,6 +84,7 @@
 0.0.0.0 8.android.pool.ntp.org
 0.0.0.0 9.android.pool.ntp.org
 0.0.0.0 android.com
+0.0.0.0 android.apis.google.com
 0.0.0.0 android.clients.google.com
 0.0.0.0 android-developers.googleblog.com
 0.0.0.0 android.googleapis.com
@@ -98,6 +99,7 @@
 # Other
 #0.0.0.0 *.safeframe.googlesyndication.com
 0.0.0.0 300zlf-dnsotls-ds.metric.gstatic.com
+0.0.0.0 3cbc684bb9f2dcdd3a3794de9de52f63.safeframe.googlesyndication.com
 0.0.0.0 aa.google.com
 0.0.0.0 accounts.google.com
 #0.0.0.0 accounts.google.*
@@ -116,6 +118,7 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 ajax.googleapis.com
 0.0.0.0 alt1-mtalk.google.com
+0.0.0.0 alt2-mtalk.google.com
 0.0.0.0 alt3-mtalk.google.com
 0.0.0.0 alt4-mtalk.google.com
 0.0.0.0 android.googleapis.com
@@ -175,12 +178,14 @@
 0.0.0.0 content-firebaseappcheck.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 crowdsource.google.com
+0.0.0.0 cryptauthdevicesync.googleapis.com
 0.0.0.0 cs.opensource.google
 0.0.0.0 csp.withgoogle.com
 0.0.0.0 datacompute.google.com
 0.0.0.0 design.google.com
 0.0.0.0 developer.chrome.com
 0.0.0.0 developers.google.com
+0.0.0.0 deviceintegritytokens-pa.googleapis.com
 0.0.0.0 digitalassetlinks.googleapis.com
 0.0.0.0 dl.google.com
 0.0.0.0 doc-0g-48-docstext.googleusercontent.com
@@ -201,6 +206,7 @@
 0.0.0.0 espresso-pa.clients4.google.com
 0.0.0.0 espresso-pa.clients5.google.com
 0.0.0.0 espresso-pa.clients6.google.com
+0.0.0.0 fb50436e04f648465c9ba6a8892caa86.safeframe.googlesyndication.com
 0.0.0.0 feedback-pa.clients1.google.com
 0.0.0.0 feedback-pa.clients2.google.com
 0.0.0.0 feedback-pa.clients3.google.com
@@ -221,6 +227,8 @@
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 g.co
 0.0.0.0 geller-pa.googleapis.com
+0.0.0.0 geomobileservices-pa.googleapis.com
+0.0.0.0 gnpfesdk-pa.googleapis.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleblog.com
 0.0.0.0 googlehosted.l.googleusercontent.com
@@ -241,6 +249,9 @@
 0.0.0.0 kstatic.googleusercontent.com
 0.0.0.0 KQu0cL-dnsotls-ds.metric.gstatic.com
 0.0.0.0 learndigital.withgoogle.com
+0.0.0.0 lh6.ggpht.com
+0.0.0.0 lh1.googleusercontent.com
+0.0.0.0 lh2.googleusercontent.com
 0.0.0.0 lh3.googleusercontent.com
 0.0.0.0 lh4.googleusercontent.com
 0.0.0.0 lh5.googleusercontent.com
@@ -332,6 +343,7 @@
 0.0.0.0 suggestqueries-clients4.youtube.com
 0.0.0.0 suggestqueries-clients5.youtube.com
 0.0.0.0 suggestqueries-clients6.youtube.com
+0.0.0.0 supl.google.com
 0.0.0.0 s-usc1a-nss-2023.firebase.io
 0.0.0.0 t0.gstatic.com
 0.0.0.0 tables.area120.google.com
@@ -346,6 +358,7 @@
 0.0.0.0 update.googleapis.com
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 videos.google.com
+0.0.0.0 voilatile-pa.googleapis.com
 0.0.0.0 voledevice-pa.googleapis.com
 0.0.0.0 wa-in-f188.1e100.net
 0.0.0.0 webdesigner.withgoogle.com

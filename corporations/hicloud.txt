@@ -28,6 +28,7 @@
 0.0.0.0 connect-drcn.dbankcloud.cn
 0.0.0.0 connect-drcn.hispace.hicloud.com
 0.0.0.0 connectivitycheck.platform.hicloud.com
+0.0.0.0 device-api-eu.hmsairship.com
 0.0.0.0 dnkeeper.hicloud.com
 0.0.0.0 dnkeeper.platform.dbankcloud.cn
 0.0.0.0 event.dbankcdn.com
@@ -42,8 +43,10 @@
 0.0.0.0 healthcommon-dre.things.hicloud.com
 0.0.0.0 hihealthbase-dre.things.hicloud.com
 0.0.0.0 hwid.platform.hicloud.com
+0.0.0.0 hwid-dre.platform.hicloud.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 nsp-sporthealth-oper-dre.obs.eu-de.otc.t-systems.com
 0.0.0.0 oauth-login-dre.platform.dbankcloud.com
 0.0.0.0 openlocation-dre.platform.dbankcloud.com
 0.0.0.0 operationposition-dre.things.dbankcloud.com
@@ -56,6 +59,7 @@
 0.0.0.0 pushtrs6.push.hicloud.com
 0.0.0.0 pushtrs7.push.hicloud.com
 0.0.0.0 query.hicloud.com
+0.0.0.0 remote-data-eu.hmsairship.com
 0.0.0.0 sdkserver-dre.op.hicloud.com
 0.0.0.0 sgw-de.c.huawei.com
 0.0.0.0 sportdata-dre.things.hicloud.com

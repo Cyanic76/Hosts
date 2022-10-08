@@ -49,6 +49,8 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 hacking-facebook.com
 0.0.0.0 l.facebook.com
+0.0.0.0 kaios-d.facebook.com
+0.0.0.0 m.facebook.com
 0.0.0.0 m-facebook.ct8.pl
 0.0.0.0 pixel.facebook.com
 0.0.0.0 scontent-cdt1-1.xx.fbcdn.net

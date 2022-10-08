@@ -30,5 +30,6 @@
 0.0.0.0 status.twitterstat.us
 0.0.0.0 support.twitter.com
 0.0.0.0 syndication.twitter.com
+0.0.0.0 twemoji.maxcdn.com
 0.0.0.0 twitter.com
 0.0.0.0 twitterinc.tt.omtrdc.net
