@@ -85,6 +85,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.facebook.com
 0.0.0.0 an.facebook.com
 0.0.0.0 analytics.facebook.com
+0.0.0.0 connect.facebook.net
 0.0.0.0 facebook-ads.mediaz.vn
 0.0.0.0 facebook-color.5v.pl
 0.0.0.0 facebook-drm-server3.com
@@ -409,12 +410,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn-webview-pge.unityads.unity3d.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 cds.taboola.com
+0.0.0.0 centinelapi.cardinalcommerce.com
 0.0.0.0 chartboost.com
 0.0.0.0 chartboosts.com
 0.0.0.0 china-cdn.unityads.unity3d.com
 0.0.0.0 cleverads.vn
 0.0.0.0 click.dji.com
 0.0.0.0 click.linksynergy.com
+0.0.0.0 codepush.appcenter.ms
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 contents.adpaths.com
 0.0.0.0 contextual.media.net
@@ -583,6 +586,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 cdn.iframe.ly
+0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn-b.notsy.io
 0.0.0.0 click-v4.expmdiadi.com
 0.0.0.0 clickserve.dartsearch.net
@@ -621,6 +625,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 iap-pay-dre.cloud.huawei.eu
 0.0.0.0 id5-sync.com
 0.0.0.0 ident.me
+0.0.0.0 images-ssl.bestbuy.com
+0.0.0.0 img.bbystatic.com
 0.0.0.0 in.appcenter.ms
 0.0.0.0 j.6sc.co
 0.0.0.0 launches.appsflyer.com
@@ -712,6 +718,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.nexx360.io
 0.0.0.0 cdn.onesignal.com
+0.0.0.0 cdn.snigelweb.com
 0.0.0.0 cdn.statically.io
 0.0.0.0 cdn.wazimo.com
 0.0.0.0 chat.missena.io
@@ -725,6 +732,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cs.seedtag.com
 0.0.0.0 datacollector-dre.dt.hicloud.com
 0.0.0.0 darcs.maximiles.com
+0.0.0.0 data.privacy.ensighten.com
 0.0.0.0 deal24.lv
 0.0.0.0 dig.ultimedia.com
 0.0.0.0 dmxleo.com
@@ -739,13 +747,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 exchange.mediavine.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastly-insights.net
+0.0.0.0 fdz.flashtalking.com
+0.0.0.0 fel-api.prod.browse.bestbuy.com
 0.0.0.0 filter.com
+0.0.0.0 fm.flashtalking.com
 0.0.0.0 frz.io
 0.0.0.0 funbe.rjifxuqoo
 0.0.0.0 gcm.ctnsnet.com
+0.0.0.0 geo.cardinalcommerce.com
 0.0.0.0 geo.prod.do.dsp.trafficmanager.net
+0.0.0.0 geoissuer.cardinalcommerce.com
 0.0.0.0 goutee.top
 0.0.0.0 green.erne.co
+0.0.0.0 h.online-metrix.net
 0.0.0.0 h1.fastlyanalytics.map.fastly.net
 0.0.0.0 hal9000.redintelligence.net
 0.0.0.0 hal90005.redintelligence.net
@@ -833,6 +847,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 skimresources.com
 0.0.0.0 smetrics.fnac.com
 0.0.0.0 smetrics.ni.com
+0.0.0.0 snigelweb.com
 0.0.0.0 sonic.impactify.media
 0.0.0.0 snoop.minecraft.net
 0.0.0.0 srv.pixel.parsely.com
@@ -858,6 +873,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tag.aticdn.net
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.crwdcntrl.net
+0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tagservice.maximus.mobkoi.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 track.hubspot.com
@@ -876,6 +892,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 www.iubenda.com
+0.0.0.0 www.snigelweb.com
 0.0.0.0 www.wysistat.com
 0.0.0.0 z4y.pl
 
@@ -883,6 +900,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.pinterest.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 business.pinterest.com
+0.0.0.0 ct.pinterest.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 widgets.pinterest.com

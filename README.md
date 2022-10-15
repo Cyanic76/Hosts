@@ -4,18 +4,18 @@ All my hosts lists for you to add to your adblocker.
 
 ## Use the main hosts list
 
-Add `https://hosts.cyanic.tk/cyanicHosts.txt` to your adblock (like Pi-Hole). All of the requests that are made to the specified domains will be redirected to 0.0.0.0 (nowhere).
+Add `https://hosts.cyanic.me/cyanicHosts.txt` to your adblock (like Pi-Hole or AdAway). All of the requests that are made to the specified domains will be redirected to 0.0.0.0 (nowhere).
 
 ## Choose what you want to block
 
-The goal is to [block standard ad and tracker domains](https://hosts.cyanic.tk/cyanicHosts.txt) and [if you want to block corporations](https://codeberg.org/Cyanic76/Hosts/issues/1), you choose what you want/need to block.
+The goal is to [block standard ad and tracker domains](https://hosts.cyanic.me/cyanicHosts.txt) and [if you want to block corporations](https://codeberg.org/Cyanic76/Hosts/issues/1), you choose what you want/need to block.
 
 ## Get all hosts together
 
 <details><summary>Using URLs</summary>
 Add this URL to your ad blocker.
 
-- https://hosts.cyanic.tk/allhosts.txt
+- https://hosts.cyanic.me/allhosts.txt
 
 If it [doesn't work](https://codeberg.org/Cyanic76/Hosts/issues/1), try with this one instead:
 
@@ -35,6 +35,35 @@ If you notice that one or more domains and/or subdomains have not been added to 
 Before filing a new issue or PR, [search in the existing ones](https://github.com/search?l=&q=is%3Aissue++repo%3ACyanic76%2FHosts&type=issues) to make sure you will not open a duplicate one.
 
 **Feel free to add your own hosts to the lists!** Fork the repository, edit the correct files and open a pull request on this repository.
+
+## Lists
+
+<details><sumarry>Available</summary>
+- Alibaba & Aliexpress
+- Amazon
+- Avast
+- Discord
+- Disqus
+- Ebay
+- Facebook
+- Google
+- Hicloud/Huawei
+- HP
+- Iadvize
+- Leboncoin
+- McAfee
+- Microsoft
+- Microsoft Office
+- Quizlet (was requested)
+- Twitter
+- WhatsApp
+</details>
+
+<details><sumarry>Coming soon</summary>
+There may be more in the `.gitignore` file, though
+- Canon
+- Oracle
+</details>
 
 ## Legal
 
