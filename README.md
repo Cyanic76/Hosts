@@ -38,32 +38,7 @@ Before filing a new issue or PR, [search in the existing ones](https://github.co
 
 ## Lists
 
-<details><sumarry>Available</summary>
-- Alibaba & Aliexpress
-- Amazon
-- Avast
-- Discord
-- Disqus
-- Ebay
-- Facebook
-- Google
-- Hicloud/Huawei
-- HP
-- Iadvize
-- Leboncoin
-- McAfee
-- Microsoft
-- Microsoft Office
-- Quizlet (was requested)
-- Twitter
-- WhatsApp
-</details>
-
-<details><sumarry>Coming soon</summary>
-There may be more in the `.gitignore` file, though
-- Canon
-- Oracle
-</details>
+Check the .gitignore for more information about lists that are coming soon.
 
 ## Legal
 
