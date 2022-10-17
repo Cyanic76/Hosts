@@ -477,6 +477,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inmobi.net
 0.0.0.0 inmobicdn.net
 0.0.0.0 inmobisdk-a.akamaihd.net
+0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 ironsrc.com
 0.0.0.0 ironsrc.net
 0.0.0.0 its.tradelab.fr
@@ -493,6 +494,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mc.webvisor.org
 0.0.0.0 media-api.maio.jp
 0.0.0.0 media.net
+0.0.0.0 metric-api.newrelic.com
 0.0.0.0 moatads.com
 0.0.0.0 mopub-win-us-east.bksn.se
 0.0.0.0 mwzeom.zeotap.com
@@ -520,6 +522,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 prebid-fr.casalemedia.com
 0.0.0.0 pub.network
 0.0.0.0 pubs.acs.irg
+0.0.0.0 px.ads.linkedin.com
 0.0.0.0 q.adrta.com
 0.0.0.0 rereddit.com
 0.0.0.0 s.console.adtarget.com.tr
@@ -682,6 +685,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adserv.info
 0.0.0.0 akm-static.ccmbg.com
 0.0.0.0 amplify.outbrain.com
+0.0.0.0 analytics01.cisco.netacad.com
 0.0.0.0 analytics1.us.archive.org
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics.archive.org
@@ -876,6 +880,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tagservice.maximus.mobkoi.com
 0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 telemetry.vg.ac.pvp.net
 0.0.0.0 track.hubspot.com
 0.0.0.0 tracker.yougov.com
 0.0.0.0 tracking.emerse.com

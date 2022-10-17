@@ -25,6 +25,7 @@
 0.0.0.0 business.amazon.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 catalyst.amazon.com
+#0.0.0.0 completion.amazon.*
 0.0.0.0 developer.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 docs.aws.amazon.com
@@ -32,6 +33,7 @@
 0.0.0.0 gaming.amazon.com
 0.0.0.0 hiring.amazon.com
 0.0.0.0 ignite.amazon.com
+0.0.0.0 images-eu.ssl-images-amazon.com
 0.0.0.0 images-na.ssl-images-amazon.com
 0.0.0.0 kdp.amazon.com
 0.0.0.0 kindlepublishing.amazon.com

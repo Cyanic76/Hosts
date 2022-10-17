@@ -103,6 +103,7 @@
 0.0.0.0 aa.google.com
 0.0.0.0 accounts.google.com
 #0.0.0.0 accounts.google.*
+0.0.0.0 accountcapabilities-pa.googleapis.com
 0.0.0.0 accounts-cctld.l.google.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 addons-pa.clients1.google.com
@@ -207,6 +208,7 @@
 0.0.0.0 espresso-pa.clients5.google.com
 0.0.0.0 espresso-pa.clients6.google.com
 0.0.0.0 fb50436e04f648465c9ba6a8892caa86.safeframe.googlesyndication.com
+0.0.0.0 fcmconnection.googleapis.com
 0.0.0.0 feedback-pa.clients1.google.com
 0.0.0.0 feedback-pa.clients2.google.com
 0.0.0.0 feedback-pa.clients3.google.com

@@ -1,0 +1,36 @@
+! Title: Cyanic's Hosts list - Riot
+! Expires: 1 month
+! Description: A list of Riot domains.
+! Homepage: https://hosts.cyanic.tk
+! Source: https://hosts.cyanic.tk/corporations/riot.txt
+
+0.0.0.0 auth.riotgames.com
+0.0.0.0 authenticate.riotgames.com
+0.0.0.0 bacon.secure.dyn.riotcdn.net
+0.0.0.0 clientconfig.rpg.riotgames.com
+0.0.0.0 content.publishing.riotgames.com
+0.0.0.0 data.riotgames.com
+0.0.0.0 ekg.riotgames.com
+0.0.0.0 entitlements.auth.riotgames.com
+0.0.0.0 esports-api.lolesports.com
+0.0.0.0 eu.edge.rms.si.riotgames.com
+0.0.0.0 eu.lers.loyalty.riotgames.com
+0.0.0.0 euc.pp.riotgames.com
+0.0.0.0 euw.store.leagueoflegends.com
+0.0.0.0 euw1.chat.si.riotgames.com
+0.0.0.0 frontpage.euw.leagueoflegends.com
+0.0.0.0 ks-foundation.secure.dyn.riotcdn.net
+0.0.0.0 lol.secure.dyn.riotcdn.net
+0.0.0.0 lolstatic-a.akamaihd.net
+0.0.0.0 lolesports.com
+0.0.0.0 oembed.leagueoflegends.com
+0.0.0.0 pft.leagueoflegends.com
+0.0.0.0 playerpreferences.riotgames.com
+0.0.0.0 prod.euw1.lol.riotgames.com
+0.0.0.0 sieve.services.riotcdn.net
+0.0.0.0 ritoplus.secure.dyn.riotcdn.net
+0.0.0.0 riot-client.dyn.riotcdn.net
+0.0.0.0 riot-client.secure.dyn.riotcdn.net
+0.0.0.0 riot-geo.pas.si.riotgames.com
+0.0.0.0 valorant.secure.dyn.riotcdn.net
+0.0.0.0 wildrift.secure.dyn.riotcdn.net

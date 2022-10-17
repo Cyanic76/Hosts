@@ -61,6 +61,7 @@
 0.0.0.0 api.msn.com
 0.0.0.0 api-msn-com.a-0003.a-msedge.net
 0.0.0.0 api.passwordreset.microsoftonline.com
+0.0.0.0 app.whiteboard.microsoft.com
 0.0.0.0 appsource.microsoft.com
 0.0.0.0 arc.msn.com
 0.0.0.0 array607.prod.do.dsp.mp.microsoft.com
@@ -217,12 +218,14 @@
 0.0.0.0 img-s-msn-com.akamaized.net
 0.0.0.0 inference.location.live.net
 0.0.0.0 ipv4.login.msa.akadns6.net
+0.0.0.0 ipv6.msftconnecttest.com
 0.0.0.0 iriscoremetadataprod.blob.core.windows.net
 0.0.0.0 k-ring.msedge.net
 0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 kv801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 l-ring.msedge.net
 0.0.0.0 learn.microsoft.com
+0.0.0.0 lfghub-anonymous.xboxlive.com
 0.0.0.0 licensing.mp.microsoft.com
 0.0.0.0 live.com
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
@@ -377,6 +380,7 @@
 0.0.0.0 wdcp.microsoft.com
 0.0.0.0 wdcpalt.microsoft.com
 0.0.0.0 wees.df.telemetry.microsoft.com
+0.0.0.0 whiteboard.ms
 0.0.0.0 win.data.microsoft.com
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com
