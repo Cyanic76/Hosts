@@ -591,6 +591,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.iframe.ly
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn-b.notsy.io
+0.0.0.0 cdn-sureclick.bromium-online.com
 0.0.0.0 click-v4.expmdiadi.com
 0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 client.rave-api.com

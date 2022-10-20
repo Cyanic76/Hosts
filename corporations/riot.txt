@@ -4,18 +4,26 @@
 ! Homepage: https://hosts.cyanic.tk
 ! Source: https://hosts.cyanic.tk/corporations/riot.txt
 
+# I don't know about other regional domains
+
 0.0.0.0 auth.riotgames.com
+0.0.0.0 auth.riotgames.com.cdn.cloudflare.net
 0.0.0.0 authenticate.riotgames.com
 0.0.0.0 bacon.secure.dyn.riotcdn.net
+0.0.0.0 cdn.rpg.riotgames.com.c.footprint.net
 0.0.0.0 clientconfig.rpg.riotgames.com
 0.0.0.0 content.publishing.riotgames.com
 0.0.0.0 data.riotgames.com
 0.0.0.0 ekg.riotgames.com
+0.0.0.0 email-verification.riotgames.com
 0.0.0.0 entitlements.auth.riotgames.com
+0.0.0.0 entitlements.auth.riotgames.com.cdn.cloudflare.net
 0.0.0.0 esports-api.lolesports.com
 0.0.0.0 eu.edge.rms.si.riotgames.com
 0.0.0.0 eu.lers.loyalty.riotgames.com
+0.0.0.0 eu.vts.si.riotgames.com
 0.0.0.0 euc.pp.riotgames.com
+0.0.0.0 euc.pp.sgp.riotgames.com
 0.0.0.0 euw.store.leagueoflegends.com
 0.0.0.0 euw1.chat.si.riotgames.com
 0.0.0.0 frontpage.euw.leagueoflegends.com
@@ -32,5 +40,14 @@
 0.0.0.0 riot-client.dyn.riotcdn.net
 0.0.0.0 riot-client.secure.dyn.riotcdn.net
 0.0.0.0 riot-geo.pas.si.riotgames.com
+0.0.0.0 riotgames-publishing.netlifyglobalcdn.com
+0.0.0.0 signup-api.riotgames.com.cdn.cloudflare.net
+0.0.0.0 tr1.chat.si.riotgames.com
+0.0.0.0 us.edge.rms.si.riotgames.com
+0.0.0.0 us.lers.loyalty.riotgames.com
+0.0.0.0 us.vts.si.riotgames.com
 0.0.0.0 valorant.secure.dyn.riotcdn.net
+0.0.0.0 xsso.riotgames.com
 0.0.0.0 wildrift.secure.dyn.riotcdn.net
+0.0.0.0 xsso.riotgames.com.cdn.cloudflare.net
+0.0.0.0 zn9blfwvwtdifxopg-riotgames.siteintercept.qualtrics.com
