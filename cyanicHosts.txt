@@ -672,6 +672,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sync.ipredictive.com
 0.0.0.0 sync.srv.stackadapt.com
 0.0.0.0 tracker.quadran.eu
+0.0.0.0 tracking.epicgames.com
 0.0.0.0 tv.springserve.com
 0.0.0.0 u.videostep.com
 0.0.0.0 um8cc.bemobtracks.com

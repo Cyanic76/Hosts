@@ -4,9 +4,11 @@
 ! Homepage: https://hosts.cyanic.tk
 ! Source: https://hosts.cyanic.tk/corporations/epicgames.txt
 
+0.0.0.0 account-public-service-prod.ak.epicgames.com
 0.0.0.0 account-public-service-prod01.ol.epicgames.com
 0.0.0.0 account-public-service-prod02.ol.epicgames.com
 0.0.0.0 account-public-service-prod03.ol.epicgames.com
+0.0.0.0 api.epicgames.dev
 0.0.0.0 catalog-public-service-prod01.ol.epicgames.com
 0.0.0.0 catalog-public-service-prod02.ol.epicgames.com
 0.0.0.0 catalog-public-service-prod03.ol.epicgames.com
@@ -17,6 +19,8 @@
 0.0.0.0 datarouter.ol.epicgames.com
 0.0.0.0 datarouter-prod.ak.epicgames.com
 0.0.0.0 datarouter-weighted.ol.epicgames.com
+0.0.0.0 epicgames.com
+0.0.0.0 epic-social-social-modules-prod.ol.epicgames.com
 0.0.0.0 friends-public-service-prod01.ol.epicgames.com
 0.0.0.0 friends-public-service-prod02.ol.epicgames.com
 0.0.0.0 friends-public-service-prod03.ol.epicgames.com
@@ -29,10 +33,16 @@
 0.0.0.0 launcher-public-service-prod04.ol.epicgames.com
 0.0.0.0 launcher-public-service-prod05.ol.epicgames.com
 0.0.0.0 launcher-public-service-prod06.ol.epicgames.com
+0.0.0.0 launcher.store.epicgames.com
 0.0.0.0 library-service.live.use1a.on.epicgames.com
 0.0.0.0 priceengine-public-service-ecomprod01.ol.epicgames.com
 0.0.0.0 qos1.ol.epicgames.com
 0.0.0.0 qos2.ol.epicgames.com
 0.0.0.0 qos3.ol.epicgames.com
 0.0.0.0 qos4.ol.epicgames.com
+0.0.0.0 static-assets-prod.epicgames.com
+0.0.0.0 store.epicgames.com
+0.0.0.0 store-content-ipv4.ak.epicgames.com
+0.0.0.0 store-site-backend-static-ipv4.ak.epicgames.com
+0.0.0.0 tracking.epicgames.com
 0.0.0.0 xmpp-service-prod.ol.epicgames.com
