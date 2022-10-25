@@ -45,6 +45,7 @@
 0.0.0.0 hwid.platform.hicloud.com
 0.0.0.0 hwid-dre.platform.hicloud.com
 0.0.0.0 logbak.hicloud.com
+0.0.0.0 metrics1.data.hicloud.com
 0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 nsp-sporthealth-oper-dre.obs.eu-de.otc.t-systems.com
 0.0.0.0 oauth-login-dre.platform.dbankcloud.com

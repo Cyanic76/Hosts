@@ -181,6 +181,7 @@
 0.0.0.0 crowdsource.google.com
 0.0.0.0 cryptauthdevicesync.googleapis.com
 0.0.0.0 cs.opensource.google
+0.0.0.0 csi.gstatic.com
 0.0.0.0 csp.withgoogle.com
 0.0.0.0 datacompute.google.com
 0.0.0.0 design.google.com
@@ -246,10 +247,12 @@
 0.0.0.0 id.google.com
 0.0.0.0 imap.gmail.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 infinitedata-pa.googleapis.com
+0.0.0.0 instantmessaging-pa.googleapis.com
 0.0.0.0 instantmessaging-pa-eu.googleapis.com
+0.0.0.0 jmt17.google.com
 0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 kstatic.googleusercontent.com
-0.0.0.0 KQu0cL-dnsotls-ds.metric.gstatic.com
 0.0.0.0 learndigital.withgoogle.com
 0.0.0.0 lh6.ggpht.com
 0.0.0.0 lh1.googleusercontent.com
@@ -263,6 +266,7 @@
 0.0.0.0 maps.googleapis.com
 0.0.0.0 maps.gstatic.com
 0.0.0.0 marketingplatform.google.com
+0.0.0.0 meetings.googleapis.com
 0.0.0.0 mobilemaps.googleapis.com
 0.0.0.0 mobilemaps-pa-gz.googleapis.com
 0.0.0.0 mobile-gtalk.l.google.com
@@ -277,6 +281,7 @@
 0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pai.googlezip.net
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
 0.0.0.0 people-pa.clients1.google.com
 0.0.0.0 people-pa.clients2.google.com
@@ -392,6 +397,7 @@
 
 # Doubleclick/Fastclick
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 doubleclick.net

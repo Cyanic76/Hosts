@@ -344,6 +344,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.cgi.cz
 0.0.0.0 ad.eurosport.com
 0.0.0.0 ad.foxnetworks.com
+0.0.0.0 ad.missena.io
 0.0.0.0 ad.mrtnsrv.com
 0.0.0.0 adclick.com
 0.0.0.0 adcolony.com
@@ -359,6 +360,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adnxs-simple.com
 0.0.0.0 ad.360yield.com
 0.0.0.0 ad.sxp.smartclip.net
+0.0.0.0 ad.turn.com
 0.0.0.0 ads.avads.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
 0.0.0.0 ads-click.com
@@ -393,6 +395,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 be.durationmedia.net
 0.0.0.0 bid.bricks-co.com
+0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 buysellads.com
 0.0.0.0 c1.nend.net
 0.0.0.0 carbonads.com
@@ -421,11 +424,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 contents.adpaths.com
 0.0.0.0 contextual.media.net
+0.0.0.0 cookiesync.api.bliink.io
 0.0.0.0 core.iprom.net
 0.0.0.0 cs.adingo.jp
 0.0.0.0 cs.admanmedia.com
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 cs.media.net
+0.0.0.0 d5p.de17a.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 de1-bid.adsrvr.org
 0.0.0.0 deliverlog-api.maio.jp
@@ -495,6 +500,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 media-api.maio.jp
 0.0.0.0 media.net
 0.0.0.0 metric-api.newrelic.com
+0.0.0.0 mid.rkdms.com
 0.0.0.0 moatads.com
 0.0.0.0 mopub-win-us-east.bksn.se
 0.0.0.0 mwzeom.zeotap.com
@@ -543,6 +549,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.criteo.net
 0.0.0.0 static.media.net
 0.0.0.0 sync.adotmob.com
+0.0.0.0 sync.srv.stackadapt.com
 0.0.0.0 taboola.com
 0.0.0.0 tag.durationmedia.net
 0.0.0.0 tapjoyads.com
@@ -609,6 +616,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 download.com
 0.0.0.0 dpm.demdex.net
 0.0.0.0 drws.batch.com
+0.0.0.0 engine.bliink.io
 0.0.0.0 exchange.consumabletv.com
 0.0.0.0 facebook.net
 0.0.0.0 farm3.static.flickr.com
@@ -621,12 +629,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 g.ezodn.com
 0.0.0.0 go.ezodn.com
 0.0.0.0 go-mpulse.net
+0.0.0.0 graph.facebook.com
 0.0.0.0 gvl.ezodn.com
 0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 hotjar.com
 0.0.0.0 i.haloapps.com
 0.0.0.0 ia.51.la
 0.0.0.0 iap-pay-dre.cloud.huawei.eu
+0.0.0.0 icons.batch.com
 0.0.0.0 id5-sync.com
 0.0.0.0 ident.me
 0.0.0.0 images-ssl.bestbuy.com
@@ -640,6 +650,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 mclean.uk.cloud.360safe.com
 0.0.0.0 measure.lamp.avct.cloud
 0.0.0.0 mediavoice.com
+0.0.0.0 media.batch.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 ml314.com
 0.0.0.0 mouseflow.com
 0.0.0.0 mvconf.uk.cloud.360safe.com
@@ -694,6 +707,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.pix.fr
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.tiktok.come
+0.0.0.0 anp.mxptint.net
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.fouanalytics.com
 0.0.0.0 api.gameanalytics.com
@@ -883,6 +897,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tagservice.maximus.mobkoi.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.vg.ac.pvp.net
+0.0.0.0 tpsc-eu3.doubleverify.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 tracker.yougov.com
 0.0.0.0 tracking.emerse.com
