@@ -4,12 +4,18 @@
 ! Homepage: https://hosts.cyanic.tk
 ! Source: https://hosts.cyanic.tk/corporations/discord.txt
 
+0.0.0.0 blog.discord.com
 0.0.0.0 cdn.discordapp.com
 0.0.0.0 discordapp.com
 0.0.0.0 discord-attachments-uploads-prd.storage.googleapis.com
 0.0.0.0 discord.com
+0.0.0.0 discordstatus.com
+0.0.0.0 feedback.discord.com # Unused
 0.0.0.0 gateway.discord.gg
+0.0.0.0 gateway-us-east1-a.discord.gg
+0.0.0.0 gateway-us-east1-b.discord.gg
 0.0.0.0 gateway-us-east1-c.discord.gg
+0.0.0.0 gateway-us-east1-d.discord.gg
 0.0.0.0 images-ext-1.discordapp.net
 0.0.0.0 images-ext-2.discordapp.net
 0.0.0.0 latency.discord.media
