@@ -13,17 +13,28 @@
 
 0.0.0.0 1storecatelogrevocation.storequality.microsoft.com
 0.0.0.0 1.tlu.dl.delivery.microsoft.com
+0.0.0.0 1.au.download.windowsupdate.com
 0.0.0.0 2.tlu.dl.delivery.microsoft.com
+0.0.0.0 2.au.download.windowsupdate.com
 0.0.0.0 3.tlu.dl.delivery.microsoft.com
+0.0.0.0 3.au.download.windowsupdate.com
 0.0.0.0 4.tlu.dl.delivery.microsoft.com
+0.0.0.0 4.au.download.windowsupdate.com
 0.0.0.0 5.tlu.dl.delivery.microsoft.com
+0.0.0.0 5.au.download.windowsupdate.com
 0.0.0.0 6.tlu.dl.delivery.microsoft.com
 0.0.0.0 6to4.ipv6.microsoft.com
+0.0.0.0 6.au.download.windowsupdate.com
 0.0.0.0 7.tlu.dl.delivery.microsoft.com
+0.0.0.0 7.au.download.windowsupdate.com
 0.0.0.0 8.tlu.dl.delivery.microsoft.com
+0.0.0.0 8.au.download.windowsupdate.com
 0.0.0.0 9.tlu.dl.delivery.microsoft.com
+0.0.0.0 9.au.download.windowsupdate.com
 0.0.0.0 10.tlu.dl.delivery.microsoft.com
+0.0.0.0 10.au.download.windowsupdate.com
 0.0.0.0 11.tlu.dl.delivery.microsoft.com
+0.0.0.0 11.au.download.windowsupdate.com
 0.0.0.0 a122.dscg3.akamai.net
 0.0.0.0 a767.dscg3.akamai.net
 0.0.0.0 a1158.g.akamai.net
@@ -39,6 +50,8 @@
 0.0.0.0 ac3.msn.com
 0.0.0.0 account.activedirectory.windowsazure.com
 0.0.0.0 accounts.accesscontrol.windows.net
+0.0.0.0 acctcdn.msauth.net
+0.0.0.0 acctcdnmsftuswe2.azureedge.net
 0.0.0.0 activity.windows.com
 0.0.0.0 adl.windows.com
 0.0.0.0 admin.microsoft.com
@@ -52,7 +65,7 @@
 0.0.0.0 ajax.aspnetcdn.com
 0.0.0.0 ak.privatelink.msidentity.com
 0.0.0.0 aka.ms
-0.0.0.0 amp-reddit-com.cdn.ampproject.org
+0.0.0.0 amcdn.msftauth.net
 0.0.0.0 amp.azure.net
 0.0.0.0 androiddev.blob.core.windows.net
 0.0.0.0 apac1.notify.windows.com.akadns.net
@@ -81,6 +94,7 @@
 0.0.0.0 az764295.vo.msecdn.net
 0.0.0.0 azure.microsoft.com
 0.0.0.0 azuremarketplace.microsoft.com
+0.0.0.0 b-0016.b-msedge.net
 0.0.0.0 b-ring.msedge.net
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 b.rad.msn.com
@@ -121,6 +135,7 @@
 0.0.0.0 compliance.microsoft.com
 0.0.0.0 config.teams.microsoft.com
 0.0.0.0 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net
+0.0.0.0 continuum.dds.microsoft.com
 0.0.0.0 core.bdec.microsoft.com
 0.0.0.0 cortana.ai
 0.0.0.0 cp601.prod.do.dsp.mp.microsoft.com
@@ -163,10 +178,12 @@
 0.0.0.0 e9398.g.akamaiedge.net
 0.0.0.0 e1723.g.akamaiedge.net
 0.0.0.0 e2785.x.akamaiedge.net
+0.0.0.0 e7204.dscg.akamaiedge.net
 0.0.0.0 e10198.b.akamaiedge.net
 0.0.0.0 e10370.d.akamaiedge.net
 0.0.0.0 e12358.d.akamaiedge.net
 0.0.0.0 e15318.dsca.akamaiedge.net
+0.0.0.0 e19254.dscg.akamaiedge.net
 0.0.0.0 e28578.d.akamaiedge.net
 0.0.0.0 e86303.dscx.akamaiedge.net
 0.0.0.0 ecn.dev.virtualearth.net
@@ -186,6 +203,7 @@
 0.0.0.0 feedback.windows.com
 0.0.0.0 fp.msedge.net
 0.0.0.0 fp-afd.azureedge.net
+0.0.0.0 fp-afd-nocache.azureedge.net
 0.0.0.0 fp-afd.azureedge.us
 0.0.0.0 fp-afd.azurefd.us
 0.0.0.0 fp-as.azureedge.net
@@ -237,6 +255,7 @@
 0.0.0.0 login.microsoftonline-p.com
 0.0.0.0 login.msa.msidentity.com
 0.0.0.0 login.windows.net
+0.0.0.0 logincdn.msauth.net
 0.0.0.0 logincert.microsoftonline.com
 0.0.0.0 loginex.microsoftonline.com
 0.0.0.0 login-us.microsoftonline.com
@@ -254,6 +273,7 @@
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 msagfx.live.com
 0.0.0.0 mscrl.microsoft.com
+0.0.0.0 ms-vscode.gallerycdn.vsassets.io
 0.0.0.0 msdn.com
 0.0.0.0 msdn.microsoft.com
 0.0.0.0 msdn-social.microsoft.com
@@ -283,6 +303,7 @@
 0.0.0.0 passwordreset.microsoftonline.com
 0.0.0.0 photos-ugc.l.googleusercontent.com
 0.0.0.0 ping-edge.smartscreen.microsoft.com
+0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 policykeyservice.dc.ad.msft.net
 0.0.0.0 prod.configsvc1.live.com.akadns.net
 0.0.0.0 prod.nexusrules.live.com.akadns.net
@@ -316,12 +337,14 @@
 0.0.0.0 settings-win-ppe.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 share.microsoft.com
+0.0.0.0 signup.live.com
 0.0.0.0 skypeecs-prod-usw-0.cloudapp.net
 0.0.0.0 slscr.update.microsoft.com
 0.0.0.0 smartscreen-prod.microsoft.com
 0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 spo-ring.msedge.net
 0.0.0.0 spo-ring-fallback.msedge.net
+0.0.0.0 spoppe-b.azureedge.net
 0.0.0.0	spynet2.microsoft.com
 0.0.0.0	spynetalt.microsoft.com
 0.0.0.0	sqm.df.telemetry.microsoft.com
@@ -349,11 +372,13 @@
 0.0.0.0 umwatson.events.data.microsoft.com
 0.0.0.0 update.code.visualstudio.com
 0.0.0.0 update.microsoft.com
+0.0.0.0 updatepc.xboxlive.com
 0.0.0.0 us.configsvc1.live.com.akadns.net
 0.0.0.0 user.auth.xboxlive.com
 0.0.0.0 usseu1northprod.blob.core.windows.net
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v20.events.data.microsoft.com
+0.0.0.0 vadimcn.gallerycdn.vsassets.io
 0.0.0.0 vip5.afdorigin-prod-sg02.afdogw.com
 0.0.0.0 vip5.afdorigin-prod-ln02.afdogw.com
 0.0.0.0 vip5.afdorigin-prod-am02.afdogw.com

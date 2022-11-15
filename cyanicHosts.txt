@@ -173,6 +173,7 @@ ff02::3 ip6-allhosts
 
 # ================================== MICROSOFT
 0.0.0.0 arc.msn.com
+0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 checkappexec.microsoft.com
 0.0.0.0 co4.telecommand.telemetry.microsoft.com.akadns.net
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
