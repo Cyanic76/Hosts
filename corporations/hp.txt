@@ -23,6 +23,7 @@
 0.0.0.0 calculators.arubanetworks.com
 0.0.0.0 careers.arubanetworks.com
 0.0.0.0 client.greenlake.hpe.com
+0.0.0.0 cms.inc.hp.com
 0.0.0.0 common.cloud.hpe.com
 0.0.0.0 community.arubanetworks.com
 0.0.0.0 community.hpe.com
@@ -31,6 +32,7 @@
 0.0.0.0 developer.arubanetworks.com
 0.0.0.0 developer.hpe.com
 0.0.0.0 developers.hp.com
+0.0.0.0 downloads.hpanalytics.net
 0.0.0.0 downloads.hpdaas.com
 0.0.0.0 e100.a.akamaiedge.net
 0.0.0.0 e7316.b.akamaiedge.net
@@ -58,6 +60,9 @@
 0.0.0.0 myaccount.id.hp.com
 0.0.0.0 myhpnotification.s3.us-west-2.amazonaws.com
 0.0.0.0 news.arubanetworks.com
+0.0.0.0 nimbus-irl.bromium-online.com
+0.0.0.0 nimbus-nvi.bromium-online.com
+0.0.0.0 nimbus-tky.bromium-online.com
 0.0.0.0 onboarding.portal.arubainstanton.com
 0.0.0.0 partner.hp.com
 0.0.0.0 parts.hp.com

@@ -56,6 +56,7 @@
 0.0.0.0 scontent-cdt1-1.xx.fbcdn.net
 0.0.0.0 scontent-cdg2-1.xx.fbcdn.net
 0.0.0.0 scontent.xx.fbcdn.net
+0.0.0.0 star-mini.c10r.facebook.com
 0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 unblockfacebook.co.uk
 0.0.0.0 www.facebook-pl.eu

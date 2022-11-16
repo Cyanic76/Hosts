@@ -616,6 +616,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dev-trackerapi.smartlify.com
 0.0.0.0 device-api-eu.hmsairship.com
 0.0.0.0 download.com
+0.0.0.0 downloads.hpanalytics.net
 0.0.0.0 dpm.demdex.net
 0.0.0.0 drws.batch.com
 0.0.0.0 engine.bliink.io
@@ -659,6 +660,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 mouseflow.com
 0.0.0.0 mvconf.uk.cloud.360safe.com
 0.0.0.0 ni500z.btttag.com
+0.0.0.0 nimbus-irl.bromium-online.com
+0.0.0.0 nimbus-nvi.bromium-online.com
+0.0.0.0 nimbus-tky.bromium-online.com
 0.0.0.0 optimizely.com
 0.0.0.0 parsely.com
 0.0.0.0 pbc.hubvisor.io

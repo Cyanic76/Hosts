@@ -94,6 +94,7 @@
 0.0.0.0 az764295.vo.msecdn.net
 0.0.0.0 azure.microsoft.com
 0.0.0.0 azuremarketplace.microsoft.com
+0.0.0.0 b-0004.b-msedge.net
 0.0.0.0 b-0016.b-msedge.net
 0.0.0.0 b-ring.msedge.net
 0.0.0.0 b.ads2.msads.net
@@ -159,6 +160,7 @@
 0.0.0.0 delivery.mp.microsoft.com
 0.0.0.0 dev.virtualearth.net
 0.0.0.0 developer.microsoft.com
+0.0.0.0 device.auth.xboxlive.com
 0.0.0.0 device.login.microsoftonline.com
 0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 diagnostics.support.microsoft.com
@@ -173,6 +175,7 @@
 0.0.0.0 download.microsoft.com
 0.0.0.0 download.visualstudio.microsoft.com
 0.0.0.0 download.windowsupdate.com
+0.0.0.0 dual-s-ring.msedge.net
 0.0.0.0 e-0009.e-msedge.net
 0.0.0.0 e584.g.akamaiedge.net
 0.0.0.0 e9398.g.akamaiedge.net
@@ -196,6 +199,7 @@
 0.0.0.0 enterpriseregistration.windows.net
 0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 evoke-windowsservices-tas-msedge-net.e-0009.e-msedge.net
+0.0.0.0 exo-ring.msedge.net
 0.0.0.0 fe2cr.update.microsoft.com
 0.0.0.0 fe3.update.microsoft.com
 0.0.0.0 fe3cr.delivery.mp.microsoft.com
@@ -291,6 +295,7 @@
 0.0.0.0 nexus.microsoftonline-p.com
 0.0.0.0 nontlu.graystore.au-msedge.net
 0.0.0.0 ntp.msn.com
+0.0.0.0 o-ring.msedge.net
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 ocsp.msocsp.com
@@ -299,6 +304,7 @@
 0.0.0.0 oneocsp.microsoft.com
 0.0.0.0 open-vsx.org
 0.0.0.0 openvsxorg.blob.core.windows.net
+0.0.0.0 part-0033.t-0009.fdv2-t-msedge.net
 0.0.0.0 partner.microsoft.com
 0.0.0.0 passwordreset.microsoftonline.com
 0.0.0.0 photos-ugc.l.googleusercontent.com
@@ -356,6 +362,7 @@
 0.0.0.0 storesdk.dsx.mp.microsoft.com
 0.0.0.0 storecatelogrevocation.storequality.microsoft.com
 0.0.0.0 support.serviceshub.microsoft.com
+0.0.0.0 t-ring-fdv2.msedge.net
 0.0.0.0 t-ring.msedge.net
 0.0.0.0 teams-ring.msedge.net
 0.0.0.0 telecommand.telemetry.microsoft.com
@@ -367,6 +374,7 @@
 0.0.0.0 th.bing.com
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 time.windows.com
+0.0.0.0 title.auth.xboxlive.com
 0.0.0.0 tlu.dl.delivery.mp.microsoft.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 umwatson.events.data.microsoft.com

@@ -304,6 +304,7 @@
 0.0.0.0 peoplestackwebexperiments-pa.clients5.google.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 pf-in-f188.1e100.net
+0.0.0.0 photos-ugc.l.googleusercontent.com
 0.0.0.0 picasa.google.com
 0.0.0.0 pki-goog.l.google.com
 0.0.0.0 play-fe.googleapis.com

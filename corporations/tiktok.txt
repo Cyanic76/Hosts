@@ -1,0 +1,59 @@
+! Title: Cyanic Hosts: TikTok
+! Expires: 1 month
+! Description: Incomplete list of TikTok domains.
+! Homepage: https://hosts.cyanic.tk
+! Source: https://hosts.cyanic.tk/corporations/tiktok.txt
+
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 analytics.us.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 api.tiktokv.com
+0.0.0.0 api-h2.tiktokv.com
+0.0.0.0 api2-21-h2.musical.ly
+0.0.0.0 api2.musical.ly
+0.0.0.0 api2-16-h2.musical.ly
+0.0.0.0 api21-h2.tiktokv.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 feelgood-api.tiktok.com
+0.0.0.0 ib.tiktokv.com
+0.0.0.0 im-api.us.tiktok.com
+0.0.0.0 im-ws-va.tiktok.com
+0.0.0.0 im-ws.us.tiktok.com
+0.0.0.0 link.e.tiktok.com
+0.0.0.0 log2.musical.ly
+0.0.0.0 log.tiktokv.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 mcs-sg.tiktok.com
+0.0.0.0 mcs-va.tiktok.com
+0.0.0.0 mcs.us.tiktok.com
+0.0.0.0 mssdk-sg.tiktok.com
+0.0.0.0 mssdk-va.tiktok.com
+0.0.0.0 mssdk.us.tiktok.com
+0.0.0.0 muscdn.com
+0.0.0.0 ns-440.awsdns-55.com
+0.0.0.0 ns-722.awsdns-26.net
+0.0.0.0 ns-1475.awsdns-56.org
+0.0.0.0 ns-1574.awsdns-04.co.uk
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokcdn.com.c.worldfcdn.com
+0.0.0.0 tiktokcdn-com.akamaized.net
+0.0.0.0 us.tiktok.com
+0.0.0.0 v16a.tiktokcdn.com
+0.0.0.0 v16m.tiktokcdn.com
+0.0.0.0 v16-web.tiktok.com
+0.0.0.0 v16-webapp.tiktok.com
+0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 videos-useast1.us.tiktok.com
+0.0.0.0 videos-useast2.us.tiktok.com
+0.0.0.0 videos-useast3.us.tiktok.com
+0.0.0.0 videos-useast4.us.tiktok.com
+0.0.0.0 videos-useast5.us.tiktok.com
+0.0.0.0 vm.tiktok.com
+0.0.0.0 vmweb.us.tiktok.com
+0.0.0.0 vt.tiktok.com
+0.0.0.0 webcast.tiktok.com
+0.0.0.0 webcast.us.tiktok.com
+0.0.0.0 web-va.tiktok.com
+0.0.0.0 www.tiktok.com
