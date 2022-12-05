@@ -464,6 +464,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 freshmarketer.com
 0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 hb.beop.io
+0.0.0.0 hb.vntsm.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbopenbid22000nf.pubmatic.com
 0.0.0.0 iab-imp-gateway.supersonicads.com
@@ -764,6 +765,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dig.ultimedia.com
 0.0.0.0 dmxleo.com
 0.0.0.0 echo.intergient.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 ejp.rlcdn.com
 0.0.0.0 eu-west-1.event.prod.bidr.io
 0.0.0.0 event.clientgear.com

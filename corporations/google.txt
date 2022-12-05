@@ -374,6 +374,7 @@
 0.0.0.0 workspace.google.com
 0.0.0.0 wq-in-f188.1e100.net
 0.0.0.0 www.blog.google
+0.0.0.0 www.embedgooglemap.net
 0.0.0.0 www.gmail.com
 0.0.0.0 www.google.com
 0.0.0.0 www.google-analytics.com
