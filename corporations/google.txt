@@ -1,8 +1,8 @@
 ! Title: Cyanic's Hosts list - Google
 ! Expires: 1 month
 ! Description: A list of Google, Android and YouTube domains.
-! Homepage: https://hosts.cyanic.tk
-! Source: https://hosts.cyanic.tk/corporations/google.txt
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/corporations/google.txt
 
 # Some of these hosts (including metrics) are in the main cyanicHosts.txt file.
 
@@ -237,12 +237,10 @@
 0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 googleoptimize.com
 0.0.0.0 googlesyndication.com
-0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 googleusercontent.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 gstaticadssl.l.google.com
-0.0.0.0 gstatic.com
 0.0.0.0 gz0.googleusercontent.com
 0.0.0.0 id.google.com
 0.0.0.0 imap.gmail.com
@@ -374,6 +372,7 @@
 0.0.0.0 workspace.google.com
 0.0.0.0 wq-in-f188.1e100.net
 0.0.0.0 www.blog.google
+0.0.0.0 www-driveviewer-opensocial.googleusercontent.com
 0.0.0.0 www.embedgooglemap.net
 0.0.0.0 www.gmail.com
 0.0.0.0 www.google.com
@@ -386,6 +385,7 @@
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.gstatic.com
 0.0.0.0 www.thinkwithgoogle.com
+0.0.0.0 www.youtubeeducation.com
 0.0.0.0 www1.l.google.com
 0.0.0.0 www2.l.google.com
 0.0.0.0 www3.l.google.com

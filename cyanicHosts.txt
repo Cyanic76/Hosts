@@ -1,11 +1,11 @@
 ! Title: Cyanic's Hosts list
 ! Expires: 1 week
 ! Description: A list of advertising, analytics and tracking hosts.
-! Homepage: https://hosts.cyanic.tk
-! Source: https://hosts.cyanic.tk/cyanicHosts.txt
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/cyanicHosts.txt
 
 # Website not working? Open an issue at https://codeberg.org/Cyanic76/
-# Available at https://hosts.cyanic.tk/cyanicHosts.txt for short.
+# Available at https://hosts.cyanic.me/cyanicHosts.txt for short.
 # Entirely block a corporation by adding a file from the corporations/ folder.
 
 # ================================== OTHER
@@ -587,7 +587,6 @@ ff02::3 ip6-allhosts
 # Blocking those hosts do not break websites, usually.
 #0.0.0.0 *.akstat.io
 #0.0.0.0 *.datadome.co
-#0.0.0.0 *.trafficmanager.net
 0.0.0.0 a.mouseflow.com
 0.0.0.0 adlooxtracking.com
 0.0.0.0 android-safebrowsing.google.com # Tell me if this breaks everything
@@ -842,6 +841,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 path3.xtracloud.net
 0.0.0.0 pbs.hubvisor.io
 0.0.0.0 pebed.dm-event.net
+0.0.0.0 perfalytics.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping.seedtag.com
 0.0.0.0 pixel.mc-complex.com

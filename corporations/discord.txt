@@ -1,8 +1,8 @@
 ! Title: Cyanic Hosts: Discord
 ! Expires: 1 month
 ! Description: Some Discord domains.
-! Homepage: https://hosts.cyanic.tk
-! Source: https://hosts.cyanic.tk/corporations/discord.txt
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/corporations/discord.txt
 
 0.0.0.0 blog.discord.com
 0.0.0.0 cdn.discordapp.com

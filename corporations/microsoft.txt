@@ -1,8 +1,8 @@
 ! Title: Cyanic Hosts: Microsoft
 ! Expires: 1 month
 ! Description: Incomplete list of Microsoft domains.
-! Homepage: https://hosts.cyanic.tk
-! Source: https://hosts.cyanic.tk/corporations/microsoft.txt
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/corporations/microsoft.txt
 
 # More at https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
 # office.txt is a separate file that contains some Microsoft Office endpoints.
@@ -35,16 +35,12 @@
 0.0.0.0 10.au.download.windowsupdate.com
 0.0.0.0 11.tlu.dl.delivery.microsoft.com
 0.0.0.0 11.au.download.windowsupdate.com
-0.0.0.0 a122.dscg3.akamai.net
-0.0.0.0 a767.dscg3.akamai.net
-0.0.0.0 a1158.g.akamai.net
 0.0.0.0 a-ring.msedge.net
 0.0.0.0 a-ring-fallback.msedge.net
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.rad.msn.com
-0.0.0.0 a1158.g.akamai.net
 0.0.0.0 aad.cs.dds.microsoft.com
 0.0.0.0 about.ads.microsoft.com
 0.0.0.0 ac3.msn.com
@@ -74,6 +70,7 @@
 0.0.0.0 api.msn.com
 0.0.0.0 api-msn-com.a-0003.a-msedge.net
 0.0.0.0 api.passwordreset.microsoftonline.com
+0.0.0.0 app.vssps.visualstudio.com
 0.0.0.0 app.whiteboard.microsoft.com
 0.0.0.0 appsource.microsoft.com
 0.0.0.0 arc.msn.com
@@ -112,6 +109,7 @@
 0.0.0.0 bubblewitch3mobile.king.com
 0.0.0.0 business.bing.com
 0.0.0.0 c-ring.msedge.net
+0.0.0.0 c.s-microsoft.com
 0.0.0.0 c.bing.com
 0.0.0.0 c.msn.com
 0.0.0.0 c.msn.com.nsatc.net
@@ -177,18 +175,6 @@
 0.0.0.0 download.windowsupdate.com
 0.0.0.0 dual-s-ring.msedge.net
 0.0.0.0 e-0009.e-msedge.net
-0.0.0.0 e584.g.akamaiedge.net
-0.0.0.0 e9398.g.akamaiedge.net
-0.0.0.0 e1723.g.akamaiedge.net
-0.0.0.0 e2785.x.akamaiedge.net
-0.0.0.0 e7204.dscg.akamaiedge.net
-0.0.0.0 e10198.b.akamaiedge.net
-0.0.0.0 e10370.d.akamaiedge.net
-0.0.0.0 e12358.d.akamaiedge.net
-0.0.0.0 e15318.dsca.akamaiedge.net
-0.0.0.0 e19254.dscg.akamaiedge.net
-0.0.0.0 e28578.d.akamaiedge.net
-0.0.0.0 e86303.dscx.akamaiedge.net
 0.0.0.0 ecn.dev.virtualearth.net
 0.0.0.0 edge.activity.windows.com
 0.0.0.0 edge.microsoft.com
@@ -242,9 +228,11 @@
 0.0.0.0 ipv4.login.msa.akadns6.net
 0.0.0.0 ipv6.msftconnecttest.com
 0.0.0.0 iriscoremetadataprod.blob.core.windows.net
+0.0.0.0 js.monitor.azure.com
 0.0.0.0 k-ring.msedge.net
 0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 kv801.prod.do.dsp.mp.microsoft.com
+0.0.0.0 l-0009.l-msedge.net
 0.0.0.0 l-ring.msedge.net
 0.0.0.0 learn.microsoft.com
 0.0.0.0 lfghub-anonymous.xboxlive.com
@@ -270,6 +258,7 @@
 0.0.0.0 maps.windows.com
 0.0.0.0 marketplace.visualstudio.com
 0.0.0.0 mediaredirect.microsoft.com
+0.0.0.0 mem.gfx.ms
 0.0.0.0 microsoftusercontent.com
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
@@ -304,6 +293,7 @@
 0.0.0.0 oneocsp.microsoft.com
 0.0.0.0 open-vsx.org
 0.0.0.0 openvsxorg.blob.core.windows.net
+0.0.0.0 part-0014.t-0009.fdv2-t-msedge.net
 0.0.0.0 part-0033.t-0009.fdv2-t-msedge.net
 0.0.0.0 partner.microsoft.com
 0.0.0.0 passwordreset.microsoftonline.com
@@ -358,6 +348,7 @@
 0.0.0.0	sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 srtb.msn.com
 0.0.0.0 ssl.bing.com
+0.0.0.0 statics-marketingsites-wcus-ms-com.akamaized.net
 0.0.0.0 store-images.s-microsoft.com
 0.0.0.0 storesdk.dsx.mp.microsoft.com
 0.0.0.0 storecatelogrevocation.storequality.microsoft.com
@@ -407,6 +398,7 @@
 0.0.0.0 watson.ppe.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
+0.0.0.0 wcpstatic.microsoft.com
 0.0.0.0 wd-prod-cp-us-west-1-fe.westus.cloudapp.azure.com
 0.0.0.0 wd-prod-ss-eu-north-1-fe.northeurope.cloudapp.azure.com
 0.0.0.0 wd-prod-ss-eu-north-2-fe.northeurope.cloudapp.azure.com
@@ -438,6 +430,26 @@
 0.0.0.0 www2.bing.com
 0.0.0.0 wwwbay3vip.microsoft.com
 0.0.0.0 xsts.auth.xboxlive.com
+
+# Akamai
+0.0.0.0 a122.dscg3.akamai.net
+0.0.0.0 a767.dscg3.akamai.net
+0.0.0.0 a1158.g.akamai.net
+0.0.0.0 a1158.g.akamai.net
+0.0.0.0 a1449.dscg2.akamai.net
+0.0.0.0 e584.g.akamaiedge.net
+0.0.0.0 e9398.g.akamaiedge.net
+0.0.0.0 e1723.g.akamaiedge.net
+0.0.0.0 e2785.x.akamaiedge.net
+0.0.0.0 e7204.dscg.akamaiedge.net
+0.0.0.0 e10198.b.akamaiedge.net
+0.0.0.0 e10370.d.akamaiedge.net
+0.0.0.0 e12358.d.akamaiedge.net
+0.0.0.0 e13678.dscg.akamaiedge.net
+0.0.0.0 e15318.dsca.akamaiedge.net
+0.0.0.0 e19254.dscg.akamaiedge.net
+0.0.0.0 e28578.d.akamaiedge.net
+0.0.0.0 e86303.dscx.akamaiedge.net
 
 # Skype
 0.0.0.0 a.config.skype.com

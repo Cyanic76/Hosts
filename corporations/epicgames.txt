@@ -1,8 +1,8 @@
 ! Title: Cyanic's Hosts list - Epic Games
 ! Expires: 1 month
 ! Description: A list of Epic Games domains.
-! Homepage: https://hosts.cyanic.tk
-! Source: https://hosts.cyanic.tk/corporations/epicgames.txt
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/corporations/epicgames.txt
 
 0.0.0.0 account-public-service-prod.ak.epicgames.com
 0.0.0.0 account-public-service-prod01.ol.epicgames.com

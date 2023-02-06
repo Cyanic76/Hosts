@@ -1,8 +1,8 @@
 ! Title: Cyanic Hosts: TikTok
 ! Expires: 1 month
 ! Description: Incomplete list of TikTok domains.
-! Homepage: https://hosts.cyanic.tk
-! Source: https://hosts.cyanic.tk/corporations/tiktok.txt
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/corporations/tiktok.txt
 
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.us.tiktok.com
