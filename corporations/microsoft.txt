@@ -119,6 +119,7 @@
 0.0.0.0 catalog.gamepass.com
 0.0.0.0 cds.p9u4n2q3.hwcdn.net
 0.0.0.0 ccs.login.microsoftonline.com
+0.0.0.0 cdn-dynmedia-1.microsoft.com
 0.0.0.0 cdn.onenote.net
 0.0.0.0 cdnprod.myanalytics.microsoft.com
 0.0.0.0 cf.bing.com
@@ -157,6 +158,7 @@
 0.0.0.0 definitionupdates.microsoft.com
 0.0.0.0 delivery.mp.microsoft.com
 0.0.0.0 dev.virtualearth.net
+0.0.0.0 devblogs.microsoft.com
 0.0.0.0 developer.microsoft.com
 0.0.0.0 device.auth.xboxlive.com
 0.0.0.0 device.login.microsoftonline.com
@@ -294,6 +296,7 @@
 0.0.0.0 open-vsx.org
 0.0.0.0 openvsxorg.blob.core.windows.net
 0.0.0.0 part-0014.t-0009.fdv2-t-msedge.net
+0.0.0.0 part-0014.t-0009.t-s1-msedge.net
 0.0.0.0 part-0033.t-0009.fdv2-t-msedge.net
 0.0.0.0 partner.microsoft.com
 0.0.0.0 passwordreset.microsoftonline.com
@@ -350,11 +353,13 @@
 0.0.0.0 ssl.bing.com
 0.0.0.0 statics-marketingsites-wcus-ms-com.akamaized.net
 0.0.0.0 store-images.s-microsoft.com
-0.0.0.0 storesdk.dsx.mp.microsoft.com
 0.0.0.0 storecatelogrevocation.storequality.microsoft.com
+0.0.0.0 storeedgefd.dsx.mp.microsoft.com
+0.0.0.0 storesdk.dsx.mp.microsoft.com
 0.0.0.0 support.serviceshub.microsoft.com
 0.0.0.0 t-ring-fdv2.msedge.net
 0.0.0.0 t-ring.msedge.net
+0.0.0.0 targetednotifications-tm.trafficmanager.net
 0.0.0.0 teams-ring.msedge.net
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
@@ -434,9 +439,11 @@
 # Akamai
 0.0.0.0 a122.dscg3.akamai.net
 0.0.0.0 a767.dscg3.akamai.net
-0.0.0.0 a1158.g.akamai.net
+0.0.0.0 a1051.g2.akamai.net
 0.0.0.0 a1158.g.akamai.net
 0.0.0.0 a1449.dscg2.akamai.net
+0.0.0.0 a1835.g2.akamai.net
+0.0.0.0 a1963.g2.akamai.net
 0.0.0.0 e584.g.akamaiedge.net
 0.0.0.0 e9398.g.akamaiedge.net
 0.0.0.0 e1723.g.akamaiedge.net
@@ -449,6 +456,7 @@
 0.0.0.0 e15318.dsca.akamaiedge.net
 0.0.0.0 e19254.dscg.akamaiedge.net
 0.0.0.0 e28578.d.akamaiedge.net
+0.0.0.0 e81481.dsca.akamaiedge.net
 0.0.0.0 e86303.dscx.akamaiedge.net
 
 # Skype
