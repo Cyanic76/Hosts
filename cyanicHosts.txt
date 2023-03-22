@@ -178,7 +178,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 checkappexec.microsoft.com
 0.0.0.0 co4.telecommand.telemetry.microsoft.com.akadns.net
+0.0.0.0 eu-office.events.data.microsoft.com
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
+0.0.0.0 livetileedge.dsx.mp.microsoft.com
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
@@ -188,7 +190,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 srtb.msn.com
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 umwatson.events.data.microsoft.com
+0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v20.events.data.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
 
 # ================================== MOPUB
 0.0.0.0 a.r10.mopub.com
@@ -725,6 +730,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api-hotjar.com
 0.0.0.0 api-sdk.datadome.co
+0.0.0.0 app.adjust.com
 0.0.0.0 app-measurement.com
 0.0.0.0 astatic.ccmbg.com
 0.0.0.0 auth.estat.com

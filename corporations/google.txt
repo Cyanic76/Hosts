@@ -384,6 +384,7 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.gstatic.com
+0.0.0.0 www.support.google
 0.0.0.0 www.thinkwithgoogle.com
 0.0.0.0 www.youtubeeducation.com
 0.0.0.0 www1.l.google.com
