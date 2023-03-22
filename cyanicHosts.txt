@@ -218,11 +218,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 content-signature-2.cdn.mozilla.net
 0.0.0.0 crash-stats.mozilla.com
 0.0.0.0 crash-stats.mozilla.org
-0.0.0.0 download.mozilla.org
-0.0.0.0 download.cdn.mozilla.net
 0.0.0.0 firefoxflicks.com
-0.0.0.0 getpocket.cdn.mozilla.net
-0.0.0.0 getpocket.com
 0.0.0.0 hello.firefox.com
 0.0.0.0 img-getpocket.cdn.mozilla.net
 0.0.0.0 incoming.telemetry.mozilla.com
