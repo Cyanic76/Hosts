@@ -1,8 +1,10 @@
 # READ COMMENTED LINES
 
 # Not coming soon
-corporations/amp.txt
+corporations/Google/amp.txt
+corporations/Social/whatsapp.txt
 corporations/garmin.txt
+corporations/iadvize.txt
 
 # May be released soon
 corporations/canon.txt

@@ -1,8 +1,8 @@
-! Title: Cyanic's Hosts list - Leboncoin
+! Title: Leboncoin - Cyanic Hosts
 ! Expires: 1 month
-! Description: A requested list of Leboncoin domains.
+! Description: A list of Leboncoin domains.
 ! Homepage: https://hosts.cyanic.me
-! Source: https://hosts.cyanic.me/corporations/leboncoin.txt
+! Source: https://hosts.cyanic.me/corporations/Shopping/leboncoin.txt
 
 # Leboncoin is a french website. This is a requested list.
 

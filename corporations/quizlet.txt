@@ -1,8 +1,8 @@
-! Title: Cyanic's Hosts list - Quizlet
+! Title: Quizlet - Cyanic Hosts
 ! Expires: 1 month
-! Description: A requested list of Quizlet domains.
+! Description: A list of Quizlet domains.
 ! Homepage: https://hosts.cyanic.me
-! Source: https://hosts.cyanic.me/corporations/quizlet.txt
+! Source: https://hosts.cyanic.me/corporations/hicloud.txt
 
 0.0.0.0 assets.quizlet.com
 0.0.0.0 el.quizlet.com

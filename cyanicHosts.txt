@@ -407,6 +407,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 casinoimages.blob.core.windows.net
 0.0.0.0 casinoonline.casino
 0.0.0.0 cbs.taboola.com
+0.0.0.0 cdn.adgtw.orangeads.fr
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
@@ -428,6 +429,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 click.linksynergy.com
 0.0.0.0 codepush.appcenter.ms
 0.0.0.0 connect.tapjoy.com
+0.0.0.0 content.jwplatform.com
 0.0.0.0 contents.adpaths.com
 0.0.0.0 contextual.media.net
 0.0.0.0 cookiesync.api.bliink.io
@@ -436,6 +438,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cs.admanmedia.com
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 cs.media.net
+0.0.0.0 cs-rtb.minutemedia-prebid.com
 0.0.0.0 d5p.de17a.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 de1-bid.adsrvr.org

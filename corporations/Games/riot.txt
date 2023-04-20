@@ -1,8 +1,8 @@
-! Title: Cyanic's Hosts list - Riot
+! Title: Riot - Cyanic Hosts
 ! Expires: 1 month
 ! Description: A list of Riot domains.
 ! Homepage: https://hosts.cyanic.me
-! Source: https://hosts.cyanic.me/corporations/riot.txt
+! Source: https://hosts.cyanic.me/corporations/Games/riot.txt
 
 # I don't know about other regional domains
 

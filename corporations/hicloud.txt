@@ -1,4 +1,4 @@
-! Title: Cyanic's Hosts list - HiCloud
+! Title: HiCloud - Cyanic Hosts
 ! Expires: 1 month
 ! Description: A list of HiCloud domains.
 ! Homepage: https://hosts.cyanic.me

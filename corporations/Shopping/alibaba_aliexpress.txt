@@ -1,8 +1,8 @@
-! Title: Cyanic Hosts: Alibaba & Aliexpress
+! Title: Alibaba/Aliexpress - Cyanic Hosts
 ! Expires: 1 month
-! Description: Alibaba/AliExpress hosts
+! Description: A list of Alibaba/Aliexpress domains.
 ! Homepage: https://hosts.cyanic.me
-! Source: https://hosts.cyanic.me/corporations/alibaba_aliexpress.txt
+! Source: https://hosts.cyanic.me/corporations/Shopping/alibaba_aliexpress.txt
 
 0.0.0.0 alibaba.com
 0.0.0.0 acs.aliexpress.com

@@ -1,8 +1,8 @@
-! Title: Cyanic Hosts: Discord
+! Title: Discord - Cyanic Hosts
 ! Expires: 1 month
-! Description: Some Discord domains.
+! Description: A short list of Amazon domains.
 ! Homepage: https://hosts.cyanic.me
-! Source: https://hosts.cyanic.me/corporations/discord.txt
+! Source: https://hosts.cyanic.me/corporations/Social/discord.txt
 
 0.0.0.0 blog.discord.com
 0.0.0.0 cdn.discordapp.com

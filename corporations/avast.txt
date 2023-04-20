@@ -1,4 +1,4 @@
-! Title: Cyanic's Hosts list - Avast
+! Title: Avast - Cyanic Hosts
 ! Expires: 1 month
 ! Description: A list of Avast domains.
 ! Homepage: https://hosts.cyanic.me

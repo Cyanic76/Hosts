@@ -1,8 +1,8 @@
-! Title: Cyanic Hosts: Microsoft Office
+! Title: 365 - Cyanic Hosts
 ! Expires: 1 month
-! Description: A Microsoft Office domains.
+! Description: A list of Microsoft 365 domains.
 ! Homepage: https://hosts.cyanic.me
-! Source: https://hosts.cyanic.me/corporations/office.txt
+! Source: https://hosts.cyanic.me/corporations/Microsoft/365.txt
 
 # More at https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
 # office.txt is a separate file that contains some Microsoft Office endpoints.

@@ -1,6 +1,6 @@
-! Title: Cyanic's Hosts list - McAfee
+! Title: McAfee - Cyanic Hosts
 ! Expires: 1 month
-! Description: An incomplete list of McAfee domains.
+! Description: A list of McAfee domains.
 ! Homepage: https://hosts.cyanic.me
 ! Source: https://hosts.cyanic.me/corporations/mcafee.txt
 

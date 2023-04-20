@@ -1,8 +1,8 @@
-! Title: Cyanic's Hosts list - Google
+! Title: Google - Cyanic Hosts
 ! Expires: 1 month
-! Description: A list of Google, Android and YouTube domains.
+! Description: A list of Google domains.
 ! Homepage: https://hosts.cyanic.me
-! Source: https://hosts.cyanic.me/corporations/google.txt
+! Source: https://hosts.cyanic.me/corporations/Google/google.txt
 
 # Some of these hosts (including metrics) are in the main cyanicHosts.txt file.
 
