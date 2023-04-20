@@ -6,6 +6,12 @@
 
 0.0.0.0 reddit.com
 
+0.0.0.0 redd.it
+0.0.0.0 external-preview.redd.it
+0.0.0.0 i.redd.it
+0.0.0.0 preview.redd.it
+0.0.0.0 v.redd.it
+
 0.0.0.0 accounts.reddit.com
 0.0.0.0 alb.reddit.com
 0.0.0.0 amp.reddit.com
@@ -28,3 +34,8 @@
 0.0.0.0 b.thumbs.redditmedia.com
 
 0.0.0.0 www.redditstatic.com
+
+0.0.0.0 reddit.onelink.me
+
+0.0.0.0 reddit.map.fastly.net
+0.0.0.0 dualstack.reddit.map.fastly.net

@@ -6,8 +6,17 @@
 
 # Some of these hosts (including metrics) are in the main cyanicHosts.txt file.
 
-# This will block most Google services, including Android and YouTube.
-# Careful! This will block most Android services, such as connectivitycheck.*.
+# This will break:
+#   - Android Clock Sync (NTP)
+#   - Android Connectivity Check
+#   - Android features
+#   - Bad websites (websites using AMP)
+#   - Crashlytics & Other Analytics
+#   - Google Apps
+#   - Google Maps
+#   - Google Fi
+#   - StreetView
+#   - YouTube
 
 # Apps
 0.0.0.0 about.google

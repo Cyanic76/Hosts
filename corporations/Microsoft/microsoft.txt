@@ -4,8 +4,8 @@
 ! Homepage: https://hosts.cyanic.me
 ! Source: https://hosts.cyanic.me/corporations/Microsoft/microsoft.txt
 
-# More at https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
-# office.txt is a separate file that contains some Microsoft Office endpoints.
+# This list isn't maintained anymore.
+# See the README.
 
 # You might as well block the following:
 # 0.0.0.0 array*.prod.do.dsp.mp.microsoft.com
@@ -329,7 +329,6 @@
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 segments-s.msedge.net
 0.0.0.0	services.wes.df.telemetry.microsoft.com
-0.0.0.0	settings.crashlytics.com
 0.0.0.0 settings.data.glbdns2.microsoft.com
 0.0.0.0 settings.data.microsoft.com
 0.0.0.0	settings-sandbox.data.microsoft.com

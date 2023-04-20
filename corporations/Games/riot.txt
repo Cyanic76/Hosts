@@ -4,8 +4,6 @@
 ! Homepage: https://hosts.cyanic.me
 ! Source: https://hosts.cyanic.me/corporations/Games/riot.txt
 
-# I don't know about other regional domains
-
 0.0.0.0 auth.riotgames.com
 0.0.0.0 auth.riotgames.com.cdn.cloudflare.net
 0.0.0.0 authenticate.riotgames.com
