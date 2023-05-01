@@ -1,0 +1,39 @@
+pipeline:
+  build:
+    image: alpine/git
+    environment:
+      # Information that will be used when authoring a commit
+      - GIT_AUTHOR_NAME=Layers
+      - GIT_AUTHOR_EMAIL=layers@noreply.codeberg.org
+      - GIT_COMMIT_MESSAGE=Merging hosts files together
+      # Basic repo information
+      - GITEA_HOST=codeberg.org
+      - GITEA_REPOSITORY=Cyanic76/Hosts
+      - GITEA_BRANCH=pages
+    secrets: [ gitea_token ]
+    commands:
+      # Setup git and checkout pages
+      - git clone https://codeberg.org/Cyanic76/Hosts
+      - git config --global user.name "$${GIT_AUTHOR_NAME}"
+      - git config --global user.email "$${GIT_AUTHOR_EMAIL}"
+      - git checkout "$${GITEA_BRANCH}"
+      # Merge everything together
+      # TODO: Redo this.
+      - cd Hosts
+      - cat cyanicHosts.txt | grep -E '^0.0.0.0.*$' >> allhosts.txt
+      - cat corporations/* | grep -E '^0.0.0.0.*$' >> allhosts.txt
+      - cat corporations/Games/* | grep -E '^0.0.0.0.*$' >> allhosts.txt
+      - cat corporations/Google/* | grep -E '^0.0.0.0.*$' >> allhosts.txt
+      - cat corporations/Microsoft/* | grep -E '^0.0.0.0.*$' >> allhosts.txt
+      - cat corporations/Shopping/* | grep -E '^0.0.0.0.*$' >> allhosts.txt
+      - cat corporations/Social/* | grep -E '^0.0.0.0.*$' >> allhosts.txt
+      # Commit the file
+      - git add allhosts.txt
+      - git commit -m "$${GIT_COMMIT_MESSAGE} [ci skip]"
+      - git remote set-url origin "https://Cyanic76:$${GITEA_TOKEN}@$${GITEA_HOST}/$${GITEA_REPOSITORY}.git"
+      - git push origin "$${GITEA_BRANCH}"
+    when:
+      branch: pages
+      path:
+        include: [ '.woodpecker/*.yml', 'cyanicHosts.txt', 'corporations/*.txt', 'corporations/*/*.txt' ]
+        exclude: [ 'README.md', 'LICENSE*', '*.md', 'index.html' ]
