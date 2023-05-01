@@ -4,7 +4,7 @@
 ! Homepage: https://hosts.cyanic.me
 ! Source: https://hosts.cyanic.me/cyanicHosts.txt
 
-# Website not working? Open an issue at https://codeberg.org/Cyanic76/
+# Website not working? Open an issue at https://codeberg.org/Cyanic76/Hosts
 # Available at https://hosts.cyanic.me/cyanicHosts.txt for short.
 # Entirely block a corporation by adding a file from the corporations/ folder.
 
