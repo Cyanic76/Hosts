@@ -10,6 +10,8 @@ Add `https://hosts.cyanic.me/cyanicHosts.txt` to your adblock (like Pi-Hole or A
 
 The goal is to [block standard ad and tracker domains](https://hosts.cyanic.me/cyanicHosts.txt) and [if you want to block corporations](https://codeberg.org/Cyanic76/Hosts/issues/1), you choose what you want/need to block.
 
+See [Block everything](https://codeberg.org/Cyanic76/Hosts/wiki/All-in-one).
+
 ## Links
 - [Contributing](https://codeberg.org/Cyanic76/Hosts/wiki/Contributing)
 
