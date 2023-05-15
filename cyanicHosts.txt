@@ -8,6 +8,8 @@
 # Available at https://hosts.cyanic.me/cyanicHosts.txt for short.
 # Entirely block a corporation by adding a file from the corporations/ folder.
 
+# More domains at the bottom of this list!
+
 # ================================== OTHER
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -135,6 +137,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 mail-ads.google.com
 0.0.0.0 media.fastclick.net
 0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 meshtelemetry.googleapis.com
+0.0.0.0 monitoring.googleapis.com
 0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
@@ -144,8 +148,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 pf-in-f188.1e100.net
 0.0.0.0 pixel.admobclick.com
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 pubsub.googleapis.com
 0.0.0.0 sa-in-f188.1e100.net
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 serviceusage.googleapis.com
 0.0.0.0 signaler-pa.clients6.google.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 securepubads.g.doubleclick.net
@@ -1063,3 +1069,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 share.yandex.ru
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 yandexadexchange.net
+
+# ================================== OTHER
+0.0.0.0 7.zxczj.top
+0.0.0.0 adc.flyermobi.com
+0.0.0.0 cbphe.com
+0.0.0.0 cbpheback.com
+0.0.0.0 givmehdc.com
+0.0.0.0 ipinfo.com
+0.0.0.0 mirror.us.leaseweb.net
+0.0.0.0 pthikitpet.com
+0.0.0.0 sdk-event-sg.ap-southeast-1.log.aliyuncs.com
+0.0.0.0 sdk.navnow.xyz
+0.0.0.0 sisgraphnet.com
+0.0.0.0 www.dgddh.xyz
+0.0.0.0 ycxrl.com
+0.0.0.0 ycxrldow.com
