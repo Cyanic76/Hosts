@@ -27,5 +27,7 @@
 0.0.0.0 na3r.services.adobe.com
 0.0.0.0 na4r.services.adobe.com
 0.0.0.0 practivate.adobe.com
+0.0.0.0 use.typekit.com
+0.0.0.0 use.typekit.net
 0.0.0.0 wip3.adobe.com
 0.0.0.0 wwis-dubc1-vip60.adobe.com
