@@ -135,6 +135,7 @@
 0.0.0.0 android-context-data.googleapis.com
 0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 answers.google.com
+0.0.0.0 anthos.googleapis.com
 0.0.0.0 apis.google.com
 0.0.0.0 appsgrowthpromo-pa.clients1.google.com
 0.0.0.0 appsgrowthpromo-pa.clients2.google.com
@@ -178,9 +179,13 @@
 0.0.0.0 clients6.google.com
 0.0.0.0 clientservices.googleapis.com
 0.0.0.0 clients.l.google.com
+0.0.0.0 cloudresourcemanager.googleapis.com
+0.0.0.0 cloudtrace.googleapis.com
 0.0.0.0 code.google.com
+0.0.0.0 compute.googleapis.com
 0.0.0.0 connectivitycheck.google.com
 0.0.0.0 connectivitycheck.gstatic.com
+0.0.0.0 container.googleapis.com
 0.0.0.0 content.googleapis.com
 0.0.0.0 consent.google.com # Will break most Google web services
 #0.0.0.0 consent.google.*
@@ -236,10 +241,13 @@
 0.0.0.0 fonts.googleapis.com
 0.0.0.0 fonts.gstatic.com
 0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 forms.gle
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 g.co
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 geomobileservices-pa.googleapis.com
+0.0.0.0 gkeconnect.googleapis.com
+0.0.0.0 gkehub.googleapis.com
 0.0.0.0 gnpfesdk-pa.googleapis.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleblog.com
@@ -251,6 +259,7 @@
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gz0.googleusercontent.com
+0.0.0.0 iamcredentials.googleapis.com
 0.0.0.0 id.google.com
 0.0.0.0 imap.gmail.com
 0.0.0.0 imasdk.googleapis.com
@@ -268,15 +277,20 @@
 0.0.0.0 lh4.googleusercontent.com
 0.0.0.0 lh5.googleusercontent.com
 0.0.0.0 lh6.googleusercontent.com
+0.0.0.0 logging.googleapis.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 mail-attachment.googleusercontent.com
 0.0.0.0 maps.googleapis.com
 0.0.0.0 maps.gstatic.com
 0.0.0.0 marketingplatform.google.com
 0.0.0.0 meetings.googleapis.com
+0.0.0.0 meshca.googleapis.com
+0.0.0.0 meshconfig.googleapis.com
+0.0.0.0 meshtelemetry.googleapis.com
 0.0.0.0 mobilemaps.googleapis.com
 0.0.0.0 mobilemaps-pa-gz.googleapis.com
 0.0.0.0 mobile-gtalk.l.google.com
+0.0.0.0 monitoring.googleapis.com
 0.0.0.0 mtalk.google.com
 0.0.0.0 newsstand.googleusercontent.com
 0.0.0.0 notifications-pa.googleapis.com
@@ -322,6 +336,7 @@
 0.0.0.0 policies.google.com # Will prevent access to privacy policy, terms of use, etc
 0.0.0.0 pop.gmail.com
 0.0.0.0 productforums.google.com
+0.0.0.0 pubsub.googleapis.com
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 redirector.gvt1.com
 0.0.0.0 sa-in-f188.1e100.net
@@ -338,6 +353,7 @@
 0.0.0.0 search.google.com
 0.0.0.0 securetoken.googleapis.com
 0.0.0.0 security.googleblog.com
+0.0.0.0 serviceusage.googleapis.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 signaler-pa.clients1.google.com
 0.0.0.0 signaler-pa.clients2.google.com
@@ -348,6 +364,7 @@
 0.0.0.0 smtp.gmail.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.gstatic.com
+0.0.0.0 stackdriver.googleapis.com
 0.0.0.0 storage.googleapis.com
 0.0.0.0 streetviewpixels-ga.googleapis.com
 0.0.0.0 stun.l.google.com
@@ -383,6 +400,7 @@
 0.0.0.0 www.blog.google
 0.0.0.0 www-driveviewer-opensocial.googleusercontent.com
 0.0.0.0 www.embedgooglemap.net
+0.0.0.0 www.forms.gle
 0.0.0.0 www.gmail.com
 0.0.0.0 www.google.com
 0.0.0.0 www.google-analytics.com
