@@ -1,28 +1,98 @@
 <html>
-	<head>
-		<title>Hosts | Cyanic</title>
-		<meta name='viewport' content="width=device-width, initial-scale=1.0">
-		<meta name='og:site_name' content="Cyanic">
-		<meta name='og:title' content="Hosts">
-	</head>
-	<body style="background-color: #eee;">
-	
-		<header style="z-index: 999; position: fixed; top: 0; left: 0; width: 100%; max-width: 100%; background-color: white;">
-			<div style="padding: 10px;">Cyanic</div>
-		</header>
-		
-		<div style="padding-left: 20vw; padding-right: 20vw; padding-top: 200px; padding-bottom: 80px;">
-			<span style="font-size: 30px;">Hosts</span>
-			<p style="font-size: 18px;">
-				More hosts lists for your ad blocker. You choose what to block.
+  <head>
+    <title>Cyanic's Hosts lists</title>
+
+    <meta name="og:site_name" content="Cyanic">
+    <meta name="og:title" content="Hosts">
+    <meta name="og:description" content="You choose what/who to block.">
+
+    <link rel="stylesheet" href="assets/style.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+
+    <div id="title--xl" class="green">
+      <div class="content">
+        <h1>Cyanic's Hosts list</h1>
+        You choose what/who to block.
 				<br><br>
-				<a href="https://codeberg.org/Cyanic76/Hosts" style="color: white; background-color: #080; padding: 5px; text-decoration: none; border-radius: 10px;">
-					View at Codeberg
+				<a href="https://codeberg.org/Cyanic76/Hosts">
+					<img src="assets/source.svg">
 				</a>
+      </div>
+    </div>
+
+    <div id="app">
+      <div class="content">
+        
+				<!-- 1. Block everything at once -->
+
+				<span class="card--title">Everything at once</span>
+
 				<br><br>
-				You can use URLs such as <a href="/cyanicHosts.txt">https://hosts.cyanic.me/cyanicHosts.txt</a> in your adblock.
-			</p>
-		</div>
-	
-	</body>
+
+        <a href="allhosts.txt" class="card--link">
+          <div class="card">
+            <div class="card--content">
+              <span class="card--title">Block everything</span>
+            </div>
+          </div>
+        </a>
+
+        <br>
+
+				<span class="card--title">Default list</span>
+
+				<br><br>
+
+        <a href="cyanicHosts.txt" class="card--link">
+          <div class="card">
+            <div class="card--content">
+              <span class="card--title">Add the main list to your ad blocker</span>
+            </div>
+          </div>
+        </a>
+
+        <br>
+
+				<span class="card--title">Other lists</span>
+
+				<br>
+
+        <ul id="other">
+					<li><a href="corporations/adobe.txt">Adobe</a></li>
+					<li><a href="corporations/Shopping/alibaba_aliexpress.txt">Alibaba/Aliexpress</a></li>
+					<li><a href="corporations/Shopping/amazon.txt">Amazon</a></li>
+					<li><a href="corporations/avast.txt">Avast</a></li>
+					<li><a href="corporations/Social/discord.txt">Discord</a></li>
+					<li><a href="corporations/disqus.txt">Disqus</a></li>
+					<li><a href="corporations/Shopping/ebay.txt">EBay</a></li>
+					<li><a href="corporations/Games/epicgames.txt">Epic Games</a></li>
+					<li><a href="corporations/Social/facebook.txt">Facebook/Meta</a></li>
+					<li><a href="corporations/Google/google.txt">Google</a></li>
+					<li><a href="corporations/hicloud.txt">Huawei/HiCloud</a></li>
+					<li><a href="corporations/hp.txt">HP</a></li>
+					<li><a href="corporations/iadvize.txt">iAdvize</a></li>
+					<li><a href="corporations/Shopping/leboncoin.txt">Leboncoin</a></li>
+					<li><a href="corporations/mcafee.txt">McAfee</a></li>
+					<li><a href="corporations/Microsoft/ms.txt">Microsoft</a></li>
+					<li><a href="corporations/Microsoft/office.txt">Microsoft Office</a></li>
+					<li><a href="corporations/quizlet.txt">Quizlet</a></li>
+					<li><a href="corporations/Social/reddit.txt">Reddit</a></li>
+					<li><a href="corporations/Games/riot.txt">Riot Games</a></li>
+					<li><a href="corporations/Social/tiktok.txt">TikTok</a></li>
+					<li><a href="corporations/Social/twitter.txt">Twitter</a></li>
+				</ul>
+
+				<br><br>
+
+				<center>
+					The lists above may not be complete.
+					If we're missing some hosts, you may contribute to the project.
+				</center>
+
+      </div>
+    </div>
+  </body>
 </html>

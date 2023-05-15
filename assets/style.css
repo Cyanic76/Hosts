@@ -1,0 +1,40 @@
+/* Default rules */
+body {
+  margin: 0;
+  background-color: #eee;
+  font-family: sans-serif;
+}
+
+/* Title rules */
+#title--xl {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+/* Content rules */
+.content {
+  margin: auto;
+  width: 700px;
+}
+#app {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+/* Colors */
+.green {
+  background-color: green;
+  color: white;
+}
+
+/* Cards */
+.card {
+  background-color: white;
+  border: 0px solid transparent;
+  border-radius: 5px;
+	box-shadow: 0px 0px 10px #666;
+  color: #222;
+}
+.card--content { padding: 10px; }
+.card--link { text-decoration: none; }
+.card--title { font-size: 24px; }
