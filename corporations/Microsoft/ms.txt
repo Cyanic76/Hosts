@@ -44,6 +44,7 @@
 0.0.0.0 cdn-dynmedia-1.microsoft.com
 0.0.0.0 cdnprod.myanalytics.microsoft.com
 0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 clientconfig.passport.net
 0.0.0.0 compliance.microsoft.com
 0.0.0.0 config.teams.microsoft.com
 0.0.0.0 continuum.dds.microsoft.com
@@ -70,7 +71,11 @@
 0.0.0.0 edge.microsoft.com
 0.0.0.0 edge-http.microsoft.com
 0.0.0.0 emdl.ws.microsoft.com
+0.0.0.0 fe2.update.microsoft.com
+0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 fe2cr.update.microsoft.com
+0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+0.0.0.0 fe3.delivery.mp.microsoft.com
 0.0.0.0 fe3.update.microsoft.com
 0.0.0.0 fe3cr.delivery.mp.microsoft.com
 0.0.0.0 feedback.search.microsoft.com
@@ -118,12 +123,15 @@
 0.0.0.0 settings-win-ppe.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 share.microsoft.com
+0.0.0.0 sls.update.microsoft.com
+0.0.0.0 sls.update.microsoft.com.akadns.net
 0.0.0.0 slscr.update.microsoft.com
 0.0.0.0 smartscreen-prod.microsoft.com
 0.0.0.0	spynet2.microsoft.com
 0.0.0.0	spynetalt.microsoft.com
 0.0.0.0	sqm.df.telemetry.microsoft.com
 0.0.0.0	sqm.telemetry.microsoft.com
+0.0.0.0 statsfe2.update.microsoft.com.akadns.net
 0.0.0.0 storecatelogrevocation.storequality.microsoft.com
 0.0.0.0 storeedgefd.dsx.mp.microsoft.com
 0.0.0.0 storesdk.dsx.mp.microsoft.com
@@ -216,9 +224,14 @@
 0.0.0.0 10.au.download.windowsupdate.com
 0.0.0.0 11.au.download.windowsupdate.com
 0.0.0.0 au.download.windowsupdate.com
+0.0.0.0 au.v4.download.windowsupdate.com
 0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 download.windowsupdate.com
+0.0.0.0 fg.v4.download.windowsupdate.com
+0.0.0.0 microsoftwindowsupdate.net
+0.0.0.0 v4.download.windowsupdate.com
 0.0.0.0 windowsupdate.com
+0.0.0.0 windowupdate.org
 0.0.0.0 wusofficehome.msocdn.com
 0.0.0.0 www.download.windowsupdate.com
 
@@ -284,6 +297,7 @@
 0.0.0.0 windows.msn.com
 0.0.0.0 www.msn.com
 0.0.0.0 dns.msftncsi.com
+0.0.0.0 www.msftncsi.com
 
 # ================> MS ADS
 0.0.0.0 a.ads2.msads.net
@@ -368,19 +382,30 @@
 0.0.0.0 provisioningapi.microsoftonline.com
 
 # ================> XBOX
+0.0.0.0 attestation.xboxlive.com
+0.0.0.0 catalog.gamepass.com
+0.0.0.0 cert.mgt.xboxlive.com
 0.0.0.0 content.assist.gameservices.xboxlive.com
 0.0.0.0 da.xboxservices.com
+0.0.0.0 def-vef.xboxlive.com
 0.0.0.0 device.auth.xboxlive.com
 0.0.0.0 dlassets-ssl.xboxlive.com
+0.0.0.0 eds.xboxlive.com
+0.0.0.0 help.ui.xboxlive.com
 0.0.0.0 lfghub-anonymous.xboxlive.com
+0.0.0.0 licensing.xboxlive.com
+0.0.0.0 notify.xboxlive.com
 0.0.0.0 profile.xboxlive.com
 0.0.0.0 title.auth.xboxlive.com
+0.0.0.0 title.mgt.xboxlive.com
 0.0.0.0 updatepc.xboxlive.com
 0.0.0.0 user.auth.xboxlive.com
 0.0.0.0 www.xboxab.com
+0.0.0.0 xboxexperiencesprod.experimentation.xboxlive.com
+0.0.0.0 xbox.ipv6.microsoft.com
+0.0.0.0 xflight.xboxlive.com
+0.0.0.0 xkms.xboxlive.com
 0.0.0.0 xsts.auth.xboxlive.com
-0.0.0.0 catalog.gamepass.com
-0.0.0.0 www.xboxab.com
 
 # ================> AKADNS & EDGEKEY
 0.0.0.0 apac1.notify.windows.com.akadns.net

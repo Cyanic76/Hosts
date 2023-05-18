@@ -256,11 +256,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 normandy-cdn.services.mozilla.com
 0.0.0.0 push.services.mozilla.com
 0.0.0.0 self-repair.mozilla.org
+0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 snippets.cdn.mozilla.net
 0.0.0.0 telemetry-experiment.mozilla.net
 0.0.0.0 telemetry.mozilla.org
 0.0.0.0 tracking-protection.cdn.mozilla.net
 0.0.0.0 tracking-protection-issues.herokuapp.com
 0.0.0.0 tracking.services.mozilla.com
+0.0.0.0 updates.push.services.mozilla.com
 0.0.0.0 versioncheck-bg.addons.mozilla.org
 
 # ================================== OEMs
@@ -626,6 +629,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.mouseflow.com
 0.0.0.0 adlooxtracking.com
 0.0.0.0 android-safebrowsing.google.com
+0.0.0.0 api.ebay-kleinanzeigen.de
 0.0.0.0 assets.pinterest.com
 0.0.0.0 b1-eudc1.zemanta.com
 0.0.0.0 backedn.irsdn.net
@@ -643,6 +647,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 client.rave-api.com
 0.0.0.0 client-context.hubvisor.io
 0.0.0.0 combinatronics.io
+0.0.0.0 config.ioam.de
 0.0.0.0 contextual.sirdata.io
 0.0.0.0 country.adinplay.workers.dev
 0.0.0.0 creativecdn.com
@@ -650,6 +655,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 csync.smilewanted.com
 0.0.0.0 d.reddit.com
 0.0.0.0 data00.adlooxtracking.com
+0.0.0.0 de.ioam.de
 0.0.0.0 dev-trackerapi.smartlify.com
 0.0.0.0 device-api-eu.hmsairship.com
 0.0.0.0 device-metrics-us.amazon.com
@@ -720,6 +726,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 remote-data-eu.hmsairship.com
 0.0.0.0 s.optifine.net
+0.0.0.0 s.shopify.com
 0.0.0.0 s1.go-mpulse.net
 0.0.0.0 s2.go-mpulse.net
 0.0.0.0 safebrowsing.google.com
@@ -731,6 +738,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 static-pixel.impptk.com
+0.0.0.0 static.tianya.cn
+0.0.0.0 static.tianyaui.com
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.e-volution.ai
 0.0.0.0 sync.ipredictive.com
