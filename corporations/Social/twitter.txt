@@ -13,6 +13,8 @@
 0.0.0.0 business.twitter.com
 0.0.0.0 careers.twitter.com
 0.0.0.0 cdn.cms-twdigitalassets.com
+0.0.0.0 cdn.syndication.twimg.com
+0.0.0.0 cdn.syndication.twitter.com
 0.0.0.0 create.twitter.com
 0.0.0.0 cs41.wac.edgecastcdn.net
 0.0.0.0 cs510.wpc.edgecastcdn.net
@@ -29,6 +31,7 @@
 0.0.0.0 search.twitter.com
 0.0.0.0 status.twitterstat.us
 0.0.0.0 support.twitter.com
+0.0.0.0 syndication.twimg.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 twitter.com
 0.0.0.0 twitterinc.tt.omtrdc.net

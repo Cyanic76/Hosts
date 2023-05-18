@@ -46,6 +46,7 @@
 0.0.0.0 ams12-008.ff.avast.com
 0.0.0.0 ams12-017.ff.avast.com
 0.0.0.0 amx.mp.avast.com
+0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics-sea.ff.avast.com
 0.0.0.0 analytics-us.ff.avast.com
 0.0.0.0 analytics-v4-poc.ff.avast.com
@@ -83,5 +84,12 @@
 0.0.0.0 business.avast.com
 0.0.0.0 butler.avast.com
 0.0.0.0 ca.portal.avast.com
+0.0.0.0 cdn-download.avastbrowser.com
+0.0.0.0 device-control.ff.avast.com
+0.0.0.0 feed.ff.avast.com
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com
 0.0.0.0 shepherd.db.avast.com
+0.0.0.0 streamback.ff.avast.com
+0.0.0.0 t.appsflyer.com
 # will add more later

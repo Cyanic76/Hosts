@@ -17,6 +17,8 @@
 0.0.0.0 ir.mcafee.com
 0.0.0.0 lns.ccs.mcafee.com
 0.0.0.0 manage.mcafee.com
+0.0.0.0 mmfiles.amp.mcafee.com
+0.0.0.0 mup.amp.mcafee.com
 0.0.0.0 myaccount.mcafee.com
 0.0.0.0 platformutil.mcafee.com
 0.0.0.0 sadownload.mcafee.com

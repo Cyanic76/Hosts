@@ -11,6 +11,7 @@
 #   - Android Connectivity Check
 #   - Android features
 #   - Bad websites (websites using AMP)
+#   - Blogspot
 #   - Crashlytics & Other Analytics
 #   - Google Apps
 #   - Google Maps
@@ -95,9 +96,12 @@
 0.0.0.0 android.com
 0.0.0.0 android.apis.google.com
 0.0.0.0 android.clients.google.com
+0.0.0.0 android-context-data.googleapis.com
 0.0.0.0 android-developers.googleblog.com
 0.0.0.0 android.googleapis.com
+0.0.0.0 android.l.google.com
 0.0.0.0 android.pool.ntp.org
+0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 androidenterprisepartners.withgoogle.com
 0.0.0.0 ci.android.com
 0.0.0.0 connectivitycheck.android.com
@@ -126,14 +130,12 @@
 0.0.0.0 ads.google.com
 0.0.0.0 adsense.google.com
 0.0.0.0 adservice.google.com
+0.0.0.0 adwords.google.com
 0.0.0.0 ajax.googleapis.com
 0.0.0.0 alt1-mtalk.google.com
 0.0.0.0 alt2-mtalk.google.com
 0.0.0.0 alt3-mtalk.google.com
 0.0.0.0 alt4-mtalk.google.com
-0.0.0.0 android.googleapis.com
-0.0.0.0 android-context-data.googleapis.com
-0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 answers.google.com
 0.0.0.0 anthos.googleapis.com
 0.0.0.0 apis.google.com
@@ -179,6 +181,7 @@
 0.0.0.0 clients6.google.com
 0.0.0.0 clientservices.googleapis.com
 0.0.0.0 clients.l.google.com
+0.0.0.0 cloudconfig.googleapis.com
 0.0.0.0 cloudresourcemanager.googleapis.com
 0.0.0.0 cloudtrace.googleapis.com
 0.0.0.0 code.google.com
@@ -259,10 +262,12 @@
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gz0.googleusercontent.com
+0.0.0.0 hangouts.chat.services.gearboxsoftware.com
 0.0.0.0 iamcredentials.googleapis.com
 0.0.0.0 id.google.com
 0.0.0.0 imap.gmail.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 img1.blogblog.com
 0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 instantmessaging-pa.googleapis.com
 0.0.0.0 instantmessaging-pa-eu.googleapis.com
@@ -339,6 +344,7 @@
 0.0.0.0 pubsub.googleapis.com
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 redirector.gvt1.com
+0.0.0.0 ruozuwky-android.mobile-messenger.intercom.com
 0.0.0.0 sa-in-f188.1e100.net
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 safety.google
@@ -363,11 +369,13 @@
 0.0.0.0 signaler-pa.clients6.google.com
 0.0.0.0 smtp.gmail.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 ssl.gstatic.com
 0.0.0.0 stackdriver.googleapis.com
 0.0.0.0 storage.googleapis.com
 0.0.0.0 streetviewpixels-ga.googleapis.com
 0.0.0.0 stun.l.google.com
+0.0.0.0 stun1.l.google.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 suggestqueries-clients1.youtube.com
 0.0.0.0 suggestqueries-clients2.youtube.com
@@ -385,7 +393,9 @@
 0.0.0.0 taskassist-pa.clients4.google.com
 0.0.0.0 taskassist-pa.clients5.google.com
 0.0.0.0 taskassist-pa.clients6.google.com
+0.0.0.0 telephonyspamprotect-pa.googleapis.com
 0.0.0.0 tg-in-f188.1e100.net
+0.0.0.0 tools.l.google.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 update.googleapis.com
 0.0.0.0 userlocation.googleapis.com
@@ -418,6 +428,11 @@
 0.0.0.0 www2.l.google.com
 0.0.0.0 www3.l.google.com
 
+# Blogger
+0.0.0.0 blogger.l.google.com
+0.0.0.0 blogspot.com
+0.0.0.0 blogspot.l.googleusercontent.com
+
 # Cloudfront
 0.0.0.0 d3e54v103j8qbb.cloudfront.net
 
@@ -444,20 +459,25 @@
 0.0.0.0 accounts.youtube.com
 0.0.0.0 consent.youtube.com
 0.0.0.0 i.ytimg.com
+0.0.0.0 i9.ytimg.com
 0.0.0.0 lh3.ggpht.com
 0.0.0.0 lh4.ggpht.com
 0.0.0.0 lh5.ggpht.com
+0.0.0.0 manifest.googlevideo.com
 0.0.0.0 redirector.googlevideo.com
+0.0.0.0 s.youtube.com
 0.0.0.0 s.ytimg.com
 0.0.0.0 studio.youtube.com
 0.0.0.0 tv.youtube.com
 0.0.0.0 www.youtube.com
 0.0.0.0 youtu.be
+0.0.0.0 youtube.imrworldwide.com
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 youtube-ui.l.google.com
 0.0.0.0 yt3.ggpht.com
 0.0.0.0 yt4.ggpht.com
+0.0.0.0 ytimg-edge-static.l.google.com
 # You can also blacklist *.googlevideo.com
 # 0.0.0.0 *.googlevideo.com
 

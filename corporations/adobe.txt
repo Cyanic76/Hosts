@@ -1,6 +1,6 @@
 ! Title: Adobe - Cyanic Hosts
 ! Expires: 1 month
-! Description: A list of Tiktok domains.
+! Description: A list of Adobe domains.
 ! Homepage: https://hosts.cyanic.me
 ! Source: https://hosts.cyanic.me/corporations/adobe.txt
 
@@ -11,14 +11,25 @@
 0.0.0.0 activate-sea.adobe.com
 0.0.0.0 activate-sjc0.adobe.com
 0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 activation.adobedtm.com
 0.0.0.0 adobe-dns.adobe.com
 0.0.0.0 adobe-dns-2.adobe.com
 0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 adobecorp.sc.omtrdc.net
+0.0.0.0 assets.adobedtm.com
+0.0.0.0 cc-api-data.adobe.io
+0.0.0.0 cc-cdn.adome.com
+0.0.0.0 cclibraries-defaults-cdn.adobe.com
+0.0.0.0 cctypekit.adobe.io
 0.0.0.0 ereg.adobe.com
 0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 geo.adobe.com
 0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 hlrcv.stage.adobe.com
+0.0.0.0 ic.adobe.io
+0.0.0.0 ims-na1.adobelogin.com
 0.0.0.0 ims-na1-prprod.adobelogin.com
+0.0.0.0 lcs.cops.adobe.io
 0.0.0.0 lm.licenses.adobe.com
 0.0.0.0 lmlicenses.wip4.adobe.com
 0.0.0.0 na1r.services.adobe.com
@@ -26,7 +37,11 @@
 0.0.0.0 na2r.services.adobe.com
 0.0.0.0 na3r.services.adobe.com
 0.0.0.0 na4r.services.adobe.com
+0.0.0.0 oobe.adobe.com
 0.0.0.0 practivate.adobe.com
+0.0.0.0 r3zj0yju1q.adobe.io
+0.0.0.0 resources.licenses.adobe.com
+0.0.0.0 sp.auth.adobe.com
 0.0.0.0 use.typekit.com
 0.0.0.0 use.typekit.net
 0.0.0.0 wip3.adobe.com

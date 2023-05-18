@@ -13,7 +13,9 @@
 0.0.0.0 ae02.alicdn.com
 0.0.0.0 ae03.alicdn.com
 0.0.0.0 ae04.alicdn.com
+0.0.0.0 aeis.alicdn.com
 0.0.0.0 aeproductsourcesite.alicdn.com
+0.0.0.0 aeu.alicdn.com
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 amos.alicdn.com
 0.0.0.0 arms-retcode.aliyuncs.com
@@ -21,14 +23,19 @@
 0.0.0.0 at.alicdn.com
 0.0.0.0 at.alicdn.com.danuoyi.alicdn.com
 0.0.0.0 audid-api.taobao.com
+0.0.0.0 cdp.aliexpress.com
+0.0.0.0 coupon.aliexpress.com
 0.0.0.0 dw-online.ksosoft.com
 0.0.0.0 eu-acs.aliexpress.com.gds.alibabadns.com
 0.0.0.0 eu-aebridge.aliexpress.com.gds.alibabadns.com
+0.0.0.0 feedback.aliexpress.com
 0.0.0.0 files.alicdn.com
+0.0.0.0 freight.aliexpress.com
 0.0.0.0 g.alicdn.com
 0.0.0.0 gia.jd.com
 0.0.0.0 gm.gds.mmstat.com
 0.0.0.0 gm.mmstat.com
+0.0.0.0 gpsfront.aliexpress.com
 0.0.0.0 gtms01.alicdn.com
 0.0.0.0 gtms02.alicdn.com
 0.0.0.0 gtms03.alicdn.com
@@ -42,7 +49,9 @@
 0.0.0.0 m.alibaba.com
 0.0.0.0 moduleanalysis.aliexpress.com
 0.0.0.0 na61-na62.wagbridge.alibaba.tanx.com
+0.0.0.0 passport.alipay.com
 0.0.0.0 phs.tanx.com
+0.0.0.0 promotion.aliexpress.com
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.click.taobao.com
 0.0.0.0 sc01.alicdn.com
@@ -50,6 +59,7 @@
 0.0.0.0 sh.wagbridge.taobao.com.gds.alibabadns.com
 0.0.0.0 shuc-android.ksord.com
 0.0.0.0 tce.alicdn.com
+0.0.0.0 us-aebridge.aliexpress.com.gds.alibabadns.com
 0.0.0.0 us.cobra.aliexpress.com
 0.0.0.0 us.ynuf.aliapp.org
 0.0.0.0 wl.jd.com

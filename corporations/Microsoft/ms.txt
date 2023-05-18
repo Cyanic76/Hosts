@@ -233,6 +233,7 @@
 0.0.0.0 deault-exp-tas-com.e-0014.e-msedge.net
 0.0.0.0 dual-s-ring.msedge.net
 0.0.0.0 e-0009.e-msedge.net
+0.0.0.0 e-0012.e-msedge.net
 0.0.0.0 edge-microsoft-com.dual-a-0036.a-msedge.net
 0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 evoke-windowsservices-tas-msedge-net.e-0009.e-msedge.net
@@ -318,21 +319,22 @@
 
 # ================> AUTH SERVICES
 0.0.0.0 acctcdn.msauth.net
-0.0.0.0 logincdn.msauth.net
-0.0.0.0 inference.location.live.net
-0.0.0.0 windows.policies.live.net
+0.0.0.0 ags.privatelink.msidentity.com
+0.0.0.0 ak.privatelink.msidentity.com
+0.0.0.0 client-s.gateway.messenger.live.com
 0.0.0.0 g.live.com
+0.0.0.0 inference.location.live.net
 0.0.0.0 live.com
+0.0.0.0 logincdn.msauth.net
+0.0.0.0 login.msa.msidentity.com
 0.0.0.0 login.live.com
 0.0.0.0 msagfx.live.com
 0.0.0.0 signup.live.com
 0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
 0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
 0.0.0.0 watson.live.com
+0.0.0.0 windows.policies.live.net
 0.0.0.0 www.live.com
-0.0.0.0 ags.privatelink.msidentity.com
-0.0.0.0 ak.privatelink.msidentity.com
-0.0.0.0 login.msa.msidentity.com
 
 # ================> WINDOWSAZURE.COM & ONENOTE
 0.0.0.0 cdn.onenote.net
@@ -366,6 +368,7 @@
 0.0.0.0 provisioningapi.microsoftonline.com
 
 # ================> XBOX
+0.0.0.0 content.assist.gameservices.xboxlive.com
 0.0.0.0 da.xboxservices.com
 0.0.0.0 device.auth.xboxlive.com
 0.0.0.0 dlassets-ssl.xboxlive.com

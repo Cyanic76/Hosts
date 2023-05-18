@@ -27,10 +27,19 @@ ff02::3 ip6-allhosts
 
 # ================================== BAIDU, QQ
 0.0.0.0 baidu.com
+0.0.0.0 cpro.baidu.cn
 0.0.0.0 map.baidu.cn
 0.0.0.0 map.baidu.com
 0.0.0.0 map.qq.com
 0.0.0.0 map.wap.qq.com
+0.0.0.0 passport.baidu.com
+0.0.0.0 ss0.baidu.com
+0.0.0.0 ss1.baidu.com
+0.0.0.0 ss2.baidu.com
+0.0.0.0 ss3.baidu.com
+0.0.0.0 t11.baidu.com
+0.0.0.0 www.baidu.com
+0.0.0.0 xueshu.baidu.com
 
 # ================================== COOKIE BANNERS
 0.0.0.0 ats-wrapper.privacymanager.io
@@ -84,11 +93,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 o56819.ingest.sentry.io
 
 # ================================== FACEBOOK
-# There's more in the corporations/facebook.txt.
+# There's more in the corporations/Social/facebook.txt.
 0.0.0.0 ads.ak.facebook.com
 0.0.0.0 ads.facebook.com
 0.0.0.0 an.facebook.com
 0.0.0.0 analytics.facebook.com
+0.0.0.0 b-api.facebook.com
+0.0.0.0 b-graph.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 facebook-ads.mediaz.vn
 0.0.0.0 facebook-color.5v.pl
@@ -156,6 +167,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 static.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 tg-in-f188.1e100.net
@@ -398,8 +410,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 adx.adform.net
 0.0.0.0 ams3-ib.adnxs.com
 0.0.0.0 api.adinplay.com
+0.0.0.0 api.taboola.com
 0.0.0.0 applovin.com
 0.0.0.0 applvn.com
+0.0.0.0 apps-ios.crashlytics.com
 0.0.0.0 auiopt.unityads.unity3d.com
 0.0.0.0 b1h.zemanta.com
 0.0.0.0 b1sync.zemanta.com
@@ -473,6 +487,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 events.ads.vungle.com
 0.0.0.0 explorads.xml-v4.ak-is2.net
 0.0.0.0 feedroll.com
+0.0.0.0 fourier.taobao.com
 0.0.0.0 fra1-ib.adnxs.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 geocdn.unityads.unity3d.com
@@ -542,6 +557,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 prebid.b-cdn.net
 0.0.0.0 prebid.reworldmediafactory.com
 0.0.0.0 prebid-fr.casalemedia.com
+0.0.0.0 promotion.aliexpress.com
 0.0.0.0 pub.network
 0.0.0.0 pubs.acs.irg
 0.0.0.0 px.ads.linkedin.com
@@ -554,6 +570,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s7.addthis.com
 0.0.0.0 seg.ad.gt
 0.0.0.0 simage4.pubmatic.com
+0.0.0.0 spade.twitch.tv
 0.0.0.0 sponsor.ajay.app
 0.0.0.0 sportsuggest-dre.things.hicloud.com
 0.0.0.0 ssb-euw1.smartadserver.com
@@ -566,13 +583,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.media.net
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sync.srv.stackadapt.com
+0.0.0.0 syndication.twimg.com
+0.0.0.0 syndication.twitter.com
 0.0.0.0 taboola.com
 0.0.0.0 tag.durationmedia.net
 0.0.0.0 tapjoyads.com
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoy.net
+0.0.0.0 time.gpsonextra.net
+0.0.0.0 time.izatcloud.net
 0.0.0.0 tlx.3lift.com
 0.0.0.0 tpsc-eu3.doubleverify.com
+0.0.0.0 traffic.alexa.com
+0.0.0.0 trowel.twitch.tv
 0.0.0.0 u-ams02.e-planning.net
 0.0.0.0 ums.acuityplatform.com
 0.0.0.0 unified.adsafeprotected.com
@@ -602,7 +625,8 @@ ff02::3 ip6-allhosts
 #0.0.0.0 *.datadome.co
 0.0.0.0 a.mouseflow.com
 0.0.0.0 adlooxtracking.com
-0.0.0.0 android-safebrowsing.google.com # Tell me if this breaks everything
+0.0.0.0 android-safebrowsing.google.com
+0.0.0.0 assets.pinterest.com
 0.0.0.0 b1-eudc1.zemanta.com
 0.0.0.0 backedn.irsdn.net
 0.0.0.0 beam.hubvisor.io
@@ -628,6 +652,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 data00.adlooxtracking.com
 0.0.0.0 dev-trackerapi.smartlify.com
 0.0.0.0 device-api-eu.hmsairship.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 device-metrics-us-2.amazon.com
+0.0.0.0 device-metrics-us-ud.amazon.com
+0.0.0.0 download.alexa.com
 0.0.0.0 download.com
 0.0.0.0 downloads.hpanalytics.net
 0.0.0.0 dpm.demdex.net
@@ -650,6 +678,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gvl.ezodn.com
 0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 hotjar.com
+0.0.0.0 i.click.taobao.com
 0.0.0.0 i.haloapps.com
 0.0.0.0 ia.51.la
 0.0.0.0 iap-pay-dre.cloud.huawei.eu
@@ -696,6 +725,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 safebrowsing.google.com
 0.0.0.0 sentry.io
 0.0.0.0 sentry-cdn.com
+0.0.0.0 share.cdn.viber.com
 0.0.0.0 sharethis.com
 0.0.0.0 speedcurve.com
 0.0.0.0 ssum-sec.casalemedia.com
@@ -705,6 +735,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sync.e-volution.ai
 0.0.0.0 sync.ipredictive.com
 0.0.0.0 sync.srv.stackadapt.com
+0.0.0.0 t.appsflyer.com
 0.0.0.0 tracker.quadran.eu
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tv.springserve.com
@@ -791,6 +822,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 events.missena.io
 0.0.0.0 events.redditmedia.com
 0.0.0.0 exchange.mediavine.com
+0.0.0.0 fan.twitch.tv
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastly-insights.net
 0.0.0.0 fdz.flashtalking.com
@@ -804,8 +836,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 geo.prod.do.dsp.trafficmanager.net
 0.0.0.0 geoissuer.cardinalcommerce.com
 0.0.0.0 geolocation.onetrust.com
+0.0.0.0 go.skimresources.com
 0.0.0.0 goutee.top
 0.0.0.0 green.erne.co
+0.0.0.0 gtp1.gtp.izatcloud.net
+0.0.0.0 gtp1.izatcloud.net
+0.0.0.0 gtp2.izatcloud.net
+0.0.0.0 gtpa1.izatcloud.net
+0.0.0.0 gtpc1.izatcloud.net
+0.0.0.0 gtpcn.izatcloud.net
+0.0.0.0 gtpcn1.izatcloud.net
+0.0.0.0 gtssl2-ocsp.geotrust.com
 0.0.0.0 h.online-metrix.net
 0.0.0.0 h1.fastlyanalytics.map.fastly.net
 0.0.0.0 hal9000.redintelligence.net
@@ -901,6 +942,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 snoop.minecraft.net
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 ssb-eqx.smartadserver.com
+0.0.0.0 ssl.gpsonextra.net
+0.0.0.0 sslproxy-prod.adobedtm.com
 0.0.0.0 sstats.adobe.com
 0.0.0.0 statcounter.com
 0.0.0.0 static.cloudflareinsights.com
@@ -908,6 +951,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.scroll.com
 0.0.0.0 stats.adobe.com
 0.0.0.0 stats.adinplay.com
+0.0.0.0 stats.gc.apple.com
 0.0.0.0 stats.redditmedia.com
 0.0.0.0 stats.wp.com
 0.0.0.0 studio-tag.teads.tv
@@ -934,6 +978,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 travelncs.com
 0.0.0.0 tzwaw.pw
 0.0.0.0 u.4dex.io
+0.0.0.0 udc.yahoo.com
 0.0.0.0 um.simpli.fi
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 vinci.commander1.com
@@ -945,6 +990,20 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.iubenda.com
 0.0.0.0 www.snigelweb.com
 0.0.0.0 www.wysistat.com
+0.0.0.0 xslt.alexa.com
+0.0.0.0 xtra.gpsonextra.net
+0.0.0.0 xtra1.gpsonextra.net
+0.0.0.0 xtra2.gpsonextra.net
+0.0.0.0 xtra3.gpsonextra.net
+0.0.0.0 xtra4.gpsonextra.net
+0.0.0.0 xtrapath1.izatcloud.net
+0.0.0.0 xtrapath11.izatcloud.net
+0.0.0.0 xtrapath2.izatcloud.net
+0.0.0.0 xtrapath3.izatcloud.net
+0.0.0.0 xtrapath5.izatcloud.net
+0.0.0.0 xtrapath7.izatcloud.net
+0.0.0.0 xtrapath9.izatcloud.net
+0.0.0.0 youtube.imrworldwide.com
 0.0.0.0 z4y.pl
 
 # ================================== PINTEREST
