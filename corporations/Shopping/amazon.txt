@@ -18,6 +18,7 @@
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 assoc-amazon.com
+0.0.0.0 assoc-redirect.amazon.com
 0.0.0.0 astore.amazon.com
 0.0.0.0 author.amazon.com
 0.0.0.0 aws.amazon.com

@@ -24,6 +24,7 @@
 0.0.0.0 sadownload.mcafee.com
 0.0.0.0 scinstallcheck.mcafee.com
 0.0.0.0 securitymgmt.unifiedapis.mcafee.com
+0.0.0.0 webadvisorc.rest.gti.mcafee.com
 0.0.0.0 www.mcafee.com
 0.0.0.0 usepvls.ccs.mcafee.com
 # will add more later

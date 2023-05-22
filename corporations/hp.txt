@@ -4,10 +4,11 @@
 ! Homepage: https://hosts.cyanic.me
 ! Source: https://hosts.cyanic.me/corporations/hicloud.txt
 
-# This blocks:
+# This will break
 # - ARUBA
 # - HP
 # - HP Enterprise (HPE)
+# - HP Instant Ink
 # - HP Smart
 # - OMEN
 
@@ -50,6 +51,7 @@
 0.0.0.0 h30434.www3.hp.com
 0.0.0.0 hp.com
 0.0.0.0 hpetraining.co1.qualtrics.com
+0.0.0.0 ink1001.com
 0.0.0.0 instantink.com
 0.0.0.0 instantink.hpconnected.com
 0.0.0.0 investor.hp.com

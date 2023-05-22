@@ -67,6 +67,7 @@
 0.0.0.0 broadcast.skype.com
 0.0.0.0 c.bing.net
 0.0.0.0 c.live.com
+0.0.0.0 c.office.com
 0.0.0.0 c1.microsoft.com
 0.0.0.0 c1-excel-15.cdn.office.net
 0.0.0.0 c1-shared-15.cdn.office.net
@@ -77,6 +78,8 @@
 0.0.0.0 cdn.onenote.net
 0.0.0.0 cdn.onenote.net.edgekey.net
 0.0.0.0 cdn.uci.officeapps.live.com
+0.0.0.0 click.email.office.com
+0.0.0.0 click.mail.onedrive.com
 0.0.0.0 clients.config.office.net
 0.0.0.0 config.edge.skype.com
 0.0.0.0 config.teams.microsoft.com
@@ -89,6 +92,7 @@
 0.0.0.0 directory.services.live.com
 0.0.0.0 docs.live.net
 0.0.0.0 ecs.office.com
+0.0.0.0 email.office.com
 0.0.0.0 eu-office.events.data.microsoft.net
 0.0.0.0 eus-www.sway-cdn.com
 0.0.0.0 eus-www.sway-extensions.com

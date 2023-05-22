@@ -126,6 +126,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 chrome.google.com
 0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 consent-analytics.googleapis.com
+0.0.0.0 consent-analyticsinsights-pa.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 doubleclick.net
 0.0.0.0 fb50436e04f648465c9ba6a8892caa86.safeframe.googlesyndication.com
@@ -149,6 +151,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 media.fastclick.net
 0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 meshtelemetry.googleapis.com
+0.0.0.0 mobilecrashreporting.googleapis.com
 0.0.0.0 monitoring.googleapis.com
 0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 pagead2.googleadservices.com
@@ -195,6 +198,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 arc.msn.com
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 click.email.office.com
+0.0.0.0 click.engage.xbox.com
+0.0.0.0 click.mail.onedrive.com
 0.0.0.0 co4.telecommand.telemetry.microsoft.com.akadns.net
 0.0.0.0 eu-office.events.data.microsoft.com
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
@@ -206,6 +212,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 slscr.update.microsoft.com
 0.0.0.0 srtb.msn.com
+0.0.0.0 target.microsoft.com
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 umwatson.events.data.microsoft.com
 0.0.0.0 v10.events.data.microsoft.com
@@ -457,6 +464,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 contextual.media.net
 0.0.0.0 cookiesync.api.bliink.io
 0.0.0.0 core.iprom.net
+0.0.0.0 countess.twitch.tv
 0.0.0.0 cs.adingo.jp
 0.0.0.0 cs.admanmedia.com
 0.0.0.0 cs.emxdgt.com
@@ -573,6 +581,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s7.addthis.com
 0.0.0.0 seg.ad.gt
 0.0.0.0 simage4.pubmatic.com
+0.0.0.0 spade.sci.twitch.tv
 0.0.0.0 spade.twitch.tv
 0.0.0.0 sponsor.ajay.app
 0.0.0.0 sportsuggest-dre.things.hicloud.com
@@ -610,6 +619,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vid.pubmatic.com
 0.0.0.0 videostep.com
 0.0.0.0 vungle.com
+0.0.0.0 webadvisorc.rest.gti.mcafee.com
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 wins.isprog.com
 0.0.0.0 ws.rqtrk.eu
@@ -653,6 +663,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 creativecdn.com
 0.0.0.0 c-sta.haloapps.com
 0.0.0.0 csync.smilewanted.com
+0.0.0.0 ct.pinterest.com
 0.0.0.0 d.reddit.com
 0.0.0.0 data00.adlooxtracking.com
 0.0.0.0 de.ioam.de
@@ -694,6 +705,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 images-ssl.bestbuy.com
 0.0.0.0 img.bbystatic.com
 0.0.0.0 in.appcenter.ms
+0.0.0.0 ink1001.com
 0.0.0.0 j.6sc.co
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 links.duckduckgo.com
@@ -933,6 +945,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 robwu.nl
 0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 rules.quantcount.com
+0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.salecycle.com
 0.0.0.0 s.seedtag.com
 0.0.0.0 salesforceliveagent.com
@@ -980,6 +993,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.vg.ac.pvp.net
 0.0.0.0 tpsc-eu3.doubleverify.com
+0.0.0.0 track.adtraction.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 tracker.yougov.com
 0.0.0.0 tracking.emerse.com

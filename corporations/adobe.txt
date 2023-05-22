@@ -17,6 +17,8 @@
 0.0.0.0 adobe-dns-3.adobe.com
 0.0.0.0 adobecorp.sc.omtrdc.net
 0.0.0.0 assets.adobedtm.com
+0.0.0.0 c00.adobe.com
+0.0.0.0 campaign.adobe.com
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 cc-cdn.adome.com
 0.0.0.0 cclibraries-defaults-cdn.adobe.com

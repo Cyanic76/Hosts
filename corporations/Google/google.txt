@@ -113,6 +113,7 @@
 #0.0.0.0 *.safeframe.googlesyndication.com
 0.0.0.0 300zlf-dnsotls-ds.metric.gstatic.com
 0.0.0.0 3cbc684bb9f2dcdd3a3794de9de52f63.safeframe.googlesyndication.com
+0.0.0.0 a.gtld-servers.net
 0.0.0.0 aa.google.com
 0.0.0.0 accounts.google.com
 #0.0.0.0 accounts.google.*
@@ -131,13 +132,22 @@
 0.0.0.0 adsense.google.com
 0.0.0.0 adservice.google.com
 0.0.0.0 adwords.google.com
+0.0.0.0 afs.googleusercontent.com
 0.0.0.0 ajax.googleapis.com
+0.0.0.0 alt1.aspmx.l.google.com
 0.0.0.0 alt1-mtalk.google.com
+0.0.0.0 alt2.aspmx.l.google.com
 0.0.0.0 alt2-mtalk.google.com
+0.0.0.0 alt3.aspmx.l.google.com
 0.0.0.0 alt3-mtalk.google.com
+0.0.0.0 alt4.aspmx.l.google.com
 0.0.0.0 alt4-mtalk.google.com
+0.0.0.0 analyticsinsights-pa.googleapis.com
+0.0.0.0 analyticssearch-pa.googleapis.com
+0.0.0.0 androidtvwatsonfe-pa.googleapis.com
 0.0.0.0 answers.google.com
 0.0.0.0 anthos.googleapis.com
+0.0.0.0 api-googlemaps.net
 0.0.0.0 apis.google.com
 0.0.0.0 appsgrowthpromo-pa.clients1.google.com
 0.0.0.0 appsgrowthpromo-pa.clients2.google.com
@@ -151,13 +161,20 @@
 0.0.0.0 appsitemsuggest-pa.clients4.google.com
 0.0.0.0 appsitemsuggest-pa.clients5.google.com
 0.0.0.0 appsitemsuggest-pa.clients6.google.com
+0.0.0.0 appspot-preview.l.google;com
 0.0.0.0 appswaldo.clients1.google.com
 0.0.0.0 appswaldo.clients2.google.com
 0.0.0.0 appswaldo.clients3.google.com
 0.0.0.0 appswaldo.clients4.google.com
 0.0.0.0 appswaldo.clients5.google.com
 0.0.0.0 appswaldo.clients6.google.com
+0.0.0.0 aspmx.l.google.com
+0.0.0.0 aspmx2.googlemail.com
+0.0.0.0 aspmx3.googlemail.com
+0.0.0.0 aspmx4.googlemail.com
+0.0.0.0 aspmx5.googlemail.com
 0.0.0.0 aswpsdkeu.com # see whois record
+0.0.0.0 auditrecording-pa.google.com
 0.0.0.0 blobcomments-pa.clients1.google.com
 0.0.0.0 blobcomments-pa.clients2.google.com
 0.0.0.0 blobcomments-pa.clients3.google.com
@@ -189,6 +206,8 @@
 0.0.0.0 connectivitycheck.google.com
 0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 container.googleapis.com
+0.0.0.0 consent-analytics.googleapis.com
+0.0.0.0 consent-analyticsinsights-pa.googleapis.com
 0.0.0.0 content.googleapis.com
 0.0.0.0 consent.google.com # Will break most Google web services
 #0.0.0.0 consent.google.*
@@ -207,9 +226,11 @@
 0.0.0.0 deviceintegritytokens-pa.googleapis.com
 0.0.0.0 digitalassetlinks.googleapis.com
 0.0.0.0 dl.google.com
+0.0.0.0 dns-admin.google.com
 0.0.0.0 doc-0g-48-docstext.googleusercontent.com
 0.0.0.0 domains.google
 0.0.0.0 domains.google.com
+0.0.0.0 doodle4google.com
 0.0.0.0 drive-thirdparty.googleusercontent.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 edu.google.com
@@ -227,6 +248,7 @@
 0.0.0.0 espresso-pa.clients6.google.com
 0.0.0.0 fb50436e04f648465c9ba6a8892caa86.safeframe.googlesyndication.com
 0.0.0.0 fcmconnection.googleapis.com
+0.0.0.0 federatedml-pa.googleapis.com
 0.0.0.0 feedback-pa.clients1.google.com
 0.0.0.0 feedback-pa.clients2.google.com
 0.0.0.0 feedback-pa.clients3.google.com
@@ -235,8 +257,11 @@
 0.0.0.0 feedback-pa.clients6.google.com
 0.0.0.0 finance.google.com
 0.0.0.0 firebase.google.com
+0.0.0.0 firebaseinappmessaging.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 firebasestorage.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebase.google.com
 0.0.0.0 firestore.googleapis.com
@@ -253,12 +278,17 @@
 0.0.0.0 gkehub.googleapis.com
 0.0.0.0 gnpfesdk-pa.googleapis.com
 0.0.0.0 google-analytics.com
+0.0.0.0 googleaccountservices.com
+0.0.0.0 googleacquisitionmigration.com
+0.0.0.0 googleartproject.com
 0.0.0.0 googleblog.com
 0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 googleoptimize.com
+0.0.0.0 googlesites.net
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagservices.com
 0.0.0.0 googleusercontent.com
+0.0.0.0 googleweather.infogooglewifi.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gz0.googleusercontent.com
@@ -282,6 +312,7 @@
 0.0.0.0 lh4.googleusercontent.com
 0.0.0.0 lh5.googleusercontent.com
 0.0.0.0 lh6.googleusercontent.com
+0.0.0.0 linkhelp.clients.google.com
 0.0.0.0 logging.googleapis.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 mail-attachment.googleusercontent.com
@@ -292,6 +323,7 @@
 0.0.0.0 meshca.googleapis.com
 0.0.0.0 meshconfig.googleapis.com
 0.0.0.0 meshtelemetry.googleapis.com
+0.0.0.0 mobilecrashreporting.googleapis.com
 0.0.0.0 mobilemaps.googleapis.com
 0.0.0.0 mobilemaps-pa-gz.googleapis.com
 0.0.0.0 mobile-gtalk.l.google.com
@@ -336,6 +368,7 @@
 0.0.0.0 play-fe.googleapis.com
 0.0.0.0 play-lh.googleusercontent.com
 0.0.0.0 play.googleapis.com
+0.0.0.0 playmoviesdfe-pa.googleapis.com
 0.0.0.0 plus.l.google.com
 0.0.0.0 podcastsmanager.google.com
 0.0.0.0 policies.google.com # Will prevent access to privacy policy, terms of use, etc
@@ -359,6 +392,7 @@
 0.0.0.0 search.google.com
 0.0.0.0 securetoken.googleapis.com
 0.0.0.0 security.googleblog.com
+0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 serviceusage.googleapis.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 signaler-pa.clients1.google.com
@@ -367,7 +401,9 @@
 0.0.0.0 signaler-pa.clients4.google.com
 0.0.0.0 signaler-pa.clients5.google.com
 0.0.0.0 signaler-pa.clients6.google.com
+0.0.0.0 smartlock.google.com
 0.0.0.0 smtp.gmail.com
+0.0.0.0 smtp.google.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 ssl.gstatic.com
@@ -407,7 +443,10 @@
 0.0.0.0 wl-in-f188.1e100.net
 0.0.0.0 workspace.google.com
 0.0.0.0 wq-in-f188.1e100.net
+0.0.0.0 www.analyticsinsights-pa.googleapis.com
+0.0.0.0 www.analyticssearch-pa.googleapis.com
 0.0.0.0 www.blog.google
+0.0.0.0 www.device-provisioning.googleapis.com
 0.0.0.0 www-driveviewer-opensocial.googleusercontent.com
 0.0.0.0 www.embedgooglemap.net
 0.0.0.0 www.forms.gle
@@ -421,6 +460,7 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.gstatic.com
+0.0.0.0 www.semanticlocation-pa.googleapis.com
 0.0.0.0 www.support.google
 0.0.0.0 www.thinkwithgoogle.com
 0.0.0.0 www.youtubeeducation.com
@@ -459,6 +499,14 @@
 0.0.0.0 accounts.youtube.com
 0.0.0.0 consent.youtube.com
 0.0.0.0 i.ytimg.com
+0.0.0.0 i1.ytimg.com
+0.0.0.0 i2.ytimg.com
+0.0.0.0 i3.ytimg.com
+0.0.0.0 i4.ytimg.com
+0.0.0.0 i5.ytimg.com
+0.0.0.0 i6.ytimg.com
+0.0.0.0 i7.ytimg.com
+0.0.0.0 i8.ytimg.com
 0.0.0.0 i9.ytimg.com
 0.0.0.0 lh3.ggpht.com
 0.0.0.0 lh4.ggpht.com
