@@ -13,6 +13,7 @@
 0.0.0.0 4-edge-chat.facebook.com
 0.0.0.0 5-edge-chat.facebook.com
 0.0.0.0 6-edge-chat.facebook.com
+0.0.0.0 about.meta.com
 0.0.0.0 ads.ak.facebook.com
 0.0.0.0 ads.facebook.com
 0.0.0.0 aktualizacjafacebooka.blogspot.com
@@ -35,10 +36,13 @@
 0.0.0.0 ct-m-fbx.fbsbx.com
 0.0.0.0 edge-chat.facebook.com
 0.0.0.0 error.facebook.com
+0.0.0.0 es-es.facebook.com
 0.0.0.0 external-cdg2-1.xx.fbcdn.net
 0.0.0.0 external.xx.fbcdn.net
 0.0.0.0 facebook-ads.mediaz.vn
 0.0.0.0 facebook-color.5v.pl
+0.0.0.0 facebook.com
+0.0.0.0 facebook.es
 0.0.0.0 facebook-com-pl-profile.7m.pl
 0.0.0.0 facebook-drm-server3.com
 0.0.0.0 facebook-informacje24.eu
@@ -78,11 +82,13 @@
 0.0.0.0 h.facebook.com
 0.0.0.0 hacking-facebook.com
 0.0.0.0 instagram.c10r.facebook.com
+0.0.0.0 instagram.com
 0.0.0.0 l.facebook.com
 0.0.0.0 lookaside.facebook.com
 0.0.0.0 kaios-d.facebook.com
 0.0.0.0 m.facebook.com
 0.0.0.0 m-facebook.ct8.pl
+0.0.0.0 meta.com
 0.0.0.0 mobile.beta.facebook.com
 0.0.0.0 mobile.facebook.com
 0.0.0.0 mqtt.c10r.facebook.com

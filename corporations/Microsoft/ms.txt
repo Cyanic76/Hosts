@@ -94,6 +94,7 @@
 0.0.0.0 login.microsoft.com
 0.0.0.0 manage.devcenter.microsoft.com
 0.0.0.0 mediaredirect.microsoft.com
+0.0.0.0 microsoft.com
 0.0.0.0 microsoftedgewelcome.microsoft.com
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
@@ -167,6 +168,10 @@
 0.0.0.0 www.download.microsoft.com
 0.0.0.0 www.microsoft.com
 0.0.0.0 wwwbay3vip.microsoft.com
+
+# ================> HOTMAIL (now Outlook)
+0.0.0.0 hotmail.com
+0.0.0.0 hotmail.es
 
 # ================> NUGET PACKAGE MANAGER
 0.0.0.0 nuget.org

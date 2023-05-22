@@ -14,6 +14,7 @@
 0.0.0.0 affiliate-program.amazon.com
 0.0.0.0 affiliationjs.s3.amazonaws.com
 0.0.0.0 amazon.com
+0.0.0.0 amazon.es
 0.0.0.0 amazon.jobs
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
