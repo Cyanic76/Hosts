@@ -757,6 +757,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 links.duckduckgo.com
 0.0.0.0 live.staticflickr.com
+0.0.0.0 log-va.tiktokv.com
 0.0.0.0 maps.yandex.com #chad
 0.0.0.0 mclean.uk.cloud.360safe.com
 0.0.0.0 measure.lamp.avct.cloud
@@ -765,6 +766,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics1.data.hicloud.com
 0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 ml314.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mouseflow.com
 0.0.0.0 mvconf.uk.cloud.360safe.com
 0.0.0.0 ni500z.btttag.com

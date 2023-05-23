@@ -22,10 +22,13 @@
 0.0.0.0 link.e.tiktok.com
 0.0.0.0 log2.musical.ly
 0.0.0.0 log.tiktokv.com
+0.0.0.0 log-va.tiktokv.com
 0.0.0.0 m.tiktok.com
 0.0.0.0 mcs-sg.tiktok.com
 0.0.0.0 mcs-va.tiktok.com
 0.0.0.0 mcs.us.tiktok.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mssdk-sg.tiktok.com
 0.0.0.0 mssdk-va.tiktok.com
 0.0.0.0 mssdk.us.tiktok.com
