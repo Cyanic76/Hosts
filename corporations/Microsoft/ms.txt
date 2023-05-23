@@ -34,6 +34,7 @@
 0.0.0.0 array615.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array616.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array805.prod.do.dsp.mp.microsoft.com
+0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 azure.microsoft.com
 0.0.0.0 azuremarketplace.microsoft.com
 0.0.0.0 bingads.microsoft.com
