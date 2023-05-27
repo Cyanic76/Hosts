@@ -70,6 +70,7 @@
 0.0.0.0 download.visualstudio.microsoft.com
 0.0.0.0 ecn.dev.virtualearth.net
 0.0.0.0 edge.microsoft.com
+0.0.0.0 edgetipscdn.microsoft.com
 0.0.0.0 edge-http.microsoft.com
 0.0.0.0 emdl.ws.microsoft.com
 0.0.0.0 fe2.update.microsoft.com
@@ -294,6 +295,7 @@
 0.0.0.0 c.msn.com.nsatc.net
 0.0.0.0 encartaupdate.msn.com
 0.0.0.0 g.msn.com
+0.0.0.0 g00.msn.com
 0.0.0.0 g.msn.com.nsatc.net
 0.0.0.0 img-s-msn-com.akamaized.net
 0.0.0.0 mobileads.msn.com
@@ -357,6 +359,12 @@
 0.0.0.0 watson.live.com
 0.0.0.0 windows.policies.live.net
 0.0.0.0 www.live.com
+
+# ================> AZURE DNS
+0.0.0.0 ns1-39.azure-dns.com
+0.0.0.0 ns2-39.azure-dns.com
+0.0.0.0 ns3-39.azure-dns.com
+0.0.0.0 ns4-39.azure-dns.com
 
 # ================> WINDOWSAZURE.COM & ONENOTE
 0.0.0.0 cdn.onenote.net

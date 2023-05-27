@@ -1,0 +1,10 @@
+! Title: Unknown hosts - Cyanic Hosts
+! Expires: 1 week
+! Description: I have them, I just don't know who they belong to or what they are.
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/unknown.txt
+
+0.0.0.0 dns1.p06.nsone.net
+0.0.0.0 dns2.p06.nsone.net
+0.0.0.0 dns3.p06.nsone.net
+0.0.0.0 dns4.p06.nsone.net

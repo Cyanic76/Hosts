@@ -13,6 +13,7 @@
 0.0.0.0 4-edge-chat.facebook.com
 0.0.0.0 5-edge-chat.facebook.com
 0.0.0.0 6-edge-chat.facebook.com
+0.0.0.0 a.ns.facebook.com
 0.0.0.0 about.meta.com
 0.0.0.0 ads.ak.facebook.com
 0.0.0.0 ads.facebook.com
@@ -22,7 +23,9 @@
 0.0.0.0 apps.facebook.com
 0.0.0.0 b-api.facebook.com
 0.0.0.0 b-graph.facebook.com
+0.0.0.0 b.ns.facebook.com
 0.0.0.0 b-www.facebook.com
+0.0.0.0 c.ns.facebook.com
 0.0.0.0 cdninstagram.com
 0.0.0.0 cdn.fbsbx.com
 0.0.0.0 check1.facebook.com
@@ -34,7 +37,10 @@
 0.0.0.0 connect.facebook.net
 0.0.0.0 creative.ak.facebook.com
 0.0.0.0 ct-m-fbx.fbsbx.com
+0.0.0.0 d.ns.facebook.com
 0.0.0.0 edge-chat.facebook.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 edge-star-shv-01-bom1.facebook.com
 0.0.0.0 error.facebook.com
 0.0.0.0 es-es.facebook.com
 0.0.0.0 external-cdg2-1.xx.fbcdn.net

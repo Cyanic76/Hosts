@@ -189,8 +189,10 @@
 0.0.0.0 blobcomments-pa.clients4.google.com
 0.0.0.0 blobcomments-pa.clients5.google.com
 0.0.0.0 blobcomments-pa.clients6.google.com
+0.0.0.0 bot2.googlerenewals.net
 0.0.0.0 carrers.google.com
 0.0.0.0 cdn.ampproject.org
+0.0.0.0 cdn.googletoolservices.com
 0.0.0.0 chrome.com
 0.0.0.0 ci1.googleusercontent.com
 0.0.0.0 ci2.googleusercontent.com
@@ -280,6 +282,7 @@
 0.0.0.0 forms.gle
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 g.co
+0.0.0.0 gae-nel-us-central.gcp.gvt2.com
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 gkeconnect.googleapis.com
@@ -321,6 +324,7 @@
 0.0.0.0 lh5.googleusercontent.com
 0.0.0.0 lh6.googleusercontent.com
 0.0.0.0 linkhelp.clients.google.com
+0.0.0.0 linux2.googlerenewals.net
 0.0.0.0 logging.googleapis.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 mail-attachment.googleusercontent.com

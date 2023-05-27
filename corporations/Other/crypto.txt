@@ -1,0 +1,15 @@
+! Title: Crypto - Cyanic Hosts
+! Expires: 1 month
+! Description: A list of crypto domains.
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/corporations/Other/crypto.txt
+
+0.0.0.0 2miners.com
+0.0.0.0 am.coinbase.com
+0.0.0.0 app.cryptcoinwallet.com
+0.0.0.0 assets.coinbase.com
+0.0.0.0 coinbase.com
+0.0.0.0 coindesk.com
+0.0.0.0 cryptcoinwallet.com
+0.0.0.0 custody.coinbase.com
+0.0.0.0 ethermine.org

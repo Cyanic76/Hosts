@@ -26,6 +26,7 @@
 0.0.0.0 ereg.adobe.com
 0.0.0.0 ereg.wip3.adobe.com
 0.0.0.0 geo.adobe.com
+0.0.0.0 getadobeflashdownloader.proxydns.com
 0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 hlrcv.stage.adobe.com
 0.0.0.0 ic.adobe.io

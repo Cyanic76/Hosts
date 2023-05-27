@@ -9,6 +9,8 @@
 0.0.0.0 app.mcafee.com
 0.0.0.0 cloud.gti.mcafee.com
 0.0.0.0 context-enroll.ccs.mcafee.com
+0.0.0.0 dns-a.mcafee.com
+0.0.0.0 dns-b.mcafee.com
 0.0.0.0 einstein-core.awscommon.mcafee.com
 0.0.0.0 gns.ccs.mcafee.com
 0.0.0.0 home.mcafee.com

@@ -88,8 +88,11 @@
 0.0.0.0 device-control.ff.avast.com
 0.0.0.0 feed.ff.avast.com
 0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ipmcdn.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 ncc.avast.com
 0.0.0.0 shepherd.db.avast.com
+0.0.0.0 shepherd.ff.avast.com
 0.0.0.0 streamback.ff.avast.com
 0.0.0.0 t.appsflyer.com
 # will add more later

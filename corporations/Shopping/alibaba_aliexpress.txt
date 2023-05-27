@@ -49,6 +49,8 @@
 0.0.0.0 m.alibaba.com
 0.0.0.0 moduleanalysis.aliexpress.com
 0.0.0.0 na61-na62.wagbridge.alibaba.tanx.com
+0.0.0.0 ns1.alibabadns.com
+0.0.0.0 ns2.alibabadns.com
 0.0.0.0 passport.alipay.com
 0.0.0.0 phs.tanx.com
 0.0.0.0 promotion.aliexpress.com

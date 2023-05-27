@@ -13,6 +13,10 @@
 0.0.0.0 feedback.ebay.com
 0.0.0.0 givingworks.ebay.com
 0.0.0.0 le.corp.ebay.com
+0.0.0.0 ns01.ebaydns.com
+0.0.0.0 ns02.ebaydns.com
+0.0.0.0 ns03.ebaydns.com
+0.0.0.0 ns04.ebaydns.com
 0.0.0.0 ocsnext.ebay.com.sg
 0.0.0.0 pages.ebay.ca
 0.0.0.0 pages.ebay.com

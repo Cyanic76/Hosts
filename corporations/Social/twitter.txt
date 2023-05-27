@@ -4,14 +4,20 @@
 ! Homepage: https://hosts.cyanic.me
 ! Source: https://hosts.cyanic.me/corporations/Social/twitter.txt
 
+0.0.0.0 a.r06.twtrdns.com
+0.0.0.0 a.u06.twtrdns.com
 0.0.0.0 about.twitter.com
 0.0.0.0 abs.twimg.com
 0.0.0.0 abs-0.twimg.com
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 api.twitter.com
+0.0.0.0 b.r06.twtrdns.com
+0.0.0.0 b.u06.twtrdns.com
 0.0.0.0 blog.twitter.com
 0.0.0.0 business.twitter.com
+0.0.0.0 c.r06.twtrdns.com
+0.0.0.0 c.u06.twtrdns.com
 0.0.0.0 careers.twitter.com
 0.0.0.0 cdn.cms-twdigitalassets.com
 0.0.0.0 cdn.syndication.twimg.com
@@ -19,6 +25,8 @@
 0.0.0.0 create.twitter.com
 0.0.0.0 cs41.wac.edgecastcdn.net
 0.0.0.0 cs510.wpc.edgecastcdn.net
+0.0.0.0 d.r06.twtrdns.com
+0.0.0.0 d.u06.twtrdns.com
 0.0.0.0 dev.twitter.com
 0.0.0.0 developer.twitter.com
 0.0.0.0 fonts.twitter.com
