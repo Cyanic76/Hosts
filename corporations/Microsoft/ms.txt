@@ -328,6 +328,10 @@
 0.0.0.0 openvsxorg.blob.core.windows.net
 0.0.0.0 usseu1northprod.blob.core.windows.net
 
+# ================> CONTOSO
+0.0.0.0 contoso.com
+# Owned by Microsoft, redirects (HTTP 301 method) to microsoft.com
+
 # ================> WINDOWS.COM
 0.0.0.0 activity.windows.com
 0.0.0.0 adl.windows.com
@@ -391,6 +395,7 @@
 0.0.0.0 companymanager.microsoftonline.com
 0.0.0.0 device.login.microsoftonline.com
 0.0.0.0 login.microsoftonline.com
+0.0.0.0 login.microsoftonline.us
 0.0.0.0 logincert.microsoftonline.com
 0.0.0.0 loginex.microsoftonline.com
 0.0.0.0 login-us.microsoftonline.com

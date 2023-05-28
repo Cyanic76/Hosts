@@ -1,0 +1,7 @@
+! Title: Cyanic's Hosts list
+! Expires: 1 week
+! Description: Block everything. Includes Google, Microsoft and more!
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/allhosts.txt
+
+# There may be duplicates.

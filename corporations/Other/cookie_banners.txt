@@ -38,6 +38,8 @@
 0.0.0.0 id.rlcdn.com
 0.0.0.0 js.hs-banner.com
 0.0.0.0 js.hs-scripts.com
+0.0.0.0 log.uniconsent.mgr.consensu.org
+0.0.0.0 marfeel.mgr.consensu.org
 0.0.0.0 prefmgr-cookie.truste-svc.net
 0.0.0.0 privacy-center.org
 0.0.0.0 quantcast.mgr.consensu.org

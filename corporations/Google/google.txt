@@ -288,7 +288,9 @@
 0.0.0.0 gkeconnect.googleapis.com
 0.0.0.0 gkehub.googleapis.com
 0.0.0.0 gnpfesdk-pa.googleapis.com
+0.0.0.0 goo.gl
 0.0.0.0 google-analytics.com
+0.0.0.0 google.qualtrics.com
 0.0.0.0 googleaccountservices.com
 0.0.0.0 googleacquisitionmigration.com
 0.0.0.0 googleartproject.com
@@ -300,12 +302,14 @@
 0.0.0.0 googletagservices.com
 0.0.0.0 googleusercontent.com
 0.0.0.0 googleweather.infogooglewifi.com
+0.0.0.0 gq.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gz0.googleusercontent.com
 0.0.0.0 hangouts.chat.services.gearboxsoftware.com
 0.0.0.0 iamcredentials.googleapis.com
 0.0.0.0 id.google.com
+0.0.0.0 id.google.com.tr
 0.0.0.0 imap.gmail.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 img1.blogblog.com
@@ -338,6 +342,7 @@
 0.0.0.0 mobilecrashreporting.googleapis.com
 0.0.0.0 mobilemaps.googleapis.com
 0.0.0.0 mobilemaps-pa-gz.googleapis.com
+0.0.0.0 mobilenetworkscoring-pa.googleapis.com
 0.0.0.0 mobile-gtalk.l.google.com
 0.0.0.0 monitoring.googleapis.com
 0.0.0.0 mtalk.google.com

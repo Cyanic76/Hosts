@@ -10,6 +10,7 @@
 0.0.0.0 auth.leboncoin.fr
 0.0.0.0 dd.leboncoin.fr
 0.0.0.0 img.leboncoin.fr
+0.0.0.0 mobile.leboncoin.fr
 0.0.0.0 proxytile-1.leboncoin.fr
 0.0.0.0 proxytile-2.leboncoin.fr
 0.0.0.0 proxytile-3.leboncoin.fr

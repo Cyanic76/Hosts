@@ -4,6 +4,9 @@
 ! Homepage: https://hosts.cyanic.me
 ! Source: https://hosts.cyanic.me/unknown.txt
 
+# This list isn't included in the allhosts.txt file.
+# Use it at your own risk.
+
 0.0.0.0 dns1.p06.nsone.net
 0.0.0.0 dns2.p06.nsone.net
 0.0.0.0 dns3.p06.nsone.net

@@ -5,8 +5,9 @@
 ! Source: https://hosts.cyanic.me/cyanicHosts.txt
 
 # Website not working? Open an issue at https://codeberg.org/Cyanic76/Hosts
-# Available at https://hosts.cyanic.me/cyanicHosts.txt for short.
-# Entirely block a corporation by adding a file from the corporations/ folder.
+# The main file is available at https://hosts.cyanic.me/cyanicHosts.txt.
+# -> Entirely block a corporation by adding a file from the corporations/ folder.
+# -> Block every single domain by adding the allhosts.txt.
 
 # More domains at the bottom of this list!
 
@@ -78,6 +79,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 id.rlcdn.com
 0.0.0.0 js.hs-banner.com
 0.0.0.0 js.hs-scripts.com
+0.0.0.0 log.uniconsent.mgr.consensu.org
+0.0.0.0 marfeel.mgr.consensu.org
 0.0.0.0 prefmgr-cookie.truste-svc.net
 0.0.0.0 privacy-center.org
 0.0.0.0 quantcast.mgr.consensu.org
@@ -99,6 +102,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bugsnag.com
 0.0.0.0 disney.my.sentry.io
 0.0.0.0 docs.bugsnag.com
+0.0.0.0 ingest.sentry.io
 0.0.0.0 o56819.ingest.sentry.io
 
 # ================================== FACEBOOK
@@ -120,6 +124,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 facebookads.gafin.vn
 0.0.0.0 fcd32f50e80-qonnvwqa1640495824-sonar.xz.fbcdn.net
 0.0.0.0 graph.facebook.com
+0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 mqtt.c10r.facebook.com
 0.0.0.0 pixel.facebook.com
 0.0.0.0 unblockfacebook.co.uk
 
@@ -148,6 +154,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 google-analytics.com
+0.0.0.0 google.qualtrics.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleoptimize.com
@@ -164,6 +171,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 meshtelemetry.googleapis.com
 0.0.0.0 mobilecrashreporting.googleapis.com
+0.0.0.0 mobilenetworkscoring-pa.googleapis.com
 0.0.0.0 monitoring.googleapis.com
 0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 pagead2.googleadservices.com
@@ -328,10 +336,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 f1.g.mi.com
 0.0.0.0 file.market.xiaomi.com
 0.0.0.0 game.xiaomi.com
+0.0.0.0 geofence.sys.miui.com
+0.0.0.0 global.search.xiaomi.net
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
+0.0.0.0 marfeel.mgr.consensu.org
+0.0.0.0 mazu.sec.miui.com
+0.0.0.0 metok.sys.miui.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.data.hicloud.com
 0.0.0.0 metrics1.data.hicloud.com
@@ -342,6 +355,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics.ubuntu.com
+0.0.0.0 micardapi.micloud.xiaomi.net
+0.0.0.0 mis.migc.xiaomi.com
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 samsungads.com
@@ -453,6 +468,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.sun.com
 0.0.0.0 ads.talkbusiness.net
+0.0.0.0 ads.tiktok.com
 0.0.0.0 ads.virtalize.tv
 0.0.0.0 ads.youtube.com
 0.0.0.0 adservetx.media.net
@@ -563,11 +579,32 @@ ff02::3 ip6-allhosts
 0.0.0.0 g.ezoic.net
 0.0.0.0 g.skimresources.com
 0.0.0.0 geocdn.unityads.unity3d.com
+0.0.0.0 geo-applefinance-cache.internal.query.g03.yahoodns.net
+0.0.0.0 geoip.maxmind.com
+0.0.0.0 geoip.nekudo.com
+0.0.0.0 geoip.tnt-ea.com
+0.0.0.0 georiot.com
+0.0.0.0 geshopcss.logsss.com
+0.0.0.0 gsp1.apple.com
+0.0.0.0 gtp1.gtp.izatcloud.net
+0.0.0.0 gtp1.izatcloud.net
+0.0.0.0 gtp2.izatcloud.net
+0.0.0.0 gtpa1.izatcloud.net
+0.0.0.0 gtpc1.izatcloud.net
+0.0.0.0 gtpcn.izatcloud.net
+0.0.0.0 gtpcn1.izatcloud.net
+0.0.0.0 gtssl2-ocsp.geotrust.com
+0.0.0.0 guce.advertising.com
+0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 hb.beop.io
 0.0.0.0 hb.vntsm.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbopenbid22000nf.pubmatic.com
+0.0.0.0 hhbekxxw5d9e.pflexads.com
+0.0.0.0 hybl9bazbc35.pflexads.com
 0.0.0.0 iab-imp-gateway.supersonicads.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 iadsdk.apple.com.edgekey.net
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ib.adnxs-simple.com
 0.0.0.0 ib.a-mx.com
@@ -575,11 +612,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 ice.360yield.com
 0.0.0.0 ie1-bid.adsrvr.org
 0.0.0.0 image8.pubmatic.com
+0.0.0.0 images.adrise.tv
+0.0.0.0 images.parsely.com
+0.0.0.0 images02.adrise.tv
 0.0.0.0 imagesync-lhr.pubmatic.com
+0.0.0.0 img1.sj.qq.com
+0.0.0.0 img2.user.kanimg.com
+0.0.0.0 imp.appledaily.com
 0.0.0.0 impression.nend.net
 0.0.0.0 imt-game-gs.azurewebsites.net
 0.0.0.0 in-automate.sendinblue.com
 0.0.0.0 init.supersonicads.com
+0.0.0.0 info.izatcloud.net
+0.0.0.0 infowars.com
 0.0.0.0 inmobi.com
 0.0.0.0 inmobi.cn # insert pikachu face
 0.0.0.0 inmobi.net
@@ -607,6 +652,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 moatads.com
 0.0.0.0 mopub-win-us-east.bksn.se
 0.0.0.0 mwzeom.zeotap.com
+0.0.0.0 myad.vn
 0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 0.0.0.0 odr.mookie1.com
 0.0.0.0 onetag-sys.com
@@ -772,9 +818,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 graph.facebook.com
 0.0.0.0 gvl.ezodn.com
 0.0.0.0 hl2rcv.adobe.com
+0.0.0.0 hlrcv.stage.adobe.com
+0.0.0.0 hosted.where2getit.com
 0.0.0.0 hotjar.com
 0.0.0.0 i.click.taobao.com
+0.0.0.0 i.cmpnet.com
 0.0.0.0 i.haloapps.com
+0.0.0.0 i.loli.net
+0.0.0.0 i.pcbeta.com
+0.0.0.0 i.skimresources.com
 0.0.0.0 ia.51.la
 0.0.0.0 iap-pay-dre.cloud.huawei.eu
 0.0.0.0 icons.batch.com
@@ -986,7 +1038,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 geo.prod.do.dsp.trafficmanager.net
 0.0.0.0 geoissuer.cardinalcommerce.com
 0.0.0.0 geolocation.onetrust.com
+0.0.0.0 go.leanplum.com
+0.0.0.0 go.redirectingat.com
 0.0.0.0 go.skimresources.com
+0.0.0.0 go.trafficrouter.io
+0.0.0.0 go.trouter.io
+0.0.0.0 goatcounter.com
 0.0.0.0 goutee.top
 0.0.0.0 green.erne.co
 0.0.0.0 gtp1.gtp.izatcloud.net
@@ -1007,27 +1064,47 @@ ff02::3 ip6-allhosts
 0.0.0.0 hub2.com.pl
 0.0.0.0 idrs.adtelligent.com
 0.0.0.0 img.3lift.com
+0.0.0.0 in.hotjar.com
+0.0.0.0 inapcache.boston.com
 0.0.0.0 insight.adsrvr.org
+0.0.0.0 insights.hotjar.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 invalid.follow-apps.com
 0.0.0.0 inventory-weighted.hyprmx.com
 0.0.0.0 io1.eulerian.net
+0.0.0.0 ip-api.com
+0.0.0.0 ipapi.co
+0.0.0.0 ipinfo.io
+0.0.0.0 ipv4.icanhazip.com
+0.0.0.0 ipv6.he.net
 0.0.0.0 iriscoremetadataprod.blob.core.windows.net
 0.0.0.0 isso.ps
+0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hs-banner.com
+0.0.0.0 js.hsforms.net
+0.0.0.0 js.maxmind.com
 0.0.0.0 js-na1.hs-scripts.com
+0.0.0.0 js.pusher.com
+0.0.0.0 js-sec.indexww.com
+0.0.0.0 js.sentry-cdn.com
+0.0.0.0 js.stripe.com
 0.0.0.0 kwebstat.videostep.com
 0.0.0.0 kwebstat4.videostep.com
 0.0.0.0 kyo7.supdepub.com
 0.0.0.0 lancel.commander1.com
+0.0.0.0 lcdn-locator-usnkq.apple.com.akadns.net
+0.0.0.0 lcdn-locator.apple.com.akadns.net
 0.0.0.0 le-monde-ams.gscontxt.net
 0.0.0.0 libs.coremetrix.com
 0.0.0.0 lmhorse.se
 0.0.0.0 log.pinterest.com
+0.0.0.0 log-upload-os.mihoyo.com
+0.0.0.0 logs.heroku.com
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 m.castle.io
 0.0.0.0 m.csqtrk.net
+0.0.0.0 m.quantserve.com
 0.0.0.0 m1e.net
 0.0.0.0 madinad.com
 0.0.0.0 manager.tagcommander.com
@@ -1037,10 +1114,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 mesure.streaming.estat.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.brightcove.com
+0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics.ubuntu.com
 0.0.0.0 mobile-production.content-square.net
+0.0.0.0 mqtt.pushy.me
 0.0.0.0 mypic.icu
 0.0.0.0 newscloud.or.kr
 0.0.0.0 nrs-group.com

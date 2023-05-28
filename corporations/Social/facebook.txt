@@ -90,6 +90,8 @@
 0.0.0.0 instagram.c10r.facebook.com
 0.0.0.0 instagram.com
 0.0.0.0 l.facebook.com
+0.0.0.0 lithium.facebook.com
+0.0.0.0 lm.facebook.com
 0.0.0.0 lookaside.facebook.com
 0.0.0.0 kaios-d.facebook.com
 0.0.0.0 m.facebook.com
