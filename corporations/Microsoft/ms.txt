@@ -416,6 +416,7 @@
 0.0.0.0 help.ui.xboxlive.com
 0.0.0.0 lfghub-anonymous.xboxlive.com
 0.0.0.0 licensing.xboxlive.com
+0.0.0.0 news.xbox.com
 0.0.0.0 notify.xboxlive.com
 0.0.0.0 profile.xboxlive.com
 0.0.0.0 title.auth.xboxlive.com

@@ -653,6 +653,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 mopub-win-us-east.bksn.se
 0.0.0.0 mwzeom.zeotap.com
 0.0.0.0 myad.vn
+0.0.0.0 network.bazaarvoice.com
+0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 0.0.0.0 odr.mookie1.com
 0.0.0.0 onetag-sys.com
@@ -853,6 +855,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mouseflow.com
 0.0.0.0 mvconf.uk.cloud.360safe.com
+0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 ni500z.btttag.com
 0.0.0.0 nimbus-irl.bromium-online.com
 0.0.0.0 nimbus-nvi.bromium-online.com
@@ -861,6 +864,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ns6.pinterest.com
 0.0.0.0 ns9.pinterest.com
 0.0.0.0 ns10.pinterest.com
+0.0.0.0 opera-mini.net
+0.0.0.0 opera.software 
 0.0.0.0 optimizely.com
 0.0.0.0 parsely.com
 0.0.0.0 pbc.hubvisor.io
@@ -1124,6 +1129,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 newscloud.or.kr
 0.0.0.0 nrs-group.com
 0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 o.skimresources.com
 0.0.0.0 over.net
 0.0.0.0 p.adlooxtracking.com
 0.0.0.0 pantip.com
