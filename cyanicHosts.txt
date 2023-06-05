@@ -155,6 +155,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 big.g.doubleclick.net
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 chrome.google.com
+0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 consent-analytics.googleapis.com
 0.0.0.0 consent-analyticsinsights-pa.googleapis.com
@@ -169,15 +170,26 @@ ff02::3 ip6-allhosts
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 google-analytics-cn.com
 0.0.0.0 google-analytics.com
 0.0.0.0 google.qualtrics.com
-0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadapis.l.google.com
+0.0.0.0 googleads-cn.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads.github.io
 0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 googleadservices-cn.com
+0.0.0.0 googleadservices.com
+0.0.0.0 googleadsserving.cn
+0.0.0.0 googleailesi.com
+0.0.0.0 googleanalytcs.com
+0.0.0.0 googleoptimize-cn.com
 0.0.0.0 googleoptimize.com
 0.0.0.0 googlesyndication.com
+0.0.0.0 googletagmanager-cn.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
+0.0.0.0 googlevads-cn.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 history.google.com
@@ -223,6 +235,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 tg-in-f188.1e100.net
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tracking.admobsphere.com
+0.0.0.0 trakksocial.googlecode.com
+0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 wa-in-f188.1e100.net
 0.0.0.0 wl-in-f188.1e100.net
 0.0.0.0 wq-in-f188.1e100.net
@@ -245,8 +259,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 telemetry.malwarebytes.com
 
 # ================================== MICROSOFT
+0.0.0.0 apac.events.data.microsoft.com
 0.0.0.0 arc.msn.com
 0.0.0.0 browser.events.data.microsoft.com
+0.0.0.0 cac-visio-telemetry.officeapps.live.com
 0.0.0.0 checkappexec.microsoft.com
 0.0.0.0 click.email.office.com
 0.0.0.0 click.engage.xbox.com
@@ -261,6 +277,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 pipe.aria.microsoft.com
+0.0.0.0 ppc-onenote-telemetry.officeapps.live.com
 0.0.0.0	self.events.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 slscr.update.microsoft.com
@@ -1160,6 +1177,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 logs.heroku.com
 0.0.0.0 logs.ironsrc.mobi
+0.0.0.0 log.pinterest.com
 0.0.0.0 m.castle.io
 0.0.0.0 m.csqtrk.net
 0.0.0.0 m.quantserve.com
@@ -1176,6 +1194,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics.ubuntu.com
+0.0.0.0 mobile-campaigns.avast.com
 0.0.0.0 mobile-production.content-square.net
 0.0.0.0 mqtt.pushy.me
 0.0.0.0 mypic.icu
@@ -1273,6 +1292,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trackonomics.com
 0.0.0.0 travelncs.com
 0.0.0.0 trk.pinterest.com
+0.0.0.0 trk2.pinterest.com
 0.0.0.0 tzwaw.pw
 0.0.0.0 u.4dex.io
 0.0.0.0 udc.yahoo.com

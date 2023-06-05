@@ -74,6 +74,7 @@
 0.0.0.0 c1-word-15.cdn.office.net
 0.0.0.0 c1h-excel-15.cdn.office.net
 0.0.0.0 c1h-word-15.cdn.office.net
+0.0.0.0 cac-visio-telemetry.officeapps.live.com
 0.0.0.0 cdn.odc.officeapps.live.com
 0.0.0.0 cdn.onenote.net
 0.0.0.0 cdn.onenote.net.edgekey.net
@@ -167,6 +168,7 @@
 0.0.0.0 partnerservices.getmicrosoftkey.com
 0.0.0.0 peoplegraph.firstpartyapps.oaspapps.com
 0.0.0.0 platform.linkedin.com
+0.0.0.0 ppc-onenote-telemetry.officeapps.live.com
 0.0.0.0 pptsgs.officeapps.live.com
 0.0.0.0 prod.firstpartyapps.oaspapps.com.akadns.net
 0.0.0.0 prod.msocdn.com

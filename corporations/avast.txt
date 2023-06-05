@@ -90,6 +90,7 @@
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipmcdn.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 mobile-campaigns.avast.com
 0.0.0.0 ncc.avast.com
 0.0.0.0 shepherd.db.avast.com
 0.0.0.0 shepherd.ff.avast.com
