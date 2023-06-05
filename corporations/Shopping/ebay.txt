@@ -9,6 +9,7 @@
 0.0.0.0 community.ebay.com
 0.0.0.0 community.ebay.com.au
 0.0.0.0 developer.ebay.com
+0.0.0.0 ebay.doubleclick.net
 0.0.0.0 export.ebay.com
 0.0.0.0 feedback.ebay.com
 0.0.0.0 givingworks.ebay.com

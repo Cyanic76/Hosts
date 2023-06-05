@@ -22,6 +22,7 @@
 0.0.0.0 cdn.cms-twdigitalassets.com
 0.0.0.0 cdn.syndication.twimg.com
 0.0.0.0 cdn.syndication.twitter.com
+0.0.0.0 crashlytics.twimg.com
 0.0.0.0 create.twitter.com
 0.0.0.0 cs41.wac.edgecastcdn.net
 0.0.0.0 cs510.wpc.edgecastcdn.net

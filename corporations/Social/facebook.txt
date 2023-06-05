@@ -84,6 +84,9 @@
 0.0.0.0 fcd32f50e80-qonnvwqa1640495824-sonar.xz.fbcdn.net
 0.0.0.0 free.facebook.com
 0.0.0.0 graph.facebook.com
+0.0.0.0 graph.facebook-hardware.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 graph.oculus.com
 0.0.0.0 h.beta.facebook.com
 0.0.0.0 h.facebook.com
 0.0.0.0 hacking-facebook.com

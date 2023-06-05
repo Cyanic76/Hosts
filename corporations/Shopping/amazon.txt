@@ -32,6 +32,7 @@
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.media-amazon.com
 0.0.0.0 catalyst.amazon.com
+0.0.0.0 certify-js.alexametrics.com
 #0.0.0.0 completion.amazon.*
 0.0.0.0 data.alexa.com
 0.0.0.0 developer.amazon.com

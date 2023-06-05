@@ -130,23 +130,39 @@ ff02::3 ip6-allhosts
 0.0.0.0 unblockfacebook.co.uk
 
 # ================================== GOOGLE
-# Note that other subdomains and domains may be
-# under other categories and in other files.
+# Note that other subdomains and domains may be under other categories and in other files.
+0.0.0.0 0.fls.doubleclick.net
 0.0.0.0 300zlf-dnsotls-ds.metric.gstatic.com
 0.0.0.0 3cbc684bb9f2dcdd3a3794de9de52f63.safeframe.googlesyndication.com
+0.0.0.0 a.admob.com
+0.0.0.0 ad-ace.doubleclick.net
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 ad.mo.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 admob.com.akadns.net
+0.0.0.0 admob-creative.googleusercontent.com
 0.0.0.0 admob.google.com
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.br
+0.0.0.0 adservices.google.com
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
+0.0.0.0 analytics.admob.com
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 big.g.doubleclick.net
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 chrome.google.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 consent-analytics.googleapis.com
 0.0.0.0 consent-analyticsinsights-pa.googleapis.com
+0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 doubleclick.net
+0.0.0.0 doubleclickbygoogle.com
+0.0.0.0 ebay.doubleclick.net
 0.0.0.0 fb50436e04f648465c9ba6a8892caa86.safeframe.googlesyndication.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
@@ -156,6 +172,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 google-analytics.com
 0.0.0.0 google.qualtrics.com
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleoptimize.com
 0.0.0.0 googlesyndication.com
@@ -164,9 +181,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 history.google.com
+0.0.0.0 imageads.googleadservices.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 marketingplatform.google.com
+0.0.0.0 media.admob.com
 0.0.0.0 media.fastclick.net
 0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 meshtelemetry.googleapis.com
@@ -174,8 +193,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobilenetworkscoring-pa.googleapis.com
 0.0.0.0 monitoring.googleapis.com
 0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 pagead1.googlesyndication.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead3.googlesyndication.com
+0.0.0.0 partner.googleadservices.com
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
@@ -183,8 +208,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.admobclick.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubsub.googleapis.com
+0.0.0.0 region1.analytics.google.com
 0.0.0.0 sa-in-f188.1e100.net
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 service.urchin.com
 0.0.0.0 serviceusage.googleapis.com
 0.0.0.0 signaler-pa.clients6.google.com
 0.0.0.0 settings.crashlytics.com
@@ -195,11 +222,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 tg-in-f188.1e100.net
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 tracking.admobsphere.com
 0.0.0.0 wa-in-f188.1e100.net
 0.0.0.0 wl-in-f188.1e100.net
 0.0.0.0 wq-in-f188.1e100.net
+0.0.0.0 www.admob.com.akadns.net
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 
@@ -224,11 +254,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 co4.telecommand.telemetry.microsoft.com.akadns.net
 0.0.0.0 edgetipscdn.microsoft.com
 0.0.0.0 eu-office.events.data.microsoft.com
+0.0.0.0 events.data.microsoft.com
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
+0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0	self.events.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 slscr.update.microsoft.com
@@ -299,6 +331,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.samsungads.com
 0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 ad.xiaomi.com
+0.0.0.0 admob.xiaomi.com
 0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.samsung.com
 0.0.0.0 adv.sec.miui.com
@@ -306,6 +339,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.samsungknox.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.admob.xiaomi.com
 0.0.0.0 api.chat.xiaomi.net
 0.0.0.0 api.comm.miui.com
 0.0.0.0 api.devices.miui.com
@@ -481,12 +515,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 adtilt.com
 0.0.0.0 advil.waze.com
 0.0.0.0 adx.adform.net
+0.0.0.0 aidps.atdmt.com
 0.0.0.0 ams3-ib.adnxs.com
 0.0.0.0 api.adinplay.com
+0.0.0.0 api.bytegle.tech
 0.0.0.0 api.taboola.com
 0.0.0.0 applovin.com
 0.0.0.0 applvn.com
+0.0.0.0 apps5.oingo.com
 0.0.0.0 apps-ios.crashlytics.com
+0.0.0.0 atdmt.com
 0.0.0.0 auiopt.unityads.unity3d.com
 0.0.0.0 b1h.zemanta.com
 0.0.0.0 b1sync.zemanta.com
@@ -496,6 +534,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 buysellads.com
 0.0.0.0 buy.geni.us
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 c.atdmt.com
 0.0.0.0 c1.nend.net
 0.0.0.0 carbonads.com
 0.0.0.0 casinoimages.blob.core.windows.net
@@ -503,8 +542,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 cbs.taboola.com
 0.0.0.0 cdn.adgtw.orangeads.fr
 0.0.0.0 cdn.adpushup.com
-0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cdn.adrise.tv
+0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 cdn.atdmt.com
 0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
 0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
 0.0.0.0 cdn-creatives-prd.unityads.unity3d.com
@@ -537,6 +577,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 cs-rtb.minutemedia-prebid.com
 0.0.0.0 d5p.de17a.com
 0.0.0.0 data.ad-score.com
+0.0.0.0 db3aqu.atdmt.com
+0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 de1-bid.adsrvr.org
 0.0.0.0 deliverlog-api.maio.jp
 0.0.0.0 delivery.adrecover.com
@@ -559,6 +601,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dvr.impactify.io
 0.0.0.0 e1.emxdgt.com
 0.0.0.0 eb2.3lift.com
+0.0.0.0 ec.atdmt.com
 0.0.0.0 emxdgt.com
 0.0.0.0 eu-eb2.3lift.com
 0.0.0.0 eu-tlx.3lift.com
@@ -756,6 +799,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ak.c.ooyala.com
 0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 api.ebay-kleinanzeigen.de
+0.0.0.0 appodeal.com
 0.0.0.0 assets.pinterest.com
 0.0.0.0 avatars.mds.yandex.net
 0.0.0.0 b1-eudc1.zemanta.com
@@ -936,6 +980,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api-hotjar.com
 0.0.0.0 api-sdk.datadome.co
 0.0.0.0 app.adjust.com
+0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 app-measurement.com
 0.0.0.0 apptimize.com
 0.0.0.0 apps-ios.crashlytics.com
@@ -981,6 +1026,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.snigelweb.com
 0.0.0.0 cdn.statically.io
 0.0.0.0 cdn.wazimo.com
+0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 chat.missena.io
 0.0.0.0 check.analytics.rlcdn.com
 0.0.0.0 click.linksynergy.com
@@ -1002,6 +1048,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 countess.twitch.tv
 0.0.0.0 cp76677.edgefcs.net
 0.0.0.0 cpro.baidu.cn
+0.0.0.0 crashlytics.163.com
+0.0.0.0 crashlytics.com
+0.0.0.0 crashlytics.twimg.com
 0.0.0.0 crbcdn.jsfiddle.net
 0.0.0.0 crunchyroll.adtrackers.net
 0.0.0.0 crunchyroll.bannertrack.net
@@ -1014,6 +1063,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dmxleo.com
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dzc-metrics.mzstatic.com
+0.0.0.0 e.crashlytics.com
 0.0.0.0 e1151.e12.akamaiedge.net
 0.0.0.0 e16973.a.akamaiedge.net
 0.0.0.0 e3843.g.akamaiedge.net
@@ -1050,6 +1100,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 go.trouter.io
 0.0.0.0 goatcounter.com
 0.0.0.0 goutee.top
+0.0.0.0 graph.facebook-hardware.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 graph.oculus.com
 0.0.0.0 green.erne.co
 0.0.0.0 gtp1.gtp.izatcloud.net
 0.0.0.0 gtp1.izatcloud.net
@@ -1159,6 +1212,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qualtrics.com
 0.0.0.0 quantserve.com
 0.0.0.0 region1.app-measurement.com
+0.0.0.0 reports.crashlytics.com
 0.0.0.0 robwu.nl
 0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 rules.quantcount.com
@@ -1173,6 +1227,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sdk-diagnostics.prd.mz.internal.unity3d.com
 0.0.0.0 sdk.out.usbla.net
 0.0.0.0 secure.quantserve.com
+0.0.0.0 settings.crashlytics.com
 0.0.0.0 skimresources.com
 0.0.0.0 smetrics.fnac.com
 0.0.0.0 smetrics.ni.com
