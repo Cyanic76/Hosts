@@ -21,8 +21,8 @@ pipeline:
       - cd Hosts
       - cat assets/allhosts_template.txt >> allhosts.txt
       - cat cyanicHosts.txt | grep -E '^0.0.0.0.*$' >> allhosts.txt
-      - cd corporations
-      - find . -type f -exec cat {} + >> ../allhosts.txt
+      - cat kind/* | grep -E '^0.0.0.0.*$' >> allhosts.txt
+      - cd corporations && find . -type f -exec cat {} + >> ../allhosts.txt
       - cd ..
       # Commit the file
       - git add allhosts.txt
@@ -32,5 +32,5 @@ pipeline:
     when:
       branch: pages
       path:
-        include: [ '.woodpecker/*.yml', 'cyanicHosts.txt', 'corporations/*.txt', 'corporations/*/*.txt' ]
-        exclude: [ 'README.md', 'LICENSE*', '*.md', 'index.html' ]
+        include: [ 'cyanicHosts.txt', 'corporations/*.txt', 'corporations/*/*.txt', 'kind/*.txt' ]
+        exclude: [ 'LICENSE*', '*.md', 'index.html', 'assets/*' ]
