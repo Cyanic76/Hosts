@@ -51,6 +51,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.delivery.consentmanager.net
 0.0.0.0 captify.mgr.consensu.org
 0.0.0.0 ccpa.sp-prod.net
+0.0.0.0 cdn-au.onetrust.com
 0.0.0.0 cdn.conversant.mgr.consensu.org
 0.0.0.0 cdn-privacy-mgmt.com
 0.0.0.0 cdn.privacy-mgmt.com
@@ -699,6 +700,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 js.ad-score.com
 0.0.0.0 js-agent.newrelic.com
+0.0.0.0 linktr.ee
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 mb9eo.publishers.tremorhub.com
 0.0.0.0 m.servedby-buysellads.com
@@ -1242,6 +1244,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sc386.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 scorecardresearch.com
+0.0.0.0 script.tapfiliate.com
 0.0.0.0 scroll.com
 0.0.0.0 sdk-diagnostics.prd.mz.internal.unity3d.com
 0.0.0.0 sdk.out.usbla.net

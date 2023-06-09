@@ -487,6 +487,7 @@
 0.0.0.0 signaler-pa.clients4.google.com
 0.0.0.0 signaler-pa.clients5.google.com
 0.0.0.0 signaler-pa.clients6.google.com
+0.0.0.0 slides.new
 0.0.0.0 smartlock.google.com
 0.0.0.0 smtp.gmail.com
 0.0.0.0 smtp.google.com

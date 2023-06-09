@@ -1,26 +1,40 @@
-# Cyanic's Hosts lists
+<center>
+  <img src="assets/banner.png">
+  <br>
+  Block those unnecessary connections to ads, telemetry and companies you don't like.
+  <br><br>
+  <img src="https://img.shields.io/badge/-Codeberg%20Pages-339933?style=flat&logo=javascript&logoColor=white&label=Hosted%20on">
+  <img src="https://img.shields.io/badge/-MIT-333333?style=flat&label=License">
+</center>
 
-All my hosts lists for you to add to your adblocker.
+---
 
-## Use the main hosts list
+The **main list**, `https://hosts.cyanic.me/cyanicHosts.txt`, includes 1400+ telemetry, advertisements, annoyances and unnecessary hosts. Get rid of them: add it to your adblock (like Pi-Hole or AdAway).
 
-Add `https://hosts.cyanic.me/cyanicHosts.txt` to your adblock (like Pi-Hole or AdAway). All of the requests that are made to the specified domains will be redirected to 0.0.0.0 (nowhere).
+**NEW!** I've started a [cookie banners](https://hosts.cyanic.me/corporations/Other/cookie_banners.txt) hosts list.
 
-## Choose what you want to block
+# You choose what to block
 
-The goal is to [block standard ad and tracker domains](https://hosts.cyanic.me/cyanicHosts.txt) and [if you want to block corporations](https://codeberg.org/Cyanic76/Hosts/issues/1), you choose what you want/need to block.
+Block corporations **as you like**. There's **32** files for you to choose from.
 
-See [Block everything](https://codeberg.org/Cyanic76/Hosts/wiki/All-in-one) for more.
+# What's **next**?
 
-## What's coming next?
+- **Lists**
+  - Annoyances
+  - Canon
+  - Google's AMP
+  - iAdvize
+  - Oracle
+  - Stripe
+  - WhatsApp
 
 **Request new hosts**! [Contribute](https://codeberg.org/Cyanic76/Hosts/wiki/Contributing) to this project.
 
-**See the Gitignore file**. It's right [here](https://codeberg.org/Cyanic76/Hosts/src/branch/pages/.gitignore) and it has hints to future lists.
+---
 
-## Legal
+### Legal
 
-I am not liable for any damage. Therefore, feel free to use [Issues](https://github.com/Cyanic76/Hosts/issues/new) to report problems. You are the only one responsible for using this list. This project is licensed under the MIT license.
+I am not liable for any damage. Therefore, feel free to use [Issues](https://github.com/Cyanic76/Hosts/issues/new) to report problems and broken websites. You are the only one responsible for using this list.
 
 ---
 Maintained by [Cyanic**76**](https://cyanic.me).
