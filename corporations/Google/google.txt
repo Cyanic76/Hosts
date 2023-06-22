@@ -140,6 +140,7 @@
 0.0.0.0 adwords.google.com
 0.0.0.0 afs.googleusercontent.com
 0.0.0.0 ajax.googleapis.com
+0.0.0.0 ajustes.crashlytics.com
 0.0.0.0 alt1.aspmx.l.google.com
 0.0.0.0 alt1-mtalk.google.com
 0.0.0.0 alt2.aspmx.l.google.com
@@ -148,6 +149,10 @@
 0.0.0.0 alt3-mtalk.google.com
 0.0.0.0 alt4.aspmx.l.google.com
 0.0.0.0 alt4-mtalk.google.com
+0.0.0.0 alt5-mtalk.google.com
+0.0.0.0 alt6-mtalk.google.com
+0.0.0.0 alt7-mtalk.google.com
+0.0.0.0 alt8-mtalk.google.com
 0.0.0.0 analytics.admob.com
 0.0.0.0 analyticsinsights-pa.googleapis.com
 0.0.0.0 analyticssearch-pa.googleapis.com
@@ -241,6 +246,7 @@
 0.0.0.0 cs.opensource.google
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csp.withgoogle.com
+0.0.0.0 dart.l.doubleclick.net
 0.0.0.0 datacompute.google.com
 0.0.0.0 design.google.com
 0.0.0.0 developer.chrome.com
@@ -348,6 +354,7 @@
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gz0.googleusercontent.com
 0.0.0.0 hangouts.chat.services.gearboxsoftware.com
+0.0.0.0 history.google.com
 0.0.0.0 iamcredentials.googleapis.com
 0.0.0.0 id.google.com
 0.0.0.0 id.google.com.tr
@@ -356,6 +363,7 @@
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 img1.blogblog.com
 0.0.0.0 infinitedata-pa.googleapis.com
+0.0.0.0 informes.crashlytics.com
 0.0.0.0 instantmessaging-pa.googleapis.com
 0.0.0.0 instantmessaging-pa-eu.googleapis.com
 0.0.0.0 jmt17.google.com
@@ -406,6 +414,7 @@
 0.0.0.0 mobile-gtalk.l.google.com
 0.0.0.0 monitoring.googleapis.com
 0.0.0.0 mtalk.google.com
+0.0.0.0 myphonenumbers-pa.googleapis.com
 0.0.0.0 newsstand.googleusercontent.com
 0.0.0.0 notifications-pa.googleapis.com
 0.0.0.0 ocsp.pki.goog
@@ -450,11 +459,13 @@
 0.0.0.0 play-fe.googleapis.com
 0.0.0.0 play-lh.googleusercontent.com
 0.0.0.0 play.googleapis.com
+0.0.0.0 playatoms-pa.googleapis.com
 0.0.0.0 playmoviesdfe-pa.googleapis.com
 0.0.0.0 plus.l.google.com
 0.0.0.0 podcastsmanager.google.com
 0.0.0.0 policies.google.com # Will prevent access to privacy policy, terms of use, etc
 0.0.0.0 pop.gmail.com
+0.0.0.0 privatestats.whatsapp.alt2-mtalk.google.com
 0.0.0.0 productforums.google.com
 0.0.0.0 pubsub.googleapis.com
 0.0.0.0 redirector.googlevideo.com

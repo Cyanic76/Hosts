@@ -162,6 +162,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 consent-analyticsinsights-pa.googleapis.com
 0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 dart.l.doubleclick.net
 0.0.0.0 doubleclick.net
 0.0.0.0 doubleclickbygoogle.com
 0.0.0.0 ebay.doubleclick.net
@@ -205,6 +206,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobilecrashreporting.googleapis.com
 0.0.0.0 mobilenetworkscoring-pa.googleapis.com
 0.0.0.0 monitoring.googleapis.com
+0.0.0.0 myphonenumbers-pa.googleapis.com
 0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.l.doubleclick.net
@@ -821,6 +823,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ak.c.ooyala.com
 0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 api.ebay-kleinanzeigen.de
+0.0.0.0 api-swype.swypeconnect.com
 0.0.0.0 appodeal.com
 0.0.0.0 assets.pinterest.com
 0.0.0.0 avatars.mds.yandex.net
@@ -981,6 +984,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.missena.io
 0.0.0.0 admdftjs.info
 0.0.0.0 adserv.info
+0.0.0.0 ajustes.crashlytics.com
 0.0.0.0 akm-static.ccmbg.com
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 analytics01.cisco.netacad.com
@@ -1147,6 +1151,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 img.3lift.com
 0.0.0.0 in.hotjar.com
 0.0.0.0 inapcache.boston.com
+0.0.0.0 informes.crashlytics.com
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insights.hotjar.com
 0.0.0.0 intake-analytics.wikimedia.org
