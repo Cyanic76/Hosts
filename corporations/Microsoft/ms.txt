@@ -88,6 +88,7 @@
 0.0.0.0 go.microsoft.com
 0.0.0.0 graph.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com
+0.0.0.0 i1.social.s-msft.com
 0.0.0.0 iecvlist.microsoft.com
 0.0.0.0 ieonlinews.microsoft.com
 0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
@@ -165,6 +166,7 @@
 0.0.0.0 wdcp.microsoft.com
 0.0.0.0 wdcpalt.microsoft.com
 0.0.0.0 wees.df.telemetry.microsoft.com
+0.0.0.0 widgets.membership.s-msft.com
 0.0.0.0 win.data.microsoft.com
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com

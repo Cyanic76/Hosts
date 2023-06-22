@@ -2,7 +2,7 @@
 ! Expires: 1 month
 ! Description: A list of cookie banners domains.
 ! Homepage: https://hosts.cyanic.me
-! Source: https://hosts.cyanic.me/corporations/Other/cookie_banners.txt
+! Source: https://hosts.cyanic.me/kind/cookie_banners.txt
 
 0.0.0.0 api.conversant.mgr.consensu.org
 0.0.0.0 api.sibboventures.mgr.consensu.org
@@ -27,9 +27,10 @@
 0.0.0.0 collector.appconsent.io
 0.0.0.0 consensu.org
 0.0.0.0 consentmanager.mgr.consensu.org
-0.0.0.0 consent.trustarc.com
 0.0.0.0 consent-pref.trustarc.com
 0.0.0.0 consent-st.trustarc.com
+0.0.0.0 consent.trustarc.com
+0.0.0.0 consent.yahoo.com
 0.0.0.0 cookie.lmgssp.com
 0.0.0.0 cookielaw.org
 0.0.0.0 delivery.consentmanager.net
@@ -39,6 +40,8 @@
 0.0.0.0 id.rlcdn.com
 0.0.0.0 js.hs-banner.com
 0.0.0.0 js.hs-scripts.com
+0.0.0.0 launchpad.privacymanager.io
+0.0.0.0 launchpad-wrapper.privacymanager.io
 0.0.0.0 log.uniconsent.mgr.consensu.org
 0.0.0.0 marfeel.mgr.consensu.org
 0.0.0.0 prefmgr-cookie.truste-svc.net

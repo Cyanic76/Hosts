@@ -4,6 +4,7 @@
 ! Homepage: https://hosts.cyanic.me
 ! Source: https://hosts.cyanic.me/corporations/Shopping/amazon.txt
 
+0.0.0.0 2ixpck9cs0.execute-api.us-east.amazonaws.com
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon-adsystem.com
@@ -75,6 +76,8 @@
 0.0.0.0 ns-1720.awsdns-23.co.uk
 0.0.0.0 ns-1887.awsdns-43.co.uk
 0.0.0.0 ocsp.sca1b.amazontrust.com
+0.0.0.0 ocsp.r2m01.amazontrust.com
+0.0.0.0 ocsp.r2m02.amazontrust.com
 0.0.0.0 one.amazon.com
 0.0.0.0 org.amazon.com
 0.0.0.0 panel.amazon.com

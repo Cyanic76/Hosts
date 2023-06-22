@@ -5,6 +5,7 @@ corporations/Google/amp.txt
 corporations/Social/whatsapp.txt
 corporations/garmin.txt
 corporations/iadvize.txt
+kind/cf_security_test.txt
 
 # May be released soon
 corporations/canon.txt
@@ -13,4 +14,4 @@ corporations/stripe.txt
 kind/annoyances.txt
 
 # Other
-merge_all/allhosts.txt
+allhosts.txt

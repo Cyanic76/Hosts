@@ -6,6 +6,7 @@
 
 # 0.0.0.0 *-prod*.disqus.com
 0.0.0.0 about.disqus.com
+0.0.0.0 androidpolice.disqus.com
 0.0.0.0 blog.disqus.com
 0.0.0.0 c.disquscdn.com
 0.0.0.0 c.disquscdn.com.cdn.cloudflare.net

@@ -1,0 +1,42 @@
+! Title: Apple - Cyanic Hosts
+! Expires: 1 month
+! Description: A list of Apple domains.
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/corporations/Apple/apple.txt
+
+# ================> APPLE.COM
+0.0.0.0 api-glb.smoot.apple.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 captive.apple.com
+0.0.0.0 gsp1.apple.com
+0.0.0.0 gsp10-ssl.ls.apple.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 iadsdk.apple.com.edgekey.net
+0.0.0.0 metrics.apple.com
+0.0.0.0 news.iadsdk.apple.com
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 supportmetrics.apple.com
+0.0.0.0 trackingshipment.apple.com
+
+# ================> AKADNS
+0.0.0.0 configuration.apple.com.akadns.net
+0.0.0.0 lcdn-locator-usnkq.apple.com.akadns.net
+0.0.0.0 lcdn-locator.apple.com.akadns.net
+
+# ================> APPLE MAPS
+0.0.0.0 cdn.apple-mapkit.com
+0.0.0.0 cdn1.apple-mapkit.com
+0.0.0.0 cdn2.apple-mapkit.com
+0.0.0.0 cdn3.apple-mapkit.com
+0.0.0.0 cdn4.apple-mapkit.com
+0.0.0.0 sat-cdn1.apple-mapkit.com
+0.0.0.0 sat-cdn2.apple-mapkit.com
+0.0.0.0 sat-cdn3.apple-mapkit.com
+0.0.0.0 sat-cdn4.apple-mapkit.com
+
+# ================> ICLOUD
+0.0.0.0 metrics.icloud.com
+
+# ================> YAHOO DNS
+0.0.0.0 geo-applefinance-cache.internal.query.g03.yahoodns.net

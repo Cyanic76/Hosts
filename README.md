@@ -26,6 +26,7 @@ Block corporations **as you like**. There's **32** files for you to choose from.
   - iAdvize
   - Oracle
   - Stripe
+  - Websites that use [Cloudflare's Connection test](https://developers.cloudflare.com/fundamentals/get-started/concepts/cloudflare-challenges/)
   - WhatsApp
 
 **Request new hosts**! [Contribute](https://codeberg.org/Cyanic76/Hosts/wiki/Contributing) to this project.

@@ -151,6 +151,7 @@
 0.0.0.0 analytics.admob.com
 0.0.0.0 analyticsinsights-pa.googleapis.com
 0.0.0.0 analyticssearch-pa.googleapis.com
+0.0.0.0 android.googlesource.com
 0.0.0.0 androidtvchannels-pa.googleapis.com
 0.0.0.0 androidtvwatsonfe-pa.googleapis.com
 0.0.0.0 answers.google.com
@@ -303,6 +304,7 @@
 0.0.0.0 geo2.ggpht.com
 0.0.0.0 geo3.ggpht.com
 0.0.0.0 geomobileservices-pa.googleapis.com
+0.0.0.0 gerrit.googlesource.com
 0.0.0.0 ggpht.com
 0.0.0.0 gkeconnect.googleapis.com
 0.0.0.0 gkehub.googleapis.com

@@ -1,11 +1,11 @@
 ! Title: Microsoft - Cyanic Hosts
 ! Expires: 1 month
-! Description: A list of Microsoft domains.
+! Description: This list will be removed. - A list of Microsoft domains.
 ! Homepage: https://hosts.cyanic.me
 ! Source: https://hosts.cyanic.me/corporations/Microsoft/microsoft.txt
 
-# This list isn't maintained anymore.
-# See the README.
+# This list isn't maintained anymore and will be removed in a future commit.
+# Use the corporations/Microsoft/ms.txt file instead.
 
 # You might as well block the following:
 # 0.0.0.0 array*.prod.do.dsp.mp.microsoft.com

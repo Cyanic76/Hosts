@@ -12,6 +12,9 @@
 0.0.0.0 preview.redd.it
 0.0.0.0 v.redd.it
 
+0.0.0.0 reddit-alternate.app.link
+0.0.0.0 reddit.app.link
+
 0.0.0.0 accounts.reddit.com
 0.0.0.0 alb.reddit.com
 0.0.0.0 amp.reddit.com

@@ -290,6 +290,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 v20.events.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 widgets.membership.s-msft.com
 
 # ================================== MOPUB
 0.0.0.0 a.r10.mopub.com
@@ -499,6 +500,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.360yield.com
 0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 ad.turn.com
+0.0.0.0 ads.assemblyexchange.com
 0.0.0.0 ads.avads.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
 0.0.0.0 ads.careerbuilder.vn
@@ -745,6 +747,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 q.adrta.com
 0.0.0.0 rereddit.com
+0.0.0.0 rtb.gumgum.com
 0.0.0.0 s.console.adtarget.com.tr
 0.0.0.0 s.nend.net
 0.0.0.0 s.videostep.com
@@ -968,6 +971,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 u.videostep.com
 0.0.0.0 um8cc.bemobtracks.com
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 www.allure.com
 0.0.0.0 www-geo.nike.com.akadns.net
 0.0.0.0 x.bidswitch.net
 
@@ -1237,6 +1241,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 robwu.nl
 0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 rules.quantcount.com
+0.0.0.0 s.ad.smaato.net
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.salecycle.com
 0.0.0.0 s.seedtag.com
@@ -1403,6 +1408,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 br.adspecs.yahoo.com
 0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 comet.yahoo.com
+0.0.0.0 consent.yahoo.com
 0.0.0.0 de.advertising.yahoo.com
 0.0.0.0 es.advertising.yahoo.com
 0.0.0.0 fr.advertising.yahoo.com
