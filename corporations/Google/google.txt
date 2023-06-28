@@ -383,6 +383,7 @@
 0.0.0.0 khms2.googleapis.com
 0.0.0.0 khms3.google.com
 0.0.0.0 khms3.googleapis.com
+0.0.0.0 kits.crashlytics.com
 0.0.0.0 kstatic.googleusercontent.com
 0.0.0.0 learndigital.withgoogle.com
 0.0.0.0 lh6.ggpht.com
@@ -432,6 +433,7 @@
 0.0.0.0 pai.googlezip.net
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
+0.0.0.0 pay-users-pa.googleapis.com
 0.0.0.0 people-pa.clients1.google.com
 0.0.0.0 people-pa.clients2.google.com
 0.0.0.0 people-pa.clients3.google.com
@@ -452,15 +454,20 @@
 0.0.0.0 peoplestackwebexperiments-pa.clients4.google.com
 0.0.0.0 peoplestackwebexperiments-pa.clients5.google.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
+0.0.0.0 personalsafety-pa.googleapis.com
 0.0.0.0 pf-in-f188.1e100.net
+0.0.0.0 phonemasking-stage.googleoptimize.com
+0.0.0.0 photos.googleapis.com
 0.0.0.0 photos-ugc.l.googleusercontent.com
 0.0.0.0 picasa.google.com
+0.0.0.0 pki.googleapis.com
 0.0.0.0 pki-goog.l.google.com
 0.0.0.0 play-fe.googleapis.com
 0.0.0.0 play-lh.googleusercontent.com
 0.0.0.0 play.googleapis.com
 0.0.0.0 playatoms-pa.googleapis.com
 0.0.0.0 playmoviesdfe-pa.googleapis.com
+0.0.0.0 plus.googleapis.com
 0.0.0.0 plus.l.google.com
 0.0.0.0 podcastsmanager.google.com
 0.0.0.0 policies.google.com # Will prevent access to privacy policy, terms of use, etc
@@ -536,9 +543,11 @@
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tracking.admobsphere.com
 0.0.0.0 trakksocial.googlecode.com
+0.0.0.0 try.crashlytics.com
 0.0.0.0 twx.2mdn.net
 0.0.0.0 update.googleapis.com
 0.0.0.0 userlocation.googleapis.com
+0.0.0.0 versionhistory.googleapis.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 videos.google.com
 0.0.0.0 voilatile-pa.googleapis.com
@@ -608,6 +617,7 @@
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 reports.doubleclick.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 static.doubleclick.net
 
