@@ -87,6 +87,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 sourcepoint.mgr.consensu.org
+0.0.0.0 test.cmp.quantcast.com
 0.0.0.0 uniconsent.com
 # Might as well block
 # 0.0.0.0 *.mgr.consensu.org
@@ -739,6 +740,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 play.adpaths.com
 0.0.0.0 pm-gateway.supersonicads.com
+0.0.0.0 potatoinvention.com
 0.0.0.0 prebid.ams1.adnxs-simple.com
 0.0.0.0 prebid.b-cdn.net
 0.0.0.0 prebid.reworldmediafactory.com

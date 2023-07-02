@@ -1,0 +1,14 @@
+! Title: WhatsApp - Cyanic Hosts
+! Expires: 1 month
+! Description: An incomplete list of WhatsApp domains.
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/corporations/Social/whatsapp.txt
+
+0.0.0.0 chat.cdn.whatsapp.net
+0.0.0.0 dit.whatsapp.net
+0.0.0.0 g.whatsapp.net
+0.0.0.0 history.google.comprivatestats.whatsapp.net
+0.0.0.0 mmx-ds.cdn.whatsapp.net
+0.0.0.0 privatestats.whatsapp.alt2-mtalk.google.com
+0.0.0.0 privatestats.whatsapp.net
+0.0.0.0 static.whatsapp.net

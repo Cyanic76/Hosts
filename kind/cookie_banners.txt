@@ -49,6 +49,7 @@
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 sourcepoint.mgr.consensu.org
+0.0.0.0 test.cmp.quantcast.com
 0.0.0.0 uniconsent.com
 # Might as well block
 # 0.0.0.0 *.mgr.consensu.org
