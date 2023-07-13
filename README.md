@@ -11,7 +11,7 @@
 
 The **main list**, `https://hosts.cyanic.me/cyanicHosts.txt`, includes 1400+ telemetry, advertisements, annoyances and unnecessary hosts. Get rid of them: add it to your adblock (like Pi-Hole or AdAway).
 
-**NEW!** I've started a [cookie banners](https://hosts.cyanic.me/corporations/Other/cookie_banners.txt) hosts list.
+**NEW!** I've started a [cookie banners](https://hosts.cyanic.me/kind/cookie_banners.txt) hosts list.
 
 # You choose what to block
 
