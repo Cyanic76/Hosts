@@ -19,8 +19,8 @@ pipeline:
       - git checkout "$${GITEA_BRANCH}"
       # Merge everything together and add the header
       - cd Hosts
-      - cat cyanicHosts.txt | grep -E '^0.0.0.0.*$' ! grep -v '!' >> allhosts.txt
-      - cat kind/* | grep -E '^0.0.0.0.*$' | grep -v '!' >> allhosts.txt
+      - cat cyanicHosts.txt | grep -E '^0.0.0.0.*$' >> allhosts.txt
+      - cat kind/* | grep -E '^0.0.0.0.*$' >> allhosts.txt
       - cd corporations && find . -type f -exec cat {} + >> ../allhosts.txt
       - cd ..
       - sed '/^!/d' < allhosts.txt > allhosts.txt
