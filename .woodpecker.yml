@@ -19,11 +19,12 @@ pipeline:
       - git checkout "$${GITEA_BRANCH}"
       # Merge everything together and add the header
       - cd Hosts
-      - cat assets/allhosts_template.txt >> allhosts.txt
-      - cat cyanicHosts.txt | grep -E '^0.0.0.0.*$' >> allhosts.txt
-      - cat kind/* | grep -E '^0.0.0.0.*$' >> allhosts.txt
+      - cat cyanicHosts.txt | grep -E '^0.0.0.0.*$' ! grep -v '!' >> allhosts.txt
+      - cat kind/* | grep -E '^0.0.0.0.*$' | grep -v '!' >> allhosts.txt
       - cd corporations && find . -type f -exec cat {} + >> ../allhosts.txt
       - cd ..
+      - sed '/^!/d' < allhosts.txt > allhosts.txt
+      - cat assets/allhosts_template.txt >> allhosts.txt
       # Commit the file
       - git add allhosts.txt
       - git commit -m "$${GIT_COMMIT_MESSAGE} [ci skip]"
