@@ -23,6 +23,7 @@
 0.0.0.0 choices.truste.com
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices-or.trustarc.com
+0.0.0.0 cmp.osano.com
 0.0.0.0 cmp.quantcast.com
 0.0.0.0 collector.appconsent.io
 0.0.0.0 consensu.org

@@ -5,6 +5,7 @@
   <br><br>
   <img src="https://img.shields.io/badge/-Codeberg%20Pages-339933?style=flat&logo=javascript&logoColor=white&label=Hosted%20on">
   <img src="https://img.shields.io/badge/-MIT-333333?style=flat&label=License">
+  <img src="https://ci.codeberg.org/api/badges/9346/status.svg">
 </center>
 
 ---

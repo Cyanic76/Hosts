@@ -64,6 +64,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 choices.truste.com
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices-or.trustarc.com
+0.0.0.0 cmp.osano.com
 0.0.0.0 cmp.quantcast.com
 0.0.0.0 collector.appconsent.io
 0.0.0.0 consensu.org
@@ -1214,6 +1215,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobile-campaigns.avast.com
 0.0.0.0 mobile-production.content-square.net
 0.0.0.0 mqtt.pushy.me
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mypic.icu
 0.0.0.0 newscloud.or.kr
 0.0.0.0 nrs-group.com
@@ -1299,6 +1301,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tag.aticdn.net
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.crwdcntrl.net
+0.0.0.0 tags.remixd.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tagservice.maximus.mobkoi.com
 0.0.0.0 telemetry.api.swiftkey.com
