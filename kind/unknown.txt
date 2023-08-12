@@ -11,3 +11,4 @@
 0.0.0.0 dns2.p06.nsone.net
 0.0.0.0 dns3.p06.nsone.net
 0.0.0.0 dns4.p06.nsone.net
+0.0.0.0 movable-ink-344.com

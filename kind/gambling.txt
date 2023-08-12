@@ -1,0 +1,51 @@
+! Title: Gambling - Cyanic Hosts
+! Expires: 1 month
+! Description: A list of gambling domains.
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/kind/gambling.txt
+
+0.0.0.0 10bet.co.za
+0.0.0.0 allbritishcasino.com
+0.0.0.0 bet.co.za
+0.0.0.0 betfred.co.za
+0.0.0.0 betway.co.za
+0.0.0.0 betwith.supabets.co.za
+0.0.0.0 betzone.co.uk
+0.0.0.0 bonus.sportingbet.co.za
+0.0.0.0 casinocasino.com
+0.0.0.0 casinotropez.com
+0.0.0.0 europacasino.com
+0.0.0.0 fafabet.co.za
+0.0.0.0 gbets.co.za
+0.0.0.0 gluvoob.com
+0.0.0.0 hippodromeonline.com
+0.0.0.0 hollywoodbets.net
+0.0.0.0 join.mansioncasino.com
+0.0.0.0 kwiffcasino.com
+0.0.0.0 legacyarcade.com
+0.0.0.0 liveauctionners.com
+0.0.0.0 lulabet.co.za
+0.0.0.0 m.worldsportsbetting.co.za
+0.0.0.0 mansioncasino.com
+0.0.0.0 offers.10bet.co.za
+0.0.0.0 planetsportbet.com
+0.0.0.0 playabets.co.za
+0.0.0.0 playsunny.co.uk
+0.0.0.0 pokerbet.co.za
+0.0.0.0 pricee.com
+0.0.0.0 promo.bet.co.za
+0.0.0.0 promotions.voododreams.com
+0.0.0.0 putncampaign.com
+0.0.0.0 reg.supabets.co.za
+0.0.0.0 register.hollywoodbets.net
+0.0.0.0 resortforward.com
+0.0.0.0 rhino.bet
+0.0.0.0 sportingbet.co.za
+0.0.0.0 springbokcasino.co.za
+0.0.0.0 supabets.co.za
+0.0.0.0 voododreams.com
+0.0.0.0 welcome.kwiffcasino.com
+0.0.0.0 worldsportsbetting.co.za
+0.0.0.0 yebocampaign.co.za
+0.0.0.0 yesplay.bet
+0.0.0.0 zarcasino.co.za

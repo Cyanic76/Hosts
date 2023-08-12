@@ -73,6 +73,7 @@
 0.0.0.0 edge.microsoft.com
 0.0.0.0 edgetipscdn.microsoft.com
 0.0.0.0 edge-http.microsoft.com
+0.0.0.0 emails.microsoft.com
 0.0.0.0 emdl.ws.microsoft.com
 0.0.0.0 fe2.update.microsoft.com
 0.0.0.0 fe2.update.microsoft.com.akadns.net
@@ -342,6 +343,7 @@
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 client.wns.windows.com
 0.0.0.0 edge.activity.windows.com
+0.0.0.0 edge-enterprise.activity.windows.com
 0.0.0.0 feedback.windows.com
 0.0.0.0 hk2.wns.windows.com
 0.0.0.0 maps.windows.com

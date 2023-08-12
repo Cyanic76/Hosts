@@ -5,8 +5,10 @@
 ! Source: https://hosts.cyanic.me/corporations/apple.txt
 
 0.0.0.0 api-adservices.apple.com
+0.0.0.0 apple.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 xp.apple.com
