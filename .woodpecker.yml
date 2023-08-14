@@ -1,6 +1,6 @@
 steps:
   build:
-    image: alpine/git
+    image: alpine
     environment:
       # Information that will be used when authoring a commit
       - GIT_AUTHOR_NAME=Layers
@@ -11,8 +11,8 @@ steps:
       - GITEA_REPOSITORY=Cyanic76/Hosts
       - GITEA_BRANCH=pages
     commands:
-      - echo "Building"
-      - git clone https://$${GITEA_HOST}/$${GITEA_REPOSITORY}
+      - apk add git
+      - git clone https://codeberg.org/Cyanic76/Hosts
       - git config --global user.name "$${GIT_AUTHOR_NAME}"
       - git config --global user.email "$${GIT_AUTHOR_EMAIL}"
       - git checkout "$${GITEA_BRANCH}"
