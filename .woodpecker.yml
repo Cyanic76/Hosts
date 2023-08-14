@@ -1,6 +1,6 @@
 steps:
   build:
-    image: alpine/git:2.40.1
+    image: alpine/git
     environment:
       # Information that will be used when authoring a commit
       - GIT_AUTHOR_NAME=Layers
