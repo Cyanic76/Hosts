@@ -19,15 +19,15 @@ steps:
       - git checkout "$${GITEA_BRANCH}"
       # Merge everything together and add the header
       - cd Hosts
-      - cat cyanicHosts.txt | grep -E '^0.0.0.0.*$' >> allhosts.txt
-      - cat kind/* | grep -E '^0.0.0.0.*$' >> allhosts.txt
-      - cd corporations && find . -type f -exec cat {} + >> ../allhosts.txt
+      - cat cyanicHosts.txt | grep -E '^0.0.0.0.*$' >> allhosts.txt && echo "1"
+      - cat kind/* | grep -E '^0.0.0.0.*$' >> allhosts.txt && echo "2"
+      - cd corporations && find . -type f -exec cat {} + >> ../allhosts.txt && echo "3"
       - cd ..
-      - sed '/^!/d' < allhosts.txt > allhosts.txt
-      - cat assets/allhosts_template.txt >> allhosts.txt
+      - sed '/^!/d' < allhosts.txt > allhosts.txt && echo "4"
+      - cat assets/allhosts_template.txt >> allhosts.txt && echo "5"
       # Commit the file
-      - git add allhosts.txt
-      - git commit -m "$${GIT_COMMIT_MESSAGE} [ci skip]"
+      - git add allhosts.txt -v
+      - git commit -vm "$${GIT_COMMIT_MESSAGE} [ci skip]"
       - git remote set-url origin "https://Cyanic76:$${GITEA_TOKEN}@$${GITEA_HOST}/$${GITEA_REPOSITORY}.git"
       - git push origin "$${GITEA_BRANCH}"
     when:
