@@ -1,6 +1,6 @@
 pipeline:
   build:
-    image: alpine/git
+    image: alpine/git:2.40.1
     environment:
       # Information that will be used when authoring a commit
       - GIT_AUTHOR_NAME=Layers
