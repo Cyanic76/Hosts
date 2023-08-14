@@ -12,12 +12,10 @@ steps:
       - GITEA_BRANCH=pages
     secrets: [ gitea_token ]
     commands:
-      # Setup git and checkout pages
-      - git clone https://codeberg.org/Cyanic76/Hosts
+      - git clone https://codeberg.org/$${GITEA_REPOSITORY}
       - git config --global user.name "$${GIT_AUTHOR_NAME}"
       - git config --global user.email "$${GIT_AUTHOR_EMAIL}"
       - git checkout "$${GITEA_BRANCH}"
-      # Merge everything together and add the header
       - cd Hosts
       - cat cyanicHosts.txt | grep -E '^0.0.0.0.*$' >> allhosts.txt && echo "1"
       - cat kind/* | grep -E '^0.0.0.0.*$' >> allhosts.txt && echo "2"
@@ -25,7 +23,6 @@ steps:
       - cd ..
       - sed '/^!/d' < allhosts.txt > allhosts.txt && echo "4"
       - cat assets/allhosts_template.txt >> allhosts.txt && echo "5"
-      # Commit the file
       - git add allhosts.txt -v
       - git commit -vm "$${GIT_COMMIT_MESSAGE} [ci skip]"
       - git remote set-url origin "https://Cyanic76:$${GITEA_TOKEN}@$${GITEA_HOST}/$${GITEA_REPOSITORY}.git"
