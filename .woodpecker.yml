@@ -16,12 +16,11 @@ steps:
       - git config --global user.name "$${GIT_AUTHOR_NAME}"
       - git config --global user.email "$${GIT_AUTHOR_EMAIL}"
       - git checkout "$${GITEA_BRANCH}"
-      #- cd Hosts
+      - cd Hosts
       - cat cyanicHosts.txt | grep -E '^0.0.0.0.*$' >> allhosts.txt
       - cat kind/* | grep -E '^0.0.0.0.*$' >> allhosts.txt
       - cd corporations && find . -type f -exec cat {} + >> ../allhosts.txt
       - cd ..
-      #- cat assets/allhosts_template.txt >> allhosts.txt
       - git add allhosts.txt -v
       - git commit -vm "$${GIT_COMMIT_MESSAGE} [ci skip]"
       - git remote set-url origin "https://Cyanic76:$gitea_token@$${GITEA_HOST}/$${GITEA_REPOSITORY}.git"
