@@ -23,9 +23,9 @@ steps:
       - cd ..
       - git add allhosts.txt -v
       - git commit -vm "$${GIT_COMMIT_MESSAGE} [ci skip]"
-      - git remote set-url origin "https://Cyanic76:$gitea_token@$${GITEA_HOST}/$${GITEA_REPOSITORY}.git"
+      - git remote set-url origin "https://Cyanic76:$CODEBERG_TOKEN@$${GITEA_HOST}/$${GITEA_REPOSITORY}.git"
       - git push origin "$${GITEA_BRANCH}"
-    secrets: [ gitea_token ]
+    secrets: [ CODEBERG_TOKEN ]
     when:
       branch: pages
       path:
