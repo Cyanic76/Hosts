@@ -21,7 +21,6 @@ steps:
       - cat kind/* | grep -E '^0.0.0.0.*$' >> allhosts.txt
       - cd corporations && find . -type f -exec cat {} + >> ../allhosts.txt
       - cd ..
-      - sed '/^!/d' < allhosts.txt > allhosts.txt
       #- cat assets/allhosts_template.txt >> allhosts.txt
       - git add allhosts.txt -v
       - git commit -vm "$${GIT_COMMIT_MESSAGE} [ci skip]"
