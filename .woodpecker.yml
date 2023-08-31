@@ -23,6 +23,7 @@ steps:
       - cd ..
       - sort allhosts_unfiltered.txt | uniq > allhosts.txt
       - git add allhosts.txt -v
+      - rm allhosts_unfiltered.txt
       - git commit -vm "$${GIT_COMMIT_MESSAGE} [ci skip]"
       - git remote set-url origin "https://Cyanic76:$CODEBERG_TOKEN@$${GITEA_HOST}/$${GITEA_REPOSITORY}.git"
       - git push origin "$${GITEA_BRANCH}"
