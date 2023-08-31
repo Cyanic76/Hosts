@@ -36,7 +36,7 @@ Block corporations **as you like**. There's **32** files for you to choose from.
 
 ### Legal
 
-I am not liable for any damage. Therefore, feel free to use [Issues](https://github.com/Cyanic76/Hosts/issues/new) to report problems and broken websites. You are the only one responsible for using this list.
+I am not liable for any damage. Therefore, feel free to use Codeberg Issues to report problems and broken websites. You are the only one responsible for using this list.
 
 ---
 Maintained by [Cyanic**76**](https://cyanic.me).
