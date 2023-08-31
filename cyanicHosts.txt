@@ -153,9 +153,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservices.google.com
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
+0.0.0.0 alt1.aspmx.l.google.com
+0.0.0.0 alt2.aspmx.l.google.com
 0.0.0.0 analytics.admob.com
+0.0.0.0 analytics-alv.google.com
+0.0.0.0 aspmx.l.google.com
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 big.g.doubleclick.net
+0.0.0.0 c.amazon-adsystem.combid.g.doubleclick.com
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 chrome.google.com
 0.0.0.0 clouderrorreporting.googleapis.com
@@ -350,6 +355,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 versioncheck-bg.addons.mozilla.org
 
 # ================================== OEMs
+0.0.0.0 accountsproxy.nvgs.nvidia.com
 0.0.0.0 ad.samsungadhub.com
 0.0.0.0 ad.samsungads.com
 0.0.0.0 ad.intl.xiaomi.com
@@ -388,14 +394,25 @@ ff02::3 ip6-allhosts
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.sec.miui.com
+0.0.0.0 docs.nvidia.com
+0.0.0.0 download-dce.gfe.nvidia.com
+0.0.0.0 edge.urm.nvidia.com
+0.0.0.0 email.nvidia.com
 0.0.0.0 event-dre.op.hicloud.com
+0.0.0.0 events-dc1.gfe.nvidia.com
 0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 events.gfestage.nvidia.com
 0.0.0.0 f1.g.mi.com
 0.0.0.0 file.market.xiaomi.com
+0.0.0.0 forms.nvidia.com
 0.0.0.0 game.xiaomi.com
 0.0.0.0 geofence.sys.miui.com
+0.0.0.0 geoip.nvidia.com
+0.0.0.0 gfestage.nvidia.com
+0.0.0.0 gfn.nvidia.com
 0.0.0.0 global.search.xiaomi.net
 0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 images-stage.nvidia.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
@@ -415,19 +432,26 @@ ff02::3 ip6-allhosts
 0.0.0.0 micardapi.micloud.xiaomi.net
 0.0.0.0 mis.migc.xiaomi.com
 0.0.0.0 nmetrics.samsung.com
+0.0.0.0 nv.stun.gamestream.nvidia.com
+0.0.0.0 nv-tegra.nvidia.com
 0.0.0.0 open.oneplus.net
+0.0.0.0 origin-api-forums.nvidia.com
+0.0.0.0 prod1.email.nvidia.com
 0.0.0.0 samsungads.com
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 smetrics.samsung.com
+0.0.0.0 stt.nvidia.com
 0.0.0.0 supportmetrics.apple.com
+0.0.0.0 telemetry-dc1.gfe.nvidia.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.india.miui.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.rus.miui.com
 0.0.0.0 trackingshipment.apple.com
+0.0.0.0 urm.nvidia.com
 0.0.0.0 www.cdn.ad.xiaomi.com
 
 # ================================== OTHER ADS

@@ -1,0 +1,78 @@
+! Title: Nvidia - Cyanic Hosts
+! Expires: 1 month
+! Description: A list of Nvidia domains.
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/corporations/Other/nvidia.txt
+
+0.0.0.0 accountslatency.nvgs.nvidia.com
+0.0.0.0 accountsproxy.nvgs.nvidia.com
+0.0.0.0 api-forums.nvidia.com
+0.0.0.0 api.nvidia.com
+0.0.0.0 careers.nvidia.com
+0.0.0.0 developer.download.nvidia.com
+0.0.0.0 docs.nvidia.com
+0.0.0.0 download-cdn-gfnpc.nvidia.com
+0.0.0.0 download-dce.gfe.nvidia.com
+0.0.0.0 downloadstage.gfe.nvidia.com
+0.0.0.0 edge.urm.nvidia.com
+0.0.0.0 email.nvidia.com
+0.0.0.0 events-dc1.gfe.nvidia.com
+0.0.0.0 events.gfestage.nvidia.com
+0.0.0.0 forms.nvidia.com
+0.0.0.0 forums.developer.nvidia.com
+0.0.0.0 geoip.nvidia.com
+0.0.0.0 gfestage.nvidia.com
+0.0.0.0 gfn.nvidia.com
+0.0.0.0 gridforums.nvidia.com
+0.0.0.0 images.nvidiagrid.net
+0.0.0.0 images-stage.nvidia.com
+0.0.0.0 img.nvidiagrid.net
+0.0.0.0 login.nvidia.com
+0.0.0.0 nv.stun.gamestream.nvidia.com
+0.0.0.0 nv-tegra.nvidia.com
+0.0.0.0 origin-api-forums.nvidia.com
+0.0.0.0 prod1.email.nvidia.com
+0.0.0.0 stt.nvidia.com
+0.0.0.0 telemetry-dc1.gfe.nvidia.com
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 urm.nvidia.com
+0.0.0.0 us.download.nvidia.com
+0.0.0.0 vgputestdrive.nvidia.com
+
+#not sorted
+0.0.0.0 ngx.download.nvidia.com
+0.0.0.0 login.nvgs.nvidia.com
+0.0.0.0 gx-target-rconfig-frontend-api.gx.nvidia.com
+0.0.0.0 mobileupdate.nvidia.com
+0.0.0.0 metrics.nvidia.com
+0.0.0.0 jarvis-idm-eks.nvgs.nvidia.com
+0.0.0.0 developer.nvidia.com
+0.0.0.0 production-virginia-jarvis-idm.nvgs.nvidia.com
+0.0.0.0 ls.dtrace.nvidia.com
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 nvidia.tt.omtrdc.net
+0.0.0.0 api.commune.ly
+0.0.0.0 ls.dtrace.nvidia.com
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 accounts.nvgs.nvidia.com
+0.0.0.0 nvidia.tt.omtrdc.net
+0.0.0.0 api.commune.ly
+0.0.0.0 login.nvgs.nvidia.cn
+0.0.0.0 ls.dtrace.nvidia.com
+0.0.0.0 accounts.nvgs.nvidia.com
+0.0.0.0 accounts.nvgs.nvidia.cn
+0.0.0.0 nvidia.tt.omtrdc.net
+0.0.0.0 api.commune.ly
+0.0.0.0 login.nvgs.nvidia.com
+0.0.0.0 login.nvgs.nvidia.cnactivation.gfe.nvidia.comlogin .nvgs.nvidia.cn
+0.0.0.0 activation.gfe.nvidia.com
+0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 gfwsl.geforce.com
+0.0.0.0 images.nvidiagrid.net
+0.0.0.0 img.nvidiagrid.net
+0.0.0.0 services.gfe.nvidia.com
+0.0.0.0 auth-google.site
+0.0.0.0 static.2mdn.netactivation.gfe.nvidia.com
+0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 gfwsl.geforce.com
+0.0.0.0 services.gfe.nvidia.com

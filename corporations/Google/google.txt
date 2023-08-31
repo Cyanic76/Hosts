@@ -480,6 +480,10 @@
 0.0.0.0 redirector.gvt1.com
 0.0.0.0 region1.analytics.google.com
 0.0.0.0 reports.crashlytics.com
+0.0.0.0 rr1---sn-8vq54voxn25po-h5qee.gvt1.com
+0.0.0.0 rr3---sn-8vq54voxn25po-h5qee.gvt1.com
+0.0.0.0 rr6---sn-8vq54voxn25po-h5qz.gvt1.com
+0.0.0.0 rr8---sn-8vq54voxn25po-h5qz.gvt1.com
 0.0.0.0 ruozuwky-android.mobile-messenger.intercom.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s0-2mdn-net.l.google.com
@@ -605,6 +609,7 @@
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 big.g.doubleclick.net
+0.0.0.0 c.amazon-adsystem.combid.g.doubleclick.com
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 doubleclick.net

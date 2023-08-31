@@ -28,6 +28,7 @@ steps:
     secrets: [ CODEBERG_TOKEN ]
     when:
       branch: pages
+      event: push
       path:
         include: [ 'cyanicHosts.txt', 'corporations/*.txt', 'corporations/*/*.txt', 'kind/*.txt' ]
         exclude: [ 'LICENSE*', '*.md', 'index.html', 'assets/*', 'kind/unknown.txt' ]
