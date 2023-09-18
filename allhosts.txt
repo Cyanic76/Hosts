@@ -1155,6 +1155,7 @@
 0.0.0.0 cctypekit.adobe.io
 0.0.0.0 cdn-au.onetrust.com
 0.0.0.0 cdn-b.notsy.io
+0.0.0.0 cdn-cookieyes.com
 0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
 0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
 0.0.0.0 cdn-creatives-prd.unityads.unity3d.com
@@ -1196,6 +1197,8 @@
 0.0.0.0 cdn.onenote.net.edgekey.net
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.optimizely.com
+0.0.0.0 cdn.p-n.io
+0.0.0.0 cdn.piano.io
 0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 cdn.requestmetrics.com
 0.0.0.0 cdn.rpg.riotgames.com.c.footprint.net
