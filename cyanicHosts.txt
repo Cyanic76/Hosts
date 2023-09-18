@@ -60,6 +60,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cdn.consentmanager.net
 0.0.0.0 cdn.cookielaw.org
+0.0.0.0 cdn-cookieyes.com
 0.0.0.0 choices.consentframework.com
 0.0.0.0 choices.truste.com
 0.0.0.0 choices.trustarc.com
@@ -1147,6 +1148,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.nexx360.io
 0.0.0.0 cdn.onesignal.com
+0.0.0.0 cdn.piano.io
+0.0.0.0 cdn.p-n.io
 0.0.0.0 cdn.requestmetrics.com
 0.0.0.0 cdn.snigelweb.com
 0.0.0.0 cdn.speedcurve.com
