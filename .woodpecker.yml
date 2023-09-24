@@ -17,8 +17,8 @@ steps:
       - git config --global user.email "$${GIT_AUTHOR_EMAIL}"
       - git checkout "$${GITEA_BRANCH}"
       - cd Hosts && touch allhosts_unfiltered.txt
-      - cat cyanicHosts.txt | grep -E '^0.0.0.0.*$' | grep -v '^!' | grep -v '^\#' >> allhosts_unfiltered.txt
-      - cat kind/* | grep -E '^0.0.0.0.*$' | grep -v '^!' | grep -v '^\#'  >> allhosts_unfiltered.txt
+      - cat cyanicHosts.txt | grep -E '^0.0.0.0.*$' | grep -v '^!' >> allhosts_unfiltered.txt
+      - cat kind/* | grep -E '^0.0.0.0.*$' | grep -v '^!' >> allhosts_unfiltered.txt
       - cd corporations && find . -type f -exec cat {} + >> ../allhosts_unfiltered.txt
       - cd ..
       - sort allhosts_unfiltered.txt | uniq > allhosts.txt
