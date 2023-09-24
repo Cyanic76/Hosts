@@ -7,8 +7,11 @@
 # This list isn't included in the allhosts.txt file.
 # Use it at your own risk.
 
+0.0.0.0 booksconcepts.com
 0.0.0.0 dns1.p06.nsone.net
 0.0.0.0 dns2.p06.nsone.net
 0.0.0.0 dns3.p06.nsone.net
 0.0.0.0 dns4.p06.nsone.net
+0.0.0.0 hostmaster.1und1.com
+0.0.0.0 lavidametal.files.wordpress.com
 0.0.0.0 movable-ink-344.com

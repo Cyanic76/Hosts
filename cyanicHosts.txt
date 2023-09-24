@@ -544,6 +544,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.ookla.com
 0.0.0.0 ads.pinterest.com
+0.0.0.0 ads-pres.channel4.com
 0.0.0.0 ads.pro-market.net
 0.0.0.0 ads.reddit.com
 0.0.0.0 ads.servenobid.com
@@ -599,6 +600,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
 0.0.0.0 cdn-creatives-prd.unityads.unity3d.com
 0.0.0.0 cdn.segment.com
+0.0.0.0 cdn.ss.anno.channel4.com
 0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
 0.0.0.0 cdn-store-icons-highwinds-prd.unityads.unity3d.com
 0.0.0.0 cdn.wazimo.com
@@ -747,6 +749,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mopub-win-us-east.bksn.se
 0.0.0.0 mwzeom.zeotap.com
 0.0.0.0 myad.vn
+0.0.0.0 nautikapp.com
 0.0.0.0 network.bazaarvoice.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
@@ -958,6 +961,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mouseflow.com
 0.0.0.0 mvconf.uk.cloud.360safe.com
+0.0.0.0 mx00.ionos.es
+0.0.0.0 mx01.ionos.es
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 ni500z.btttag.com
 0.0.0.0 nimbus-irl.bromium-online.com
@@ -967,6 +972,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 ns6.pinterest.com
 0.0.0.0 ns9.pinterest.com
 0.0.0.0 ns10.pinterest.com
+0.0.0.0 ns1031.ui-dns.biz
+0.0.0.0 ns1058.ui-dns.com
+0.0.0.0 ns1102.ui-dns.org
+0.0.0.0 ns1114.ui-dns.de
 0.0.0.0 opera-mini.net
 0.0.0.0 opera.software 
 0.0.0.0 optimizely.com
@@ -1200,6 +1209,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e8218.dscb1.akamaiedge.net
 0.0.0.0 echo.intergient.com
 0.0.0.0 ecommerce.iap.unity3d.com
+0.0.0.0 edge-642.bunnyinfra.net
 0.0.0.0 edge.quantserve.com
 0.0.0.0 ejp.rlcdn.com
 0.0.0.0 eu-west-1.event.prod.bidr.io
@@ -1356,6 +1366,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.salecycle.com
 0.0.0.0 s.seedtag.com
+0.0.0.0 s1.sportstatics.com
 0.0.0.0 salesforceliveagent.com
 0.0.0.0 sc386.com
 0.0.0.0 sb.scorecardresearch.com
@@ -1370,8 +1381,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 smetrics.fnac.com
 0.0.0.0 smetrics.ni.com
 0.0.0.0 snigelweb.com
+0.0.0.0 snoop.minecraft.net # snitch
 0.0.0.0 sonic.impactify.media
-0.0.0.0 snoop.minecraft.net
+0.0.0.0 sportstatics.com
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 ssb-eqx.smartadserver.com
 0.0.0.0 ssl.gpsonextra.net

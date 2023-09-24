@@ -32,6 +32,7 @@
 0.0.0.0 astore.amazon.com
 0.0.0.0 author.amazon.com
 0.0.0.0 aws.amazon.com
+0.0.0.0 awsdns-hostmaster.amazon.com
 0.0.0.0 baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
 0.0.0.0 bbuseruploads.s3.amazonaws.com
 0.0.0.0 brandservices.amazon.com
@@ -69,12 +70,14 @@
 0.0.0.0 music.amazon.com
 0.0.0.0 ns-90.awsdns-11.com
 0.0.0.0 ns-115.awsdns-14.com
+0.0.0.0 ns-121.awsdns-15.com
 0.0.0.0 ns-183.awsdns-22.com
 0.0.0.0 ns-219.awsdns-27.com
 0.0.0.0 ns-286.awsdns-35.com
 0.0.0.0 ns-378.awsdns-47.com
 0.0.0.0 ns-453.awsdns-56.com
 0.0.0.0 ns-543.awsdns-03.net
+0.0.0.0 ns-553.awsdns-05.net
 0.0.0.0 ns-557.awsdns-05.net
 0.0.0.0 ns-664.awsdns-19.net
 0.0.0.0 ns-672.awsdns-20.net
@@ -87,11 +90,13 @@
 0.0.0.0 ns-1094.awsdns-08.org
 0.0.0.0 ns-1169.awsdns-18.org
 0.0.0.0 ns-1178.awsdns-19.net
+0.0.0.0 ns-1225.awsdns-25.org
 0.0.0.0 ns-1299.awsdns-34.org
 0.0.0.0 ns-1324.awsdns-37.org
 0.0.0.0 ns-1361.awsdns-25.co.uk
 0.0.0.0 ns-1556.awsdns-02.co.uk
 0.0.0.0 ns-1720.awsdns-23.co.uk
+0.0.0.0 ns-1854.awsdns-39.co.uk
 0.0.0.0 ns-1871.awsdns-41.co.uk
 0.0.0.0 ns-1887.awsdns-43.co.uk
 0.0.0.0 ns-1978.awsdns-55.co.uk
