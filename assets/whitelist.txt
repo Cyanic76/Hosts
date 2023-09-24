@@ -17,5 +17,6 @@ image.api.playstation.com
 n0d.akamai.net
 ns1.automattic.com
 playstation.com
+sponsor.ajay.app
 wordpress.com
 wp.com

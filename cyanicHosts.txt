@@ -794,7 +794,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sodapdf.com
 0.0.0.0 spade.sci.twitch.tv
 0.0.0.0 spade.twitch.tv
-0.0.0.0 sponsor.ajay.app
 0.0.0.0 sportsuggest-dre.things.hicloud.com
 0.0.0.0 ssb-euw1.smartadserver.com
 0.0.0.0 ssb-euw2.smartadserver.com
