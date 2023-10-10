@@ -10,25 +10,19 @@
 
 ---
 
-The **main list**, `https://hosts.cyanic.me/cyanicHosts.txt`, includes 1400+ telemetry, advertisements, annoyances and unnecessary hosts. Get rid of them: add it to your adblock (like Pi-Hole or AdAway).
-
-**NEW!** I've started a [cookie banners](https://hosts.cyanic.me/kind/cookie_banners.txt) hosts list.
+The **main list**, `https://hosts.cyanic.me/cyanicHosts.txt`, includes 1500+ telemetry, advertisements, annoyances and unnecessary hosts. Get rid of them: add it to your adblock (like Pi-Hole or AdAway).
 
 # You choose what to block
 
-Block corporations **as you like**. There's **32** files for you to choose from.
+Block corporations **as you like**. There's **32+** files for you to choose from.
 
-# What's **next**?
+## Lists
 
-- **Lists**
-  - Annoyances
-  - Canon
-  - Google's AMP
-  - iAdvize
-  - Oracle
-  - Stripe
-  - Websites that use [Cloudflare's Connection test](https://developers.cloudflare.com/fundamentals/get-started/concepts/cloudflare-challenges/)
-  - WhatsApp
+Here are some lists.
+
+- [Apple](https://hosts.cyanic.me/corporations/Apple/apple.txt)
+- [Google](https://hosts.cyanic.me/corporations/Google/google.txt)
+- [Microsoft](https://hosts.cyanic.me/corporations/Microsoft/ms.txt)
 
 **Request new hosts**! [Contribute](https://codeberg.org/Cyanic76/Hosts/wiki/Contributing) to this project.
 

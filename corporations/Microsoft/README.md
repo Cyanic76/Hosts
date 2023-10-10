@@ -1,5 +1,7 @@
 # Microsoft lists
 
+> `microsoft.txt` has been deleted. Use `ms.txt` instead.
+
 ## ms.txt
 
 This is the main list.
