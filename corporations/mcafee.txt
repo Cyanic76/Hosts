@@ -4,6 +4,7 @@
 ! Homepage: https://hosts.cyanic.me
 ! Source: https://hosts.cyanic.me/corporations/mcafee.txt
 
+0.0.0.0 analytics.apis.mcafee.com
 0.0.0.0 analytics.ccs.mcafee.com
 0.0.0.0 analyticsdcs.ccs.mcafee.com
 0.0.0.0 app.mcafee.com

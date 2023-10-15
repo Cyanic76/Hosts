@@ -68,6 +68,7 @@
 0.0.0.0 merch.amazon.com
 0.0.0.0 msh.amazon.com
 0.0.0.0 music.amazon.com
+0.0.0.0 ns-70.awsdns-08.com
 0.0.0.0 ns-90.awsdns-11.com
 0.0.0.0 ns-115.awsdns-14.com
 0.0.0.0 ns-121.awsdns-15.com
@@ -81,6 +82,7 @@
 0.0.0.0 ns-557.awsdns-05.net
 0.0.0.0 ns-664.awsdns-19.net
 0.0.0.0 ns-672.awsdns-20.net
+0.0.0.0 ns-682.awsdns-21.net
 0.0.0.0 ns-721.awsdns-26.net
 0.0.0.0 ns-858.awsdns-43.net
 0.0.0.0 ns-929.awsdns-52.net
@@ -94,10 +96,12 @@
 0.0.0.0 ns-1299.awsdns-34.org
 0.0.0.0 ns-1324.awsdns-37.org
 0.0.0.0 ns-1361.awsdns-25.co.uk
+0.0.0.0 ns-1463.awsdns-54.org
 0.0.0.0 ns-1556.awsdns-02.co.uk
 0.0.0.0 ns-1720.awsdns-23.co.uk
 0.0.0.0 ns-1854.awsdns-39.co.uk
 0.0.0.0 ns-1871.awsdns-41.co.uk
+0.0.0.0 ns-1886.awsdns-43.co.uk
 0.0.0.0 ns-1887.awsdns-43.co.uk
 0.0.0.0 ns-1978.awsdns-55.co.uk
 0.0.0.0 ns-2021.awsdns-60.co.uk

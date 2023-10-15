@@ -111,6 +111,7 @@
 
 # Other
 #0.0.0.0 *.safeframe.googlesyndication.com
+0.0.0.0 _spf.google.com
 0.0.0.0 2mdn.net
 0.0.0.0 300zlf-dnsotls-ds.metric.gstatic.com
 0.0.0.0 3cbc684bb9f2dcdd3a3794de9de52f63.safeframe.googlesyndication.com
@@ -262,6 +263,7 @@
 0.0.0.0 doodle4google.com
 0.0.0.0 drive-thirdparty.googleusercontent.com
 0.0.0.0 e.crashlytics.com
+0.0.0.0 edgedl.me.gvt1.com
 0.0.0.0 edu.google.com
 0.0.0.0 encrypted-tbn0.gstatic.com
 0.0.0.0 encrypted-tbn1.gstatic.com

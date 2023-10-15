@@ -1,0 +1,14 @@
+! Title: Vimeo - Cyanic Hosts
+! Expires: 1 month
+! Description: An incomplete list of Vimeo domains.
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/corporations/Social/vimeo.txt
+
+0.0.0.0 13189-api.vimeo.com
+0.0.0.0 47179-www.vimeo.com
+0.0.0.0 110696-www.vimeo.com
+0.0.0.0 288527player-telemetry.vimeo.com
+0.0.0.0 api.vimeo.com
+0.0.0.0 player-telemetry.vimeo.com
+0.0.0.0 player.vimeo.com
+0.0.0.0 vimeo.com

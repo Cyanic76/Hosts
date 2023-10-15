@@ -15,3 +15,19 @@
 0.0.0.0 hostmaster.1und1.com
 0.0.0.0 lavidametal.files.wordpress.com
 0.0.0.0 movable-ink-344.com
+
+# domaincontrol.com belongs to GoDaddy.
+0.0.0.0 ns75.domaincontrol.com
+0.0.0.0 ns76.domaincontrol.com
+
+# EraNet, another domain registrar.
+0.0.0.0 admin.eranet.com
+
+# Jomax is GoDaddy's SOA server.
+0.0.0.0 dns.jomax.net
+
+# Other mail services
+0.0.0.0 helpscoutemail.com
+0.0.0.0 mail.zendesk.com
+0.0.0.0 mailgun.org
+0.0.0.0 spf.mandrillapp.com

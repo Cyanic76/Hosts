@@ -7,10 +7,17 @@ corporations/iadvize.txt
 kind/cf_security_test.txt
 
 # May be released soon
+corporations/asus.txt
 corporations/canon.txt
 corporations/oracle.txt
 corporations/stripe.txt
 kind/annoyances.txt
+
+# Another project
+kind/Other/*
+# Release some files
+!kind/Other/README.md
+!kind/Other/annoyances.txt
 
 # Other
 allhosts.txt

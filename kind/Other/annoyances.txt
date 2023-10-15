@@ -1,0 +1,31 @@
+! Title: Annoyances - Cyanic Hosts
+! Expires: 1 month
+! Description: A list of annoying websites.
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/kind/annoyances.txt
+
+# There's extensions and all, but if you don't want to bother with them,
+# use this list.
+
+# consent.google.* can be bypassed without JS
+
+# ================================== Ezcookie banner
+0.0.0.0 linuxize.com
+0.0.0.0 linuxopsys.com
+0.0.0.0 sebhastian.com
+0.0.0.0 techviewleo.com
+0.0.0.0 texteditor.com
+0.0.0.0 tutorials-raspberrypi.com
+0.0.0.0 www.9to5software.com
+
+# ================================== Large banners that need JS to work
+0.0.0.0 puzzling.stackexchange.com
+0.0.0.0 stackoverflow.com
+0.0.0.0 thewindowsclub.com
+0.0.0.0 unix.stackexchange.com
+
+# ================================== Unskippable FS/Full-Screen banners
+0.0.0.0 techcrunch.com
+0.0.0.0 top.gg
+0.0.0.0 www.lemonde.fr
+0.0.0.0 wired.com
