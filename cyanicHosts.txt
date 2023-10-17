@@ -864,6 +864,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ak.c.ooyala.com
 0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 api.ebay-kleinanzeigen.de
+0.0.0.0 api-iam.intercom.io
 0.0.0.0 api-swype.swypeconnect.com
 0.0.0.0 appodeal.com
 0.0.0.0 assets.pinterest.com
@@ -949,6 +950,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 img.bbystatic.com
 0.0.0.0 in.appcenter.ms
 0.0.0.0 ink1001.com
+0.0.0.0 js.intercomcdn.com
 0.0.0.0 j.6sc.co
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 links.duckduckgo.com
@@ -1023,6 +1025,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tv.springserve.com
 0.0.0.0 u.videostep.com
 0.0.0.0 um8cc.bemobtracks.com
+0.0.0.0 widget.intercom.io
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 www.allure.com
 0.0.0.0 www-geo.nike.com.akadns.net
@@ -1224,6 +1227,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 events.mediarithmics.com
 0.0.0.0 events.missena.io
 0.0.0.0 events.redditmedia.com
+0.0.0.0 events.statsigapi.net
 0.0.0.0 exchange.mediavine.com
 0.0.0.0 fan.twitch.tv
 0.0.0.0 fastlane.rubiconproject.com

@@ -31,3 +31,7 @@
 0.0.0.0 mail.zendesk.com
 0.0.0.0 mailgun.org
 0.0.0.0 spf.mandrillapp.com
+0.0.0.0 mx1-hosting.jellyfish.systems
+0.0.0.0 mx2-hosting.jellyfish.systems
+0.0.0.0 mx3-hosting.jellyfish.systems
+0.0.0.0 spf.web-hosting.com

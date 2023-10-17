@@ -11,7 +11,7 @@
 0.0.0.0 discord.com
 0.0.0.0 discordstatus.com
 0.0.0.0 dl.discordapp.net
-0.0.0.0 feedback.discord.com # Unused
+0.0.0.0 feedback.discord.com
 0.0.0.0 gateway.discord.gg
 0.0.0.0 gateway-us-east1-a.discord.gg
 0.0.0.0 gateway-us-east1-b.discord.gg

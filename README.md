@@ -30,7 +30,7 @@ Here are some lists.
 
 ### Legal
 
-I am not liable for any damage. Therefore, feel free to use Codeberg Issues to report problems and broken websites. You are the only one responsible for using this list.
+I am not liable for any damage. Therefore, feel free to use Codeberg Issues to report problems and broken websites. [You are the only one responsible for using this list](https://r.cyanic.me/answer/4).
 
 ---
 Maintained by [Cyanic**76**](https://cyanic.me).
