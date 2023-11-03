@@ -29,15 +29,20 @@ When creating Pull Requests, you should add your hosts in alphabetical order. "B
 
 ## 3. New domains
 
-When asking for new domains to be added, it is **your duty** to make sure they're not already in the lists.
+When asking for new domains to be added, it is **your duty** to make sure they're not already in the lists. When and where possible, please remove any duplicates.
 
 ## 4. Removals
 
 When asking for a removal, you must provide a **valid reason** (like [this](https://codeberg.org/Cyanic76/Hosts/issues/7)) and a list of hosts that shall be removed with regards to that reason.
 
+### a. Specific Cases
+
+You may not report website breakage related to the following:
+> apkmirror.com
+
 ## 5. Duplicates
 
-If you create an issue that gets discarded for being a duplicate, you become subject to the conditions mentioned in 6).
+If you create an issue that gets discarded for being a duplicate and/or is related to the "allhosts" feature, you become subject to the conditions mentioned in 6).
 
 ### a. allhosts
 

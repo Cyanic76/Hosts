@@ -458,6 +458,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.cdn.ad.xiaomi.com
 
 # ================================== OTHER ADS
+0.0.0.0 07c225f3.online # breaks apkmirror
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -481,6 +482,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a-ads.com
 0.0.0.0 a-fds.youborafds01.com
 0.0.0.0 a.ad.gt
+0.0.0.0 a.powerspace.com
 0.0.0.0 a.pub.network
 0.0.0.0 aa-metrics.beauty.hotpepper.jp
 0.0.0.0 aa-metrics.recruit-card.jp
@@ -580,6 +582,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auiopt.unityads.unity3d.com
 0.0.0.0 b1h.zemanta.com
 0.0.0.0 b1sync.zemanta.com
+0.0.0.0 bat.bing.com
 0.0.0.0 be.durationmedia.net
 0.0.0.0 bid.bricks-co.com
 0.0.0.0 bid.g.doubleclick.net
@@ -601,6 +604,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
 0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
 0.0.0.0 cdn-creatives-prd.unityads.unity3d.com
+0.0.0.0 cdn.powerspace.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.ss.anno.channel4.com
 0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
@@ -806,6 +810,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssb-itx4.smartadserver.com
 0.0.0.0 ssb-itx5.smartadserver.com
 0.0.0.0 ssc-cms.33across.com
+0.0.0.0 static.addtoany.com
 0.0.0.0 static.ads.brave.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.criteo.net
@@ -1209,6 +1214,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 deal24.lv
 0.0.0.0 dig.ultimedia.com
 0.0.0.0 dmxleo.com
+0.0.0.0 uk-script.dotmetrix.net
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 e.crashlytics.com
@@ -1388,6 +1394,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 secure.quantserve.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 skimresources.com
+0.0.0.0 smetrics.cdiscount.com
 0.0.0.0 smetrics.fnac.com
 0.0.0.0 smetrics.ni.com
 0.0.0.0 snigelweb.com
@@ -1433,6 +1440,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.hubspot.com
 0.0.0.0 tracker.yougov.com
 0.0.0.0 tracking.emerse.com
+0.0.0.0 tracking.cdiscount.com
 0.0.0.0 trackonomics.com
 0.0.0.0 travelncs.com
 0.0.0.0 trk.pinterest.com
@@ -1495,6 +1503,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 horizon.twitter.com
 0.0.0.0 partnerstream1.twitter.com
 0.0.0.0 partnerstream2.twitter.com
+0.0.0.0 platform.twitter.com
 0.0.0.0 s.ads-twitter.com
 0.0.0.0 sites.twitter.com
 0.0.0.0 syndication.twimg.com

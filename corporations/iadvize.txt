@@ -6,5 +6,6 @@
 
 0.0.0.0 fstatic.iadvize.com
 0.0.0.0 gapi.iadvize.com
+0.0.0.0 halc.iadvize.com
 0.0.0.0 live.iadvize.com
 0.0.0.0 static.iadvize.com
