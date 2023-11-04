@@ -7,8 +7,8 @@ corporations/iadvize.txt
 kind/cf_security_test.txt
 
 # May be released soon
-corporations/asus.txt
-corporations/canon.txt
+corporations/OEMs/asus.txt
+corporations/OEMs/canon.txt
 corporations/oracle.txt
 corporations/stripe.txt
 kind/annoyances.txt

@@ -2,7 +2,7 @@
 ! Expires: 1 month
 ! Description: A list of HiCloud domains.
 ! Homepage: https://hosts.cyanic.me
-! Source: https://hosts.cyanic.me/corporations/hicloud.txt
+! Source: https://hosts.cyanic.me/corporations/OEMs/hicloud.txt
 
 # Some of these hosts (including metrics) are in the main cyanicHosts.txt file.
 

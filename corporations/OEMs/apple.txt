@@ -2,7 +2,7 @@
 ! Expires: 1 month
 ! Description: A short list of Apple domains.
 ! Homepage: https://hosts.cyanic.me
-! Source: https://hosts.cyanic.me/corporations/apple.txt
+! Source: https://hosts.cyanic.me/corporations/OEMs/apple.txt
 
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 apple.com

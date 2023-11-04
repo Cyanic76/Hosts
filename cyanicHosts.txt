@@ -1185,6 +1185,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 click.pstmrk.it
 0.0.0.0 clickhouse.com
 0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 client-events.g1.services.openai.com
 0.0.0.0 client-metrics-cf.chess.com
 0.0.0.0 client.update.sandai.net
 0.0.0.0 cloudflareinsights.com

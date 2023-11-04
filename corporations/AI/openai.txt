@@ -1,0 +1,42 @@
+! Title: OpenAI - Cyanic Hosts
+! Expires: 1 month
+! Description: A list of OpenAI domains.
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/corporations/AI/openai.txt
+
+# Apps
+0.0.0.0 chat.apps.openai.com
+0.0.0.0 gdrive-browsing.apps.openai.com
+0.0.0.0 gdrive-plugin.apps.openai.com
+0.0.0.0 graphql.apps.openai.com
+0.0.0.0 graphql-explorer.apps.openai.com
+0.0.0.0 home.apps.openai.com
+0.0.0.0 onramp.apps.openai.com
+
+# ChatGPT
+0.0.0.0 chat.openai.com
+
+# Main website
+0.0.0.0 admin-internal.apps.openai.com
+0.0.0.0 api.openai.com
+0.0.0.0 client-events.g1.services.openai.com
+0.0.0.0 contest.openai.com
+0.0.0.0 debate-game.openai.com
+0.0.0.0 feather-chickadee.openai.com
+0.0.0.0 feather-mig.openai.com
+0.0.0.0 feather.openai.com
+0.0.0.0 g1.services.openai.com
+0.0.0.0 glow.openai.com
+0.0.0.0 graphql-explorer.g1.services.openai.com
+0.0.0.0 graphql.g1.services.openai.com
+0.0.0.0 images.openai.com
+0.0.0.0 kaleidoscope.openai.com
+0.0.0.0 msly.api.openai.com
+0.0.0.0 openai.com
+0.0.0.0 prod-first-party-aks-scentralus-api-b.api.openai.com
+0.0.0.0 prod-primary-aks-scentralus-api-b.api.openai.com
+0.0.0.0 retrieval.apps.openai.com
+0.0.0.0 scim.openai.com
+0.0.0.0 sombra-external.openai.com
+0.0.0.0 twill.openai.com
+0.0.0.0 vm-twill.staging.openai.com
