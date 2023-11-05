@@ -4,10 +4,13 @@
 ! Homepage: https://hosts.cyanic.me
 ! Source: https://hosts.cyanic.me/kind/cookie_banners.txt
 
+0.0.0.0 a.delivery.consentmanager.net
 0.0.0.0 api.conversant.mgr.consensu.org
 0.0.0.0 api.sibboventures.mgr.consensu.org
 0.0.0.0 api.skimlinks.mgr.consensu.org
+0.0.0.0 app.consentmanager.net
 0.0.0.0 ats-wrapper.privacymanager.io
+0.0.0.0 b.delivery.consentmanager.net
 0.0.0.0 c.delivery.consentmanager.net
 0.0.0.0 captify.mgr.consensu.org
 0.0.0.0 ccpa.sp-prod.net
@@ -34,15 +37,19 @@
 0.0.0.0 consent.yahoo.com
 0.0.0.0 cookie.lmgssp.com
 0.0.0.0 cookielaw.org
+0.0.0.0 d.delivery.consentmanager.net
 0.0.0.0 delivery.consentmanager.net
 0.0.0.0 gdpr-tcfv2.sp-prod.net
 0.0.0.0 geo.privacymanager.io
+0.0.0.0 help.consentmanager.net
 0.0.0.0 hs-banner.com
 0.0.0.0 id.rlcdn.com
 0.0.0.0 js.hs-banner.com
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 launchpad.privacymanager.io
 0.0.0.0 launchpad-wrapper.privacymanager.io
+0.0.0.0 lb.consentmanager.net
+0.0.0.0 lbnew.consentmanager.net
 0.0.0.0 log.uniconsent.mgr.consensu.org
 0.0.0.0 marfeel.mgr.consensu.org
 0.0.0.0 prefmgr-cookie.truste-svc.net

@@ -1,0 +1,10 @@
+! Title: Roblox - Cyanic Hosts
+! Expires: 1 month
+! Description: A list of Roblox domains.
+! Homepage: https://hosts.cyanic.me
+! Source: https://hosts.cyanic.me/corporations/Games/roblox.txt
+
+0.0.0.0 ephemeralcounters.api.roblox.com
+0.0.0.0 lms.roblox.com
+0.0.0.0 upload.crashes.rbxinfra.com
+0.0.0.0 upload.crashes.roblox.com

@@ -38,7 +38,7 @@ When asking for a removal, you must provide a **valid reason** (like [this](http
 ### a. Specific Cases
 
 You may not report website breakage related to the following:
-> apkmirror.com
+> apkmirror[dot]com
 
 ## 5. Duplicates
 

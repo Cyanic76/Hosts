@@ -402,6 +402,7 @@
 0.0.0.0 m.2mdn.net
 0.0.0.0 mail-ads.google.com
 0.0.0.0 mail-attachment.googleusercontent.com
+0.0.0.0 manifest.googlevideo.com
 0.0.0.0 maps.google.com
 0.0.0.0 maps.googleapis.com
 0.0.0.0 maps.gstatic.com
