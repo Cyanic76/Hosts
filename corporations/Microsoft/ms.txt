@@ -47,6 +47,7 @@
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 ca.telemetry.microsoft.com
 0.0.0.0 cdn-dynmedia-1.microsoft.com
+0.0.0.0 cdn.support.services.microsoft.com
 0.0.0.0 cdnprod.myanalytics.microsoft.com
 0.0.0.0 checkappexec.microsoft.com
 0.0.0.0 clientconfig.passport.net
@@ -86,6 +87,7 @@
 0.0.0.0 fe3.update.microsoft.com
 0.0.0.0 fe3cr.delivery.mp.microsoft.com
 0.0.0.0 feedback.search.microsoft.com
+0.0.0.0 fpt.microsoft.com
 0.0.0.0 fs.microsoft.com
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
 0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
@@ -393,6 +395,12 @@
 0.0.0.0 ns2-39.azure-dns.com
 0.0.0.0 ns3-39.azure-dns.com
 0.0.0.0 ns4-39.azure-dns.com
+
+# ================> AZURE
+0.0.0.0 js.monitor.azure.com
+
+# ================> MSECND
+0.0.0.0 az416426.vo.msecnd.net
 
 # ================> WINDOWSAZUREdotCOM & ONENOTE
 0.0.0.0 cdn.onenote.net

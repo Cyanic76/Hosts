@@ -10,6 +10,7 @@
 # consent.google.* can be bypassed without JS
 
 # ================================== Ezcookie banner
+0.0.0.0 emojis.wiki
 0.0.0.0 itslinuxfoss.com
 0.0.0.0 linuxize.com
 0.0.0.0 linuxopsys.com

@@ -111,6 +111,9 @@
 
 # Other
 #0.0.0.0 *.safeframe.googlesyndication.com
+0.0.0.0 _netblocks.google.com
+0.0.0.0 _netblocks2.google.com
+0.0.0.0 _netblocks3.google.com
 0.0.0.0 _spf.google.com
 0.0.0.0 2mdn.net
 0.0.0.0 300zlf-dnsotls-ds.metric.gstatic.com
@@ -154,6 +157,7 @@
 0.0.0.0 alt6-mtalk.google.com
 0.0.0.0 alt7-mtalk.google.com
 0.0.0.0 alt8-mtalk.google.com
+0.0.0.0 ampcid.google.com
 0.0.0.0 analytics.admob.com
 0.0.0.0 analytics-alv.google.com
 0.0.0.0 analyticsinsights-pa.googleapis.com
@@ -210,6 +214,7 @@
 0.0.0.0 carrers.google.com
 0.0.0.0 cdn.ampproject.org
 0.0.0.0 cdn.googletoolservices.com
+0.0.0.0 cello.client-channel.google.com
 0.0.0.0 chrome.com
 0.0.0.0 ci1.googleusercontent.com
 0.0.0.0 ci2.googleusercontent.com
@@ -262,6 +267,7 @@
 0.0.0.0 domains.google.com
 0.0.0.0 doodle4google.com
 0.0.0.0 drive-thirdparty.googleusercontent.com
+0.0.0.0 drivefrontend-pa.clients6.google.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 edgedl.me.gvt1.com
 0.0.0.0 edu.google.com
@@ -428,6 +434,9 @@
 0.0.0.0 opensource.googleblog.com
 0.0.0.0 opensourcelive.withgoogle.com
 0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 ota-cache1.googlezip.net
+0.0.0.0 ota-cache2.googlezip.net
+0.0.0.0 ota.googlezip.net
 0.0.0.0 p.admob.com
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead1.googlesyndication.com

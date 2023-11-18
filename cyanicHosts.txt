@@ -689,6 +689,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn.adrise.tv
 0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 cdn.adsninja.ca
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
 0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
@@ -776,6 +777,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e1.emxdgt.com
 0.0.0.0 eb2.3lift.com
 0.0.0.0 ec.atdmt.com
+0.0.0.0 edge.ads.twitch.tv
 0.0.0.0 emxdgt.com
 0.0.0.0 eu-eb2.3lift.com
 0.0.0.0 eu-tlx.3lift.com
@@ -1374,6 +1376,7 @@ ovhjisorfa.com
 0.0.0.0 engine.bliink.io
 0.0.0.0 entrepreneur.com
 0.0.0.0 eonline.com
+0.0.0.0 eu.ekatox.com
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 exchange.consumabletv.com
 0.0.0.0 f.youku.com
@@ -1568,6 +1571,7 @@ ovhjisorfa.com
 0.0.0.0 analytics1.us.archive.org
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics.archive.org
+0.0.0.0 analytics.m7g.twitch.tv
 0.0.0.0 analytics.makeitmeme.com
 0.0.0.0 analytics.nodecraft.com
 0.0.0.0 analytics.pinterest.com
@@ -1804,6 +1808,7 @@ ovhjisorfa.com
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mypic.icu
 0.0.0.0 newscloud.or.kr
+0.0.0.0 nom.telemetrydeck.com
 0.0.0.0 nrs-group.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 o.skimresources.com
