@@ -14,7 +14,7 @@ The **main list**, `https://hosts.cyanic.me/cyanicHosts.txt`, includes 1500+ tel
 
 # You choose what to block
 
-Block corporations **as you like**. There's **32+** files for you to choose from.
+Block corporations **as you like**. There's more than **40** files for you to choose from.
 
 ## Lists
 

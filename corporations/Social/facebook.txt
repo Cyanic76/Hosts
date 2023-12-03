@@ -763,13 +763,18 @@
 0.0.0.0 kaios-d.facebook.com
 0.0.0.0 m.facebook.com
 0.0.0.0 m-facebook.ct8.pl
+0.0.0.0 messages-facebook.com
 0.0.0.0 meta.com
 0.0.0.0 mobile.beta.facebook.com
 0.0.0.0 mobile.facebook.com
 0.0.0.0 mqtt.c10r.facebook.com
 0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 mqtt.vvv.facebook.com
+0.0.0.0 ncontent.xx.fbcdn.net
 0.0.0.0 netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 newsroom.fb.cdn
+0.0.0.0 orcart.facebook.com
 0.0.0.0 origincache-atn.facebook.com
 0.0.0.0 origincache-ai-01-05-ash3.fbcdn.net
 0.0.0.0 origincache-ash.t.fbcdn.net
@@ -828,6 +833,8 @@
 0.0.0.0 profile.ak.facebook.com.edgesuite.net
 0.0.0.0 profile.ak.fbcdn.net
 0.0.0.0 profile.xx.fbcdn.net
+0.0.0.0 pt-br.facebook.com
+0.0.0.0 research.facebook.com
 0.0.0.0 rupload.facebook.com
 0.0.0.0 scontent-1.2914.fna.fbcdn.net
 0.0.0.0 scontent-2.2914.fna.fbcdn.net

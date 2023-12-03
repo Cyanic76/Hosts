@@ -978,6 +978,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mwzeom.zeotap.com
 0.0.0.0 myad.vn
 0.0.0.0 nalacrtfina.com
+0.0.0.0 nautik.app
 0.0.0.0 nautikapp.com
 0.0.0.0 nawosfomgap.com
 0.0.0.0 ncojacvihli.com
