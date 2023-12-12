@@ -44,23 +44,25 @@ ff02::3 ip6-allhosts
 
 # ================================== COOKIE BANNERS
 # See /corporations/Other/cookie_banners.txt for more
+0.0.0.0 a.delivery.consentmanager.net
 0.0.0.0 api.conversant.mgr.consensu.org
 0.0.0.0 api.sibboventures.mgr.consensu.org
 0.0.0.0 api.skimlinks.mgr.consensu.org
+0.0.0.0 app.consentmanager.net
 0.0.0.0 ats-wrapper.privacymanager.io
+0.0.0.0 b.delivery.consentmanager.net
 0.0.0.0 c.delivery.consentmanager.net
 0.0.0.0 captify.mgr.consensu.org
 0.0.0.0 ccpa.sp-prod.net
-0.0.0.0 cdn-au.onetrust.com
-0.0.0.0 cdn.conversant.mgr.consensu.org
-0.0.0.0 cdn-privacy-mgmt.com
-0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 cdn.appconsent.io
+0.0.0.0 cdn-au.onetrust.com
 0.0.0.0 cdn.consentframework.com
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cdn.consentmanager.net
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn-cookieyes.com
+0.0.0.0 cdn-privacy-mgmt.com
+0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 choices.consentframework.com
 0.0.0.0 choices.truste.com
 0.0.0.0 choices.trustarc.com
@@ -70,27 +72,38 @@ ff02::3 ip6-allhosts
 0.0.0.0 collector.appconsent.io
 0.0.0.0 consensu.org
 0.0.0.0 consentmanager.mgr.consensu.org
-0.0.0.0 consent.trustarc.com
 0.0.0.0 consent-pref.trustarc.com
 0.0.0.0 consent-st.trustarc.com
+0.0.0.0 consent.trustarc.com
+0.0.0.0 consent.yahoo.com
 0.0.0.0 cookie.lmgssp.com
 0.0.0.0 cookielaw.org
+0.0.0.0 d.delivery.consentmanager.net
 0.0.0.0 delivery.consentmanager.net
+0.0.0.0 directory.cookieyes.com
 0.0.0.0 gdpr-tcfv2.sp-prod.net
 0.0.0.0 geo.privacymanager.io
+0.0.0.0 help.consentmanager.net
 0.0.0.0 hs-banner.com
 0.0.0.0 id.rlcdn.com
 0.0.0.0 js.hs-banner.com
 0.0.0.0 js.hs-scripts.com
+0.0.0.0 launchpad.privacymanager.io
+0.0.0.0 launchpad-wrapper.privacymanager.io
+0.0.0.0 lb.consentmanager.net
+0.0.0.0 lbnew.consentmanager.net
+0.0.0.0 log.cookieyes.com
 0.0.0.0 log.uniconsent.mgr.consensu.org
 0.0.0.0 marfeel.mgr.consensu.org
 0.0.0.0 prefmgr-cookie.truste-svc.net
 0.0.0.0 privacy-center.org
+0.0.0.0 privacy.gatekeeperconsent.com
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 sourcepoint.mgr.consensu.org
 0.0.0.0 tarteaucitron.io
 0.0.0.0 test.cmp.quantcast.com
+0.0.0.0 the.gatekeeperconsent.com
 0.0.0.0 uniconsent.com
 # Might as well block
 # 0.0.0.0 *.mgr.consensu.org
@@ -118,6 +131,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.facebook.com
 0.0.0.0 b-api.facebook.com
 0.0.0.0 b-graph.facebook.com
+0.0.0.0 b-graph-fallback.facebook.com
+0.0.0.0 connect.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 edge-star-shv-01-bom1.facebook.com
@@ -129,16 +144,23 @@ ff02::3 ip6-allhosts
 0.0.0.0 facebookads.gafin.vn
 0.0.0.0 fcd32f50e80-qonnvwqa1640495824-sonar.xz.fbcdn.net
 0.0.0.0 graph.facebook.com
+0.0.0.0 graph-fallback.facebook.com
+0.0.0.0 graph-fallback.instagram.com
+0.0.0.0 graph.fbpigeon.com
+0.0.0.0 graph.whatsapp.com
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 mqtt.c10r.facebook.com
 0.0.0.0 pixel.facebook.com
 0.0.0.0 unblockfacebook.co.uk
+0.0.0.0 z-m-graph.facebook.com
 
 # ================================== GOOGLE
 # Note that other subdomains and domains may be under other categories and in other files.
 0.0.0.0 0.fls.doubleclick.net
 0.0.0.0 300zlf-dnsotls-ds.metric.gstatic.com
 0.0.0.0 3cbc684bb9f2dcdd3a3794de9de52f63.safeframe.googlesyndication.com
+0.0.0.0 3773406.fls.doubleclick.net
+0.0.0.0 4954221.fls.doubleclick.net
 0.0.0.0 a.admob.com
 0.0.0.0 ad-ace.doubleclick.net
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
@@ -174,6 +196,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dart.l.doubleclick.net
 0.0.0.0 doubleclick.net
 0.0.0.0 doubleclickbygoogle.com
+0.0.0.0 e.crashlytics.com
 0.0.0.0 ebay.doubleclick.net
 0.0.0.0 fb50436e04f648465c9ba6a8892caa86.safeframe.googlesyndication.com
 0.0.0.0 firebaselogging-pa.googleapis.com
@@ -233,6 +256,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubsub.googleapis.com
 0.0.0.0 region1.analytics.google.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 reports.doubleclick.com
 0.0.0.0 sa-in-f188.1e100.net
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 service.urchin.com
@@ -243,11 +268,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 static.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
+0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 tg-in-f188.1e100.net
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tracking.admobsphere.com
 0.0.0.0 trakksocial.googlecode.com
+0.0.0.0 uk.doubleclick.net
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 wa-in-f188.1e100.net
 0.0.0.0 wl-in-f188.1e100.net
@@ -258,6 +286,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
+0.0.0.0 www3.doubleclick.net
 
 # ================================== LUCKYORANGE
 0.0.0.0 cdn.luckyorange.com
@@ -537,6 +566,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 open.oneplus.net
 0.0.0.0 origin-api-forums.nvidia.com
 0.0.0.0 prod1.email.nvidia.com
+0.0.0.0 rogue-pc.api.wwsga.me
 0.0.0.0 samsungads.com
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 sdkconfig.ad.xiaomi.com
@@ -607,6 +637,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad1.nend.net
 0.0.0.0 ad2.dev.nend.net
 0.0.0.0 ad2.nend.net
+0.0.0.0 ad.360yield.com
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-delivery.net
@@ -618,8 +649,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.cgi.cz
 0.0.0.0 ad.eurosport.com
 0.0.0.0 ad.foxnetworks.com
+0.0.0.0 ad.ldplayer.net
 0.0.0.0 ad.missena.io
 0.0.0.0 ad.mrtnsrv.com
+0.0.0.0 ad.sxp.smartclip.net
+0.0.0.0 ad.turn.com
 0.0.0.0 adage.com
 0.0.0.0 adcamqawlp.com
 0.0.0.0 adclick.com
@@ -638,9 +672,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adnext.fr
 0.0.0.0 adnxs-simple.com
 0.0.0.0 adqlamlunx.com
-0.0.0.0 ad.360yield.com
-0.0.0.0 ad.sxp.smartclip.net
-0.0.0.0 ad.turn.com
 0.0.0.0 ads.assemblyexchange.com
 0.0.0.0 ads.avads.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
@@ -649,6 +680,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads.deviantart.com
 0.0.0.0 ads.flashbid.io
+0.0.0.0 ads.flurry.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads.lfstmedia.com
 0.0.0.0 ads.linkedin.com
@@ -676,6 +708,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adqlamlunx.com
 0.0.0.0 adthrive.com
 0.0.0.0 adtilt.com
+0.0.0.0 advertise.ldplayer.net
 0.0.0.0 advil.waze.com
 0.0.0.0 adx.adform.net
 0.0.0.0 afbarttatnih.com
@@ -695,6 +728,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ajvnragtua.com
 0.0.0.0 aklorswikk.com
 0.0.0.0 akzwupanmk.com
+0.0.0.0 alb-fc2psc581f288qx1e4.cn-shanghai.alb.aliyuncs.com
 0.0.0.0 alpharxabo.com
 0.0.0.0 alxhiccwizce.com
 0.0.0.0 alxlarhwao.com
@@ -759,7 +793,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bhogzuzupam.com
 0.0.0.0 bhuwannatlza.com
 0.0.0.0 bid.bricks-co.com
-0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 biplihopsdim.com
 0.0.0.0 birqmiowxfh.com
 0.0.0.0 birzpuognot.com
@@ -858,7 +891,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dmupzafugoxd.com
 0.0.0.0 dns-a.mcafee.com
 0.0.0.0 dns-b.mcafee.com
-0.0.0.0 doubleclick.net
 0.0.0.0 dpyozpogdabz.com
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 dsp.adotmob.com
@@ -1231,7 +1263,6 @@ ovhjisorfa.com
 0.0.0.0 rakkuntwex.com
 0.0.0.0 rassixofkrc.com
 0.0.0.0 rceasfaggdu.com
-0.0.0.0 reports.doubleclick.com
 0.0.0.0 rereddit.com
 0.0.0.0 rhuagdabrah.com
 0.0.0.0 ribzfizigxti.com
@@ -1675,17 +1706,20 @@ ovhjisorfa.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.pix.fr
 0.0.0.0 analytics.pointdrive.linkedin.com
+0.0.0.0 analytics.rayjump.com
 0.0.0.0 analytics.tiktok.come
 0.0.0.0 anp.mxptint.net
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.fouanalytics.com
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api-glb.smoot.apple.com
+0.0.0.0 api-hotjar.com
+0.0.0.0 api.ingest.marketing.gamesight.io
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.poki.com
-0.0.0.0 api.rlcdn.com
-0.0.0.0 api-hotjar.com
 0.0.0.0 api-sdk.datadome.co
+0.0.0.0 api.rlcdn.com
+0.0.0.0 api-us.gameanalytics.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 app-measurement.com
@@ -1726,6 +1760,7 @@ ovhjisorfa.com
 0.0.0.0 btloader.com
 0.0.0.0 bttrack.com
 0.0.0.0 business-api.tiktok.com
+0.0.0.0 capture.trackjs.com
 0.0.0.0 cdn.intergient.com
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.nexx360.io
@@ -1736,6 +1771,7 @@ ovhjisorfa.com
 0.0.0.0 cdn.snigelweb.com
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 cdn.statically.io
+0.0.0.0 cdn.trackjs.com
 0.0.0.0 cdn.wazimo.com
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 chat.missena.io
@@ -1757,6 +1793,7 @@ ovhjisorfa.com
 0.0.0.0 configuration.apple.com.akadns.net
 0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 consentdeliveryfd.azurefd.net
+0.0.0.0 console.gamesight.io
 0.0.0.0 counter.yadro.ru
 0.0.0.0 countess.twitch.tv
 0.0.0.0 cp76677.edgefcs.net
@@ -1789,6 +1826,7 @@ ovhjisorfa.com
 0.0.0.0 edge.quantserve.com
 0.0.0.0 ejp.rlcdn.com
 0.0.0.0 ephemeralcounters.api.roblox.com
+0.0.0.0 errortracking.deepl.com
 0.0.0.0 eu-west-1.event.prod.bidr.io
 0.0.0.0 event.clientgear.com
 0.0.0.0 events.launchdarkly.com
@@ -1983,6 +2021,7 @@ ovhjisorfa.com
 0.0.0.0 stats.adinplay.com
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 stats.redditmedia.com
+0.0.0.0 stats.unity3d.com
 0.0.0.0 stats.wp.com
 0.0.0.0 studio-tag.teads.tv
 0.0.0.0 stun.sonetel.com
@@ -2009,6 +2048,7 @@ ovhjisorfa.com
 0.0.0.0 telemetry.vg.ac.pvp.net
 0.0.0.0 tpsc-eu3.doubleverify.com
 0.0.0.0 track.adtraction.com
+0.0.0.0 track-api.gamesight.io
 0.0.0.0 track.getsidekick.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.mixmax.com

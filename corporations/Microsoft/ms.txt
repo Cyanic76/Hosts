@@ -361,6 +361,7 @@
 0.0.0.0 blob.mwh01prdstr06a.store.core.windows.net
 0.0.0.0 cu1pehnswad01.servicebus.windows.net
 0.0.0.0 cu1pehnswss01.servicebus.windows.net
+0.0.0.0 efrcmsstoragep.blob.core.windows.net
 0.0.0.0 enterpriseregistration.windows.net
 0.0.0.0 graph.windows.net
 0.0.0.0 iriscoremetadataprod.blob.core.windows.net

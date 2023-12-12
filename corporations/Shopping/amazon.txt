@@ -47,10 +47,15 @@
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 docs.aws.amazon.com
 0.0.0.0 download.alexa.com
+0.0.0.0 fc-euc1-00-pics-bkt-00.s3.amazonaws.com
+0.0.0.0 fc-euc1-00-pics-bkt-00.s3.eu-central-1.amazonaws.com
+0.0.0.0 firehose.us-west-2.amazonaws.com
+0.0.0.0 firewall-external-2134955858.eu-west-1.elb.amazonaws.com
 0.0.0.0 flex.amazon.com
 0.0.0.0 fls-eu.amazon.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 gaming.amazon.com
+0.0.0.0 gtrk.s3.amazonaws.com
 0.0.0.0 hiring.amazon.com
 0.0.0.0 ignite.amazon.com
 0.0.0.0 images-amazon.com

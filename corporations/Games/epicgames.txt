@@ -19,6 +19,19 @@
 0.0.0.0 datarouter.ol.epicgames.com
 0.0.0.0 datarouter-prod.ak.epicgames.com
 0.0.0.0 datarouter-weighted.ol.epicgames.com
+0.0.0.0 eos-gateway-ingressv2-prod-c1-w2.befa.live.use1a.on.epicgames.com
+0.0.0.0 eos-gateway-ingressv2-prod-c1-w4.befa.live.use1a.on.epicgames.com
+0.0.0.0 eos-gateway-ingressv2-prod-c1-w5.befa.live.use1a.on.epicgames.com
+0.0.0.0 eos-gateway-ingressv2-prod-c2-w1.befa.live.use1a.on.epicgames.com
+0.0.0.0 eos-gateway-ingressv2-prod-c2-w2.befa.live.use1a.on.epicgames.com
+0.0.0.0 eos-gateway-ingressv2-prod-c2-w3.befa.live.use1a.on.epicgames.com
+0.0.0.0 eos-gateway-ingressv2-prod-c2-w4.befa.live.use1a.on.epicgames.com
+0.0.0.0 eos-gateway-ingressv2-prod-c2-w5.befa.live.use1a.on.epicgames.com
+0.0.0.0 eos-gateway-ingressv2-prod-c3-w1.befa.live.use1a.on.epicgames.com
+0.0.0.0 eos-gateway-ingressv2-prod-c3-w2.befa.live.use1a.on.epicgames.com
+0.0.0.0 eos-gateway-ingressv2-prod-c3-w3.befa.live.use1a.on.epicgames.com
+0.0.0.0 eos-gateway-ingressv2-prod-c3-w4.befa.live.use1a.on.epicgames.com
+0.0.0.0 eos-gateway-ingressv2-prod-c3-w5.befa.live.use1a.on.epicgames.com
 0.0.0.0 epicgames.com
 0.0.0.0 epic-social-social-modules-prod.ol.epicgames.com
 0.0.0.0 friends-public-service-prod01.ol.epicgames.com
@@ -45,4 +58,6 @@
 0.0.0.0 store-content-ipv4.ak.epicgames.com
 0.0.0.0 store-site-backend-static-ipv4.ak.epicgames.com
 0.0.0.0 tracking.epicgames.com
+0.0.0.0 turn-euc1.us.rtcp.on.epicgames.com
+0.0.0.0 turn.rtcp.on.epicgames.com
 0.0.0.0 xmpp-service-prod.ol.epicgames.com

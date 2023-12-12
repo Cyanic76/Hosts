@@ -15,6 +15,10 @@
 0.0.0.0 hostmaster.1und1.com
 0.0.0.0 lavidametal.files.wordpress.com
 0.0.0.0 movable-ink-344.com
+0.0.0.0 ngx.download.nvidia.com
+
+# DigiCert's ocsp
+0.0.0.0 ocsp.digicert.com
 
 # domaincontrol.com belongs to GoDaddy.
 0.0.0.0 ns75.domaincontrol.com
@@ -42,3 +46,6 @@
 0.0.0.0 mx2-hosting.jellyfish.systems
 0.0.0.0 mx3-hosting.jellyfish.systems
 0.0.0.0 spf.web-hosting.com
+
+# Steam's Captive Portal check
+0.0.0.0 test.steampowered.com

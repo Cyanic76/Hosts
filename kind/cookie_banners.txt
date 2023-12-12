@@ -20,6 +20,7 @@
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cdn.consentmanager.net
 0.0.0.0 cdn.cookielaw.org
+0.0.0.0 cdn-cookieyes.com
 0.0.0.0 cdn-privacy-mgmt.com
 0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 choices.consentframework.com
@@ -39,6 +40,7 @@
 0.0.0.0 cookielaw.org
 0.0.0.0 d.delivery.consentmanager.net
 0.0.0.0 delivery.consentmanager.net
+0.0.0.0 directory.cookieyes.com
 0.0.0.0 gdpr-tcfv2.sp-prod.net
 0.0.0.0 geo.privacymanager.io
 0.0.0.0 help.consentmanager.net
@@ -50,15 +52,18 @@
 0.0.0.0 launchpad-wrapper.privacymanager.io
 0.0.0.0 lb.consentmanager.net
 0.0.0.0 lbnew.consentmanager.net
+0.0.0.0 log.cookieyes.com
 0.0.0.0 log.uniconsent.mgr.consensu.org
 0.0.0.0 marfeel.mgr.consensu.org
 0.0.0.0 prefmgr-cookie.truste-svc.net
 0.0.0.0 privacy-center.org
+0.0.0.0 privacy.gatekeeperconsent.com
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 sourcepoint.mgr.consensu.org
 0.0.0.0 tarteaucitron.io
 0.0.0.0 test.cmp.quantcast.com
+0.0.0.0 the.gatekeeperconsent.com
 0.0.0.0 uniconsent.com
 # Might as well block
 # 0.0.0.0 *.mgr.consensu.org

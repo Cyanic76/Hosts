@@ -47,6 +47,7 @@
 0.0.0.0 ams12-017.ff.avast.com
 0.0.0.0 amx.mp.avast.com
 0.0.0.0 analytics.ff.avast.com
+0.0.0.0 analytics.ns1.ff.avast.com
 0.0.0.0 analytics-sea.ff.avast.com
 0.0.0.0 analytics-us.ff.avast.com
 0.0.0.0 analytics-v4-poc.ff.avast.com
@@ -84,16 +85,26 @@
 0.0.0.0 business.avast.com
 0.0.0.0 butler.avast.com
 0.0.0.0 ca.portal.avast.com
+0.0.0.0 ccleaner.tools.avcdn.net
 0.0.0.0 cdn-download.avastbrowser.com
+0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 device-control.ff.avast.com
+0.0.0.0 download.ccleaner.com
+0.0.0.0 emupdate.avcdn.net
 0.0.0.0 feed.ff.avast.com
 0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ip-info.ns1.ff.avast.com
 0.0.0.0 ipmcdn.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 ipm-provider.ns1.ff.avast.com
 0.0.0.0 mobile-campaigns.avast.com
 0.0.0.0 ncc.avast.com
+0.0.0.0 secure.ccleaner.com
 0.0.0.0 shepherd.db.avast.com
 0.0.0.0 shepherd.ff.avast.com
+0.0.0.0 shepherd.ns1.ff.avast.com
+0.0.0.0 softwareupdatechecker.live-everest-media.net
 0.0.0.0 streamback.ff.avast.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 verify.ccleaner.com
 # will add more later

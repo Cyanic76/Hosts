@@ -298,6 +298,7 @@
 0.0.0.0 aura-11-01-snc7.facebook.com
 0.0.0.0 b-api.facebook.com
 0.0.0.0 b-graph.facebook.com
+0.0.0.0 b-graph-fallback.facebook.com
 0.0.0.0 b.ns.facebook.com
 0.0.0.0 b.static.ak.facebook.com
 0.0.0.0 b.static.ak.fbcdn.net
@@ -699,8 +700,13 @@
 0.0.0.0 free.facebook.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.facebook-hardware.com
+0.0.0.0 graph-fallback.facebook.com
+0.0.0.0 graph-fallback.instagram.com
+0.0.0.0 graph.fbpigeon.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.oculus.com
+0.0.0.0 graph.whatsapp.com
+0.0.0.0 graph.whatsapp.net
 0.0.0.0 h.beta.facebook.com
 0.0.0.0 h.facebook.com
 0.0.0.0 hacking-facebook.com
