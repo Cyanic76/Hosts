@@ -12,7 +12,7 @@
 
 > <b>Maintenance Announcement</b><br>
 > The GitHub mirror repository will be archived on 2024-01-01.<br>
-> <a href="https://r.cyanic.me/answer/5">Learn more</a>
+> <a href="https://r.cyanic.me/answer/hosts/1.html">Learn more</a>
 
 # About
 
