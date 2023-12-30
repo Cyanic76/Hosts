@@ -95,6 +95,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.cookieyes.com
 0.0.0.0 log.uniconsent.mgr.consensu.org
 0.0.0.0 marfeel.mgr.consensu.org
+0.0.0.0 ms-cookie-sync.presage.io
 0.0.0.0 prefmgr-cookie.truste-svc.net
 0.0.0.0 privacy-center.org
 0.0.0.0 privacy.gatekeeperconsent.com
@@ -161,6 +162,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 3cbc684bb9f2dcdd3a3794de9de52f63.safeframe.googlesyndication.com
 0.0.0.0 3773406.fls.doubleclick.net
 0.0.0.0 4954221.fls.doubleclick.net
+0.0.0.0 54f67a25a5aaa3e2a1652aebd9aa7902.safeframe.googlesyndication.com
+0.0.0.0 85a77e87e386810dd9491a3c80093a14.safeframe.googlesyndication.com
 0.0.0.0 a.admob.com
 0.0.0.0 ad-ace.doubleclick.net
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
@@ -256,6 +259,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubsub.googleapis.com
 0.0.0.0 region1.analytics.google.com
+0.0.0.0 region1.google-analytics.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 reports.doubleclick.com
 0.0.0.0 sa-in-f188.1e100.net
@@ -271,6 +275,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 td.doubleclick.net
 0.0.0.0 tg-in-f188.1e100.net
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tracking.admobsphere.com
@@ -611,9 +616,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.ad.gt
 0.0.0.0 a.powerspace.com
 0.0.0.0 a.pub.network
+0.0.0.0 a.sportradarserving.com
 0.0.0.0 aa-metrics.beauty.hotpepper.jp
 0.0.0.0 aa-metrics.recruit-card.jp
 0.0.0.0 aa-metrics.trip-ai.jp
+0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east-test4.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
@@ -764,6 +771,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 asjmzubrab.com
 0.0.0.0 asrdcifaqaqx.com
 0.0.0.0 aswhanochb.com
+0.0.0.0 at.teads.tv
 0.0.0.0 atcwaqskyvhu.com
 0.0.0.0 atdmt.com
 0.0.0.0 athbzeobts.com
@@ -861,6 +869,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 cs.media.net
 0.0.0.0 cs-rtb.minutemedia-prebid.com
+0.0.0.0 csm.nl3.eu.criteo.net
 0.0.0.0 cubcrinmyqa.com
 0.0.0.0 cuklinadfkib.com
 0.0.0.0 cuxfkivmeodw.com
@@ -873,6 +882,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 dcyqtufkopp.com
+0.0.0.0 de-core.iprom.net
 0.0.0.0 de1-bid.adsrvr.org
 0.0.0.0 deliverlog-api.maio.jp
 0.0.0.0 delivery.adrecover.com
@@ -972,6 +982,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gtpcn1.izatcloud.net
 0.0.0.0 gtssl2-ocsp.geotrust.com
 0.0.0.0 guce.advertising.com
+0.0.0.0 gum.criteo.com
 0.0.0.0 gutobtdagruw.com
 0.0.0.0 gzigudxidz.com
 0.0.0.0 h-sdk.online-metrix.net
@@ -989,6 +1000,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hmeqzicafoqm.com
 0.0.0.0 hrohuvgalga.com
 0.0.0.0 hruxittizqre.com
+0.0.0.0 htlb.casalemedia.com
 0.0.0.0 htubijaqjax.com
 0.0.0.0 hufobkgasob.com
 0.0.0.0 huhozclhufpi.com
@@ -1005,6 +1017,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 ib7cb3y9k.com
 0.0.0.0 ice.360yield.com
 0.0.0.0 ie1-bid.adsrvr.org
+0.0.0.0 image1.pubmatic.com
+0.0.0.0 image2.pubmatic.com
+0.0.0.0 image3.pubmatic.com
+0.0.0.0 image4.pubmatic.com
+0.0.0.0 image5.pubmatic.com
+0.0.0.0 image6.pubmatic.com
+0.0.0.0 image7.pubmatic.com
 0.0.0.0 image8.pubmatic.com
 0.0.0.0 images.adrise.tv
 0.0.0.0 images.parsely.com
@@ -1084,6 +1103,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 maio.jp
 0.0.0.0 makodwasgha.com
 0.0.0.0 mambcaopskfy.com
+0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 match.adsrvr.com
 0.0.0.0 maxadkdcaba.com
 0.0.0.0 mb9eo.publishers.tremorhub.com
@@ -1192,7 +1212,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ouchi.demo1.nend.net
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 output.nend.net
-ovhjisorfa.com
+0.0.0.0 ovhjisorfa.com
 0.0.0.0 ovknunbaca.com
 0.0.0.0 ovmjixfigc.com
 0.0.0.0 ovvacxwcyh.com
@@ -1314,6 +1334,7 @@ ovhjisorfa.com
 0.0.0.0 suxvubxmyjig.com
 0.0.0.0 swoahlzuqwum.com
 0.0.0.0 sync.adotmob.com
+0.0.0.0 sync-eu.connectad.io
 0.0.0.0 sync.srv.stackadapt.com
 0.0.0.0 syndication.twimg.com
 0.0.0.0 syndication.twitter.com
@@ -1338,6 +1359,7 @@ ovhjisorfa.com
 0.0.0.0 tpsc-eu3.doubleverify.com
 0.0.0.0 tpydhykibbz.com
 0.0.0.0 tpytimxupcme.com
+0.0.0.0 tr.blismedia.com
 0.0.0.0 traffic.alexa.com
 0.0.0.0 trowel.twitch.tv
 0.0.0.0 ttejagqfoag.com
@@ -1346,6 +1368,7 @@ ovhjisorfa.com
 0.0.0.0 tutphiarcox.com
 0.0.0.0 twontoofkot.com
 0.0.0.0 u-ams02.e-planning.net
+0.0.0.0 u.openx.net
 0.0.0.0 u9clrgnus.com
 0.0.0.0 ums.acuityplatform.com
 0.0.0.0 unified.adsafeprotected.com
@@ -1359,6 +1382,7 @@ ovhjisorfa.com
 0.0.0.0 viatepigan.com
 0.0.0.0 vid.isprog.com
 0.0.0.0 vid.pubmatic.com
+0.0.0.0 vid.vidoomy.com
 0.0.0.0 videoamp.com
 0.0.0.0 videostep.com
 0.0.0.0 vijcwykceav.com
@@ -1476,18 +1500,22 @@ ovhjisorfa.com
 0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 client.rave-api.com
 0.0.0.0 client-context.hubvisor.io
+0.0.0.0 cm-supply-web.gammaplatform.com
 0.0.0.0 combinatronics.io
+0.0.0.0 config.aps.amazon-adsystem.com
 0.0.0.0 config.ioam.de
 0.0.0.0 contextual.sirdata.io
 0.0.0.0 country.adinplay.workers.dev
 0.0.0.0 creativecdn.com
 0.0.0.0 c-sta.haloapps.com
+0.0.0.0 csync.loopme.me
 0.0.0.0 csync.smilewanted.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 d.reddit.com
 0.0.0.0 d.skimresources.com
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d3orhvfyxudxxq.cloudfront.net
+0.0.0.0 d5p.de17a.com
 0.0.0.0 d9hhrg4mnvzow.cloudfront.net
 0.0.0.0 data00.adlooxtracking.com
 0.0.0.0 de.ioam.de
@@ -1523,6 +1551,7 @@ ovhjisorfa.com
 0.0.0.0 go.ezodn.com
 0.0.0.0 go-mpulse.net
 0.0.0.0 graph.facebook.com
+0.0.0.0 green.erne.co
 0.0.0.0 gvl.ezodn.com
 0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 hlrcv.stage.adobe.com
@@ -1539,6 +1568,7 @@ ovhjisorfa.com
 0.0.0.0 icons.batch.com
 0.0.0.0 id5-sync.com
 0.0.0.0 ident.me
+0.0.0.0 idx.liadm.com
 0.0.0.0 images-ssl.bestbuy.com
 0.0.0.0 img.bbystatic.com
 0.0.0.0 in.appcenter.ms
@@ -1550,6 +1580,7 @@ ovhjisorfa.com
 0.0.0.0 live.staticflickr.com
 0.0.0.0 log-va.tiktokv.com
 0.0.0.0 maps.yandex.com #chad
+0.0.0.0 matching.truffle.bid
 0.0.0.0 mclean.uk.cloud.360safe.com
 0.0.0.0 measure.lamp.avct.cloud
 0.0.0.0 mediavoice.com
@@ -1560,6 +1591,7 @@ ovhjisorfa.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mouseflow.com
+0.0.0.0 mv.outbrain.com
 0.0.0.0 mvconf.uk.cloud.360safe.com
 0.0.0.0 mx00.ionos.es
 0.0.0.0 mx01.ionos.es
@@ -1579,6 +1611,7 @@ ovhjisorfa.com
 0.0.0.0 opera-mini.net
 0.0.0.0 opera.software 
 0.0.0.0 optimizely.com
+0.0.0.0 outbrain-d.openx.net
 0.0.0.0 parsely.com
 0.0.0.0 pbc.hubvisor.io
 0.0.0.0 pbjs.sskzlabs.com
@@ -1614,6 +1647,7 @@ ovhjisorfa.com
 0.0.0.0 sync.ipredictive.com
 0.0.0.0 sync.srv.stackadapt.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 token.rubiconproject.com
 0.0.0.0 tracker.quadran.eu
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tv.springserve.com
@@ -1707,8 +1741,9 @@ ovhjisorfa.com
 0.0.0.0 analytics.pix.fr
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.rayjump.com
-0.0.0.0 analytics.tiktok.come
+0.0.0.0 analytics.tiktok.com
 0.0.0.0 anp.mxptint.net
+0.0.0.0 api-2-0.spot.im
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.fouanalytics.com
 0.0.0.0 api.gameanalytics.com
@@ -1761,8 +1796,10 @@ ovhjisorfa.com
 0.0.0.0 bttrack.com
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 capture.trackjs.com
+0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cdn.intergient.com
 0.0.0.0 cdn.iubenda.com
+0.0.0.0 cdn.lib.getjad.io
 0.0.0.0 cdn.nexx360.io
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.piano.io
@@ -1771,6 +1808,7 @@ ovhjisorfa.com
 0.0.0.0 cdn.snigelweb.com
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 cdn.statically.io
+0.0.0.0 cdn.static.zdbb.net
 0.0.0.0 cdn.trackjs.com
 0.0.0.0 cdn.wazimo.com
 0.0.0.0 certify-js.alexametrics.com
@@ -1811,6 +1849,7 @@ ovhjisorfa.com
 0.0.0.0 data.privacy.ensighten.com
 0.0.0.0 deal24.lv
 0.0.0.0 dig.ultimedia.com
+0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 dmxleo.com
 0.0.0.0 uk-script.dotmetrix.net
 0.0.0.0 dpm.demdex.net
@@ -1836,6 +1875,7 @@ ovhjisorfa.com
 0.0.0.0 events.statsigapi.net
 0.0.0.0 exchange.mediavine.com
 0.0.0.0 fan.twitch.tv
+0.0.0.0 fast.nexx360.io
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastly-insights.net
 0.0.0.0 fdz.flashtalking.com
@@ -1919,6 +1959,7 @@ ovhjisorfa.com
 0.0.0.0 lms.roblox.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 log-upload-os.mihoyo.com
+0.0.0.0 log.xpln.tech
 0.0.0.0 logs.heroku.com
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 log.pinterest.com
@@ -1936,10 +1977,12 @@ ovhjisorfa.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics.ubuntu.com
 0.0.0.0 mobile-campaigns.avast.com
 0.0.0.0 mobile-production.content-square.net
+0.0.0.0 mp.4dex.io
 0.0.0.0 mqtt.pushy.me
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mypic.icu
@@ -1948,6 +1991,7 @@ ovhjisorfa.com
 0.0.0.0 nrs-group.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 o.skimresources.com
+0.0.0.0 openx2-match.dotomi.com
 0.0.0.0 over.net
 0.0.0.0 p.adlooxtracking.com
 0.0.0.0 pantip.com
@@ -1961,12 +2005,13 @@ ovhjisorfa.com
 0.0.0.0 perfalytics.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping.seedtag.com
-0.0.0.0 pixel.mc-complex.com
-0.0.0.0 pixel.onaudience.com
-0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel-eu.mc-complex.com
 0.0.0.0 pixel-eu.onaudience.com
 0.0.0.0 pixel-eu.rubiconproject.com
+0.0.0.0 pixel.inforsea.com
+0.0.0.0 pixel.mc-complex.com
+0.0.0.0 pixel.onaudience.com
+0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pornozot.compad.com
 0.0.0.0 prebid-server.rubiconproject.com
@@ -1981,17 +2026,21 @@ ovhjisorfa.com
 0.0.0.0 region1.app-measurement.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 robwu.nl
+0.0.0.0 rp.liadm.com
+0.0.0.0 rtb.openx.net
 0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 rules.quantcount.com
 0.0.0.0 s.ad.smaato.net
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.salecycle.com
 0.0.0.0 s.seedtag.com
+0.0.0.0 s.vi-serve.com
 0.0.0.0 s1.sportstatics.com
 0.0.0.0 salesforceliveagent.com
 0.0.0.0 sc386.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 scorecardresearch.com
+0.0.0.0 script.4dex.io
 0.0.0.0 script.tapfiliate.com
 0.0.0.0 scroll.com
 0.0.0.0 sdk-diagnostics.prd.mz.internal.unity3d.com
@@ -2036,6 +2085,8 @@ ovhjisorfa.com
 0.0.0.0 t.seedtag.com
 0.0.0.0 tag.1rx.io
 0.0.0.0 tag.aticdn.net
+0.0.0.0 tag.bliink.io
+0.0.0.0 tag.wknd.ai
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.remixd.com
