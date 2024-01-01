@@ -1,3 +1,11 @@
+# Maintenance Announcement
+
+This repository was archived on 2024-01-01 for the final time and will not be synced with the Codeberg origin anymore.
+
+[Learn more](https://r.cyanic.me/answer/hosts/1.html) or [go to the Codeberg repository](https://codeberg.org/Cyanic76/Hosts).
+
+---
+
 <center>
   <img src="assets/banner.png">
   <br>
