@@ -1,6 +1,6 @@
 # Maintenance Announcement
 
-This repository was archived on 2024-01-01 for the final time and will not be synced with the Codeberg origin anymore.
+🔒 This repository was archived on 2024-01-01 for the final time and will not be synced with the Codeberg origin anymore.
 
 [Learn more](https://r.cyanic.me/answer/hosts/1.html) or [go to the Codeberg repository](https://codeberg.org/Cyanic76/Hosts).
 
@@ -15,12 +15,6 @@ This repository was archived on 2024-01-01 for the final time and will not be sy
   <img src="https://img.shields.io/badge/-MIT-333333?style=flat&label=License" alt="MIT License">
   <img src="https://ci.codeberg.org/api/badges/9346/status.svg" alt="Pipeline status">
 </center>
-
-<br><br>
-
-> <b>Maintenance Announcement</b><br>
-> The GitHub mirror repository will be archived on 2024-01-01.<br>
-> <a href="https://r.cyanic.me/answer/hosts/1.html">Learn more</a>
 
 # About
 
